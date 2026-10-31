@@ -68,3 +68,15 @@ APK 内 URL 拦截还应保证未镜像的远程资源不会回退到互联网�
 7. 停止进程后再次打开，保持网络关闭。保存入口、两个站点和交互后的截图，并记录 APK SHA-256、包名和版本。
 
 用户未提供实体设备；模拟器验收可说明 Android 8.1 API 兼容与该虚拟硬件上的显示行为，无法代替目标设备 GPU、内存、屏幕尺寸与厂商 WebView 的实机测试。
+
+## 2026-10-31 验收结果
+
+正式 APK：`OfflineAtlas-1.0.0-android8.1-universal.apk`，245,609,787 字节，SHA-256 `a591f10440d678bae5211a2deebc9187313093359401868371d2cb7686192701`。独立 RSA4096 签名，APK v2 签名校验通过；支持 ARMv7、ARM64、x86_64，minSdk 27。设备运行验收使用同一 Java、内核和网站资源的前一构建（SHA-256 `4403d2f9a38e4793f1c8e5aa165ab35cd3328a7943de466a72e4d77f1b242bd7`），最终构建只调整入口的一句说明文案。最终 APK 全部 296 项网站资源的 SHA-256 与原始抓取字节一致，见 `docs/apk-verification.json`。
+
+API27 / Android 8.1 模拟器在飞行模式且 `Active default network: none` 下，清数据首次启动成功。最终全屏布局覆盖 1280×800，已去掉系统栏留白。默认 GeckoView 140 下，SOCPK 主页、CPU 曲线、INT/FP 切换及芯片筛选显示正常；ModelDial 榜单数据、品牌图、维度/排序、中英切换与图表显示正常。已检查容器返回/前进、刷新/首页、查找、收藏和全屏阅读入口。代表性截图位于 `qa/android-*.png`。验收日志未发现 `OfflineMissing` 或应用崩溃；Gecko 自身离线后台 Remote Settings 报 NetworkError，未影响本地网页运行，原始日志保留在 `qa/android-logcat.txt`。
+
+真实触屏事件通过模拟器 `adb emu event mouse` 注入后，网页点击和上下滑动正常。`adb shell input swipe` 在该旧系统与软件 GPU 配置下偶尔把合成滑动识别为长按并进入文字选择；重新启动进程并改用真实触屏事件后正常，不属于已证明的应用触摸故障。
+
+系统 WebView 实际版本 `61.0.3163.98`，运行 SOCPK 原始 `index-BgBY0hhf.js` 报 `Uncaught SyntaxError: Unexpected token ?` 并黑屏，证明原厂内核不满足现代网页脚本要求。系统内核选项保留供更新版 WebView 尝试，正式默认使用内置 Gecko。旧内核提示截图为 `qa/android-system-webview-warning.png`。
+
+桌面依赖覆盖补验：SOCPK 全部14组图表、157个芯片详情，ModelDial六个维度、图表、搜索及双语都通过，仅从manifest取资源，无在线回退。真实Firefox扩展加不可用远端代理的测试也通过跨域JSON与图片重定向。Android Lint 为0错误、3个预期提示（强制横屏、必需JavaScript与中文UI文本）；GitHub Actions也已完成构建与严格快照校验。
