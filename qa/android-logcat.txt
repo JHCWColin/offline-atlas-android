@@ -1,0 +1,145 @@
+--------- beginning of main
+--------- beginning of system
+10-31 11:51:39.953 D/AndroidRuntime( 3760): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:51:39.987 D/AndroidRuntime( 3760): Calling main entry com.android.commands.input.Input
+10-31 11:51:39.991 D/AndroidRuntime( 3760): Shutting down VM
+10-31 11:51:40.144 D/AndroidRuntime( 3770): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:51:40.185 D/AndroidRuntime( 3770): Calling main entry com.android.commands.uiautomator.Launcher
+10-31 11:51:40.215 I/GeckoConsole( 3726): No chrome package registered for chrome://browser/content/built_in_addons.json
+10-31 11:51:40.415 E/GeckoConsole( 3726): [JavaScript Error: "Remote Settings startup changesets bundle could not be extracted (TypeError: NetworkError: Network request failed)"]
+10-31 11:51:40.462 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.463 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.464 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.464 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.466 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.561 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.650 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.730 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:40.731 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:41.288 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:41.335 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:51:43.036 D/AndroidRuntime( 3770): Shutting down VM
+10-31 11:51:53.140 D/AndroidRuntime( 3996): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:51:53.173 D/AndroidRuntime( 3996): Calling main entry com.android.commands.input.Input
+10-31 11:51:53.794 D/AndroidRuntime( 3996): Shutting down VM
+10-31 11:51:53.923 D/AndroidRuntime( 4006): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:51:53.961 D/AndroidRuntime( 4006): Calling main entry com.android.commands.uiautomator.Launcher
+10-31 11:51:55.062 D/AndroidRuntime( 4006): Shutting down VM
+10-31 11:52:20.118 D/AndroidRuntime( 4031): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:52:20.150 D/AndroidRuntime( 4031): Calling main entry com.android.commands.input.Input
+10-31 11:52:20.158 D/AndroidRuntime( 4031): Shutting down VM
+10-31 11:52:20.261 D/AndroidRuntime( 4041): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:52:20.292 D/AndroidRuntime( 4041): Calling main entry com.android.commands.input.Input
+10-31 11:52:20.374 D/AndroidRuntime( 4041): Shutting down VM
+10-31 11:52:20.477 D/AndroidRuntime( 4051): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:52:20.510 D/AndroidRuntime( 4051): Calling main entry com.android.commands.input.Input
+10-31 11:52:20.514 D/AndroidRuntime( 4051): Shutting down VM
+10-31 11:52:20.618 D/AndroidRuntime( 4061): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:52:20.652 D/AndroidRuntime( 4061): Calling main entry com.android.commands.uiautomator.Launcher
+10-31 11:52:21.754 D/AndroidRuntime( 4061): Shutting down VM
+10-31 11:53:13.565 D/AndroidRuntime( 4100): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:53:13.595 D/AndroidRuntime( 4100): Calling main entry com.android.commands.input.Input
+10-31 11:53:13.696 D/AndroidRuntime( 4100): Shutting down VM
+10-31 11:53:43.822 D/AndroidRuntime( 4131): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:53:43.851 D/AndroidRuntime( 4131): Calling main entry com.android.commands.input.Input
+10-31 11:53:43.854 D/AndroidRuntime( 4131): Shutting down VM
+10-31 11:53:43.965 D/AndroidRuntime( 4141): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:53:43.995 D/AndroidRuntime( 4141): Calling main entry com.android.commands.input.Input
+10-31 11:53:44.000 D/AndroidRuntime( 4141): Shutting down VM
+10-31 11:53:44.145 D/AndroidRuntime( 4162): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:53:44.206 D/AndroidRuntime( 4162): Calling main entry com.android.commands.input.Input
+10-31 11:53:44.275 E/GeckoConsole( 3726): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:53:44.324 D/AndroidRuntime( 4162): Shutting down VM
+10-31 11:54:02.291 D/AndroidRuntime( 4197): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:54:02.324 D/AndroidRuntime( 4197): Calling main entry com.android.commands.input.Input
+10-31 11:54:02.337 D/AndroidRuntime( 4197): Shutting down VM
+10-31 11:54:33.565 I/AndroidRuntime( 3804): VM exiting with result code 0, cleanup skipped.
+10-31 11:54:33.568 I/AndroidRuntime( 3867): VM exiting with result code 0, cleanup skipped.
+10-31 11:54:33.795 D/AndroidRuntime( 4247): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:54:33.838 D/AndroidRuntime( 4247): Calling main entry com.android.commands.input.Input
+10-31 11:54:34.028 D/AndroidRuntime( 4247): Shutting down VM
+10-31 11:54:34.209 I/GeckoConsole( 4233): No chrome package registered for chrome://browser/content/built_in_addons.json
+10-31 11:54:34.210 I/GeckoConsole( 4233): 1793447674210	addons.xpi	WARN	Force scan SCOPE_APPLICATION (app-builtin-addons location missing from XPIStates)
+10-31 11:54:34.294 E/GeckoConsole( 4233): [JavaScript Error: "Remote Settings startup changesets bundle could not be extracted (TypeError: NetworkError: Network request failed)"]
+10-31 11:54:34.306 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:34.308 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:34.309 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:34.310 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:34.312 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:34.313 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:34.503 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:34.539 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:35.013 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:54:35.113 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:55:04.049 D/AndroidRuntime( 4475): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:55:04.096 D/AndroidRuntime( 4475): Calling main entry com.android.commands.input.Input
+10-31 11:55:04.107 D/AndroidRuntime( 4475): Shutting down VM
+10-31 11:55:19.574 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:56:43.921 D/AndroidRuntime( 4536): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:56:43.953 D/AndroidRuntime( 4536): Calling main entry com.android.commands.input.Input
+10-31 11:56:43.956 D/AndroidRuntime( 4536): Shutting down VM
+10-31 11:56:44.065 D/AndroidRuntime( 4546): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:56:44.098 D/AndroidRuntime( 4546): Calling main entry com.android.commands.input.Input
+10-31 11:56:44.103 D/AndroidRuntime( 4546): Shutting down VM
+10-31 11:57:18.655 D/AndroidRuntime( 4576): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:57:18.684 D/AndroidRuntime( 4576): Calling main entry com.android.commands.input.Input
+10-31 11:57:18.693 D/AndroidRuntime( 4576): Shutting down VM
+10-31 11:57:34.772 D/AndroidRuntime( 4587): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:57:34.803 D/AndroidRuntime( 4587): Calling main entry com.android.commands.input.Input
+10-31 11:57:34.806 D/AndroidRuntime( 4587): Shutting down VM
+10-31 11:57:34.980 D/AndroidRuntime( 4602): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:57:35.030 D/AndroidRuntime( 4602): Calling main entry com.android.commands.input.Input
+10-31 11:57:35.033 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 11:57:35.034 D/AndroidRuntime( 4602): Shutting down VM
+10-31 11:58:25.459 D/AndroidRuntime( 4651): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:58:25.506 D/AndroidRuntime( 4651): Calling main entry com.android.commands.input.Input
+10-31 11:58:25.510 D/AndroidRuntime( 4651): Shutting down VM
+10-31 11:58:25.625 D/AndroidRuntime( 4661): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:58:25.660 D/AndroidRuntime( 4661): Calling main entry com.android.commands.input.Input
+10-31 11:58:25.664 D/AndroidRuntime( 4661): Shutting down VM
+10-31 11:58:48.802 D/AndroidRuntime( 4671): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:58:48.840 D/AndroidRuntime( 4671): Calling main entry com.android.commands.input.Input
+10-31 11:58:48.844 D/AndroidRuntime( 4671): Shutting down VM
+10-31 11:59:46.646 D/AndroidRuntime( 4682): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 11:59:46.674 D/AndroidRuntime( 4682): Calling main entry com.android.commands.input.Input
+10-31 11:59:46.678 D/AndroidRuntime( 4682): Shutting down VM
+10-31 11:59:46.749 I/chromium( 4233): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+10-31 11:59:46.939 W/chromium( 4233): [WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+10-31 11:59:47.010 I/chromium( 4703): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+10-31 11:59:47.150 W/chromium( 4703): [WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+10-31 11:59:47.296 E/chromium( 4233): [ERROR:gl_surface_egl.cc(289)] eglChooseConfig failed with error EGL_SUCCESS
+10-31 11:59:47.357 I/chromium( 4233): [INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token ?", source: http://127.0.0.1:18081/assets/index-BgBY0hhf.js (1)
+10-31 12:00:38.208 D/AndroidRuntime( 4761): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:38.240 D/AndroidRuntime( 4761): Calling main entry com.android.commands.input.Input
+10-31 12:00:38.243 D/AndroidRuntime( 4761): Shutting down VM
+10-31 12:00:38.938 D/AndroidRuntime( 4771): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:38.970 D/AndroidRuntime( 4771): Calling main entry com.android.commands.input.Input
+10-31 12:00:38.973 D/AndroidRuntime( 4771): Shutting down VM
+10-31 12:00:39.679 D/AndroidRuntime( 4781): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:39.710 D/AndroidRuntime( 4781): Calling main entry com.android.commands.input.Input
+10-31 12:00:39.714 D/AndroidRuntime( 4781): Shutting down VM
+10-31 12:00:40.416 D/AndroidRuntime( 4791): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:40.447 D/AndroidRuntime( 4791): Calling main entry com.android.commands.input.Input
+10-31 12:00:40.450 D/AndroidRuntime( 4791): Shutting down VM
+10-31 12:00:41.151 D/AndroidRuntime( 4801): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:41.181 D/AndroidRuntime( 4801): Calling main entry com.android.commands.input.Input
+10-31 12:00:41.185 D/AndroidRuntime( 4801): Shutting down VM
+10-31 12:00:41.386 E/GeckoConsole( 4233): [JavaScript Error: "TypeError: NetworkError: Network request failed"]
+10-31 12:00:45.422 D/AndroidRuntime( 4842): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:45.480 D/AndroidRuntime( 4842): Calling main entry com.android.commands.input.Input
+10-31 12:00:45.488 D/AndroidRuntime( 4842): Shutting down VM
+10-31 12:00:48.677 D/AndroidRuntime( 4863): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:48.711 D/AndroidRuntime( 4863): Calling main entry com.android.commands.input.Input
+10-31 12:00:48.718 D/AndroidRuntime( 4863): Shutting down VM
+10-31 12:00:49.512 D/AndroidRuntime( 4883): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:00:49.571 D/AndroidRuntime( 4883): Calling main entry com.android.commands.input.Input
+10-31 12:00:49.650 D/AndroidRuntime( 4883): Shutting down VM
+10-31 12:01:30.518 D/AndroidRuntime( 4904): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:01:30.549 D/AndroidRuntime( 4904): Calling main entry com.android.commands.input.Input
+10-31 12:01:30.552 D/AndroidRuntime( 4904): Shutting down VM
+10-31 12:01:30.707 D/AndroidRuntime( 4916): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:01:30.778 D/AndroidRuntime( 4916): Calling main entry com.android.commands.input.Input
+10-31 12:01:30.782 D/AndroidRuntime( 4916): Shutting down VM
+10-31 12:01:30.949 D/AndroidRuntime( 4926): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+10-31 12:01:30.994 D/AndroidRuntime( 4926): Calling main entry com.android.commands.input.Input
+10-31 12:01:31.005 D/AndroidRuntime( 4926): Shutting down VM
