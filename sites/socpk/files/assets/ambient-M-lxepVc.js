@@ -1,0 +1,1 @@
+import{y as s}from"./index-BgBY0hhf.js";const c={"battery-5.0":{bv:"BV1LR336sEFX",fallbackCover:"/assets/socpics/uploads/1787664783766-eda570ba9237.jpg"}};function i(n,a){const r=n?c[n]:void 0;if(!r)return"";const t=a==null?void 0:a.find(o=>o.bilibili.includes(r.bv));return s((t==null?void 0:t.cover)||r.fallbackCover)}export{i as a};

@@ -1,0 +1,1 @@
+{"schema_version":1,"source":"cloudflare_total_requests","scope":"modeldial.com_zone","counted_from":"2026-09-10T00:00:00.000Z","generated_at":"2026-10-31T11:32:23.679Z","source_minute":"2026-10-31T11:29:00.000Z","playback_start":"2026-10-31T11:32:00.000Z","base_total":7533697,"minute_requests":191,"known_total":7533888,"delay_seconds":180}

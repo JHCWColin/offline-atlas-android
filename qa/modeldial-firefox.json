@@ -1,0 +1,97 @@
+{
+  "engine": "154.0",
+  "initial": {
+    "axes": [
+      "综合",
+      "后端工程",
+      "前端交互",
+      "知识推理",
+      "视觉审美",
+      "可维护性"
+    ],
+    "length": 4621,
+    "title": "雷达榜单 · ModelDial"
+  },
+  "interactions": [
+    {
+      "axis": "综合",
+      "length": 4621,
+      "url": "http://127.0.0.1:18082/radar?axis=overall"
+    },
+    {
+      "axis": "后端工程",
+      "length": 4568,
+      "url": "http://127.0.0.1:18082/radar?axis=backend"
+    },
+    {
+      "axis": "前端交互",
+      "length": 4589,
+      "url": "http://127.0.0.1:18082/radar?axis=frontend"
+    },
+    {
+      "axis": "知识推理",
+      "length": 4581,
+      "url": "http://127.0.0.1:18082/radar?axis=knowledge"
+    },
+    {
+      "axis": "视觉审美",
+      "length": 4199,
+      "url": "http://127.0.0.1:18082/radar?axis=aesthetic"
+    },
+    {
+      "axis": "可维护性",
+      "length": 4192,
+      "url": "http://127.0.0.1:18082/radar?axis=maintainability"
+    }
+  ],
+  "crossOriginFetch": {
+    "data": [
+      {
+        "display_names": {
+          "MiniMax-M3.1-Flash-Preview": "MiniMax-M3.1-Flash-Preview",
+          "anthropic/claude-sonnet-5.5": "claude-sonnet-5-5",
+          "anthropic/haiku-5.5": "claude-haiku-5-5",
+          "deepseek-flash": "deepseek-v4.1-flash-1017",
+          "deepseek-v4.1-flash-expires-on-0910": "deepseek-v4.1-flash",
+          "doubao-seed-2-1-pro-260915": "doubao-seed-2-1-pro",
+          "kimi-for-coding": "k2.8",
+          "meta/muse-wonder": "muse-wonder",
+          "muse-spark-1.3-contributor": "muse-spark-1.3",
+          "nvidia/nemotron-3-ultra-550b-a55b:free": "Nemotron-3-Ultra",
+          "qwen/qwen3.8-27b": "Qwen 3.8 27b",
+          "space-bunny-free": "space-bunny",
+          "step-5-preview": "step-5"
+        },
+        "effort_display_names": {
+          "gemini-4-argon": {
+            "unknown": "high"
+          },
+          "k3.1-pro": {
+            "xhigh": "max"
+          }
+        },
+        "published_at": "2026-10-25T07:15:41.276Z",
+        "revision": 18,
+        "schema_version": 1
+      },
+      {
+        "description": "一起学习 AI，分享实践经验\n交流模型体验与选型",
+        "enabled": true,
+        "expired": false,
+        "expires_at": "2026-11-02T16:00:00.000Z",
+        "image_url": "/community/images/6281c8003294c902f5be99b2a1224a3cbf4010991eed67d37056995b1c77b5cf.png",
+        "revision": 9,
+        "title": "ModelDial 交流群"
+      }
+    ],
+    "ok": true
+  },
+  "actualExtensionRedirects": [
+    "/_remote/https/reference.modeldial.com/community/current.json",
+    "/_remote/https/reference.modeldial.com/community/images/6281c8003294c902f5be99b2a1224a3cbf4010991eed67d37056995b1c77b5cf.png",
+    "/_remote/https/reference.modeldial.com/model-display-names/current.json"
+  ],
+  "missing": [],
+  "externalNetworkBlockedByProxy": true,
+  "passed": true
+}

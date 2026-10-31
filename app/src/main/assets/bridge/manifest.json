@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+  "name": "Offline Atlas resource router",
+  "version": "1.0",
+  "browser_specific_settings": {"gecko": {"id": "offline-router@offlineatlas.local"}},
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background": {"scripts": ["routes.js", "background.js"]}
+}

@@ -1,0 +1,34 @@
+# ModelDial
+
+> ModelDial publishes verified first-party AI model Radar results. Use the compact JSON endpoints for current retrieval and the publication indexes plus linked snapshots for audits.
+
+## Agent data
+
+- [Latest compact Radar](https://modeldial.com/api/v1/radar/latest.json): Current published overall ranking with all three axis scores and weights, plus the backward-compatible backend ranking.
+- [Agent configuration profiles](https://modeldial.com/api/v1/radar/agent-profile.json): Advisory balanced, quality, and value assignments for main-agent and worker-agent roles, derived from publisher decision tags.
+- [Latest protocol-aware changes](https://modeldial.com/api/v1/radar/changes.json): Backend rank, score, elapsed-time, and recommendation changes between the latest publication and its nearest earlier protocol-compatible publication; this is not overall-ranking history, and reference-cost deltas require a matching pricing snapshot.
+- [Backend & Testing publication index](https://modeldial.com/api/v1/radar/index.json): Backend batch IDs, publication times, protocol identity, hashes, and complete snapshot links.
+- [Capability publication index](https://modeldial.com/data/benchmark-snapshots/index.json): Latest verified batch identity and archive link for each capability and the weighted overall ranking.
+- [Complete Backend & Testing snapshot](https://modeldial.com/data/reference-snapshots/latest.json): Validated Backend & Testing publication with question-level and provenance fields.
+- [OpenAPI document](https://modeldial.com/openapi-v1.json): Machine-readable schema for the compact endpoints.
+
+## Reading rules
+
+- Use overallRankings as the default current ranking. Use rankings only for the backend axis. Preserve publisher order in either array.
+- The overall ranking combines the latest verified result from each capability. Its three source publications may have different batch IDs and publication times.
+- Agent profiles project independently evaluated configurations across the latest published axis results. They are not paired-agent benchmarks and do not authorize automatic configuration changes.
+- Treat changes as comparable only when the changes endpoint returns comparison.comparable=true. A single score drop is a signal, not proof that a provider changed a model.
+- Explain a reference-cost delta only when comparison.costComparable=true; otherwise treat the cost delta as unavailable without discarding comparable rank, score, or elapsed-time changes.
+- publishedAt is the verified publication time in UTC, not the evaluation start time.
+- estimatedReferenceCostUsd is an estimate for the controlled batch, not a user bill.
+- Detect overall updates by overallBatch.id and backend updates by batch.id. New models are evaluated promptly after release; existing results are retained without a routine retesting schedule. Fetch on demand and respect cache headers; a data update is not evidence of a new evaluation for every configuration.
+
+## Human documentation
+
+- [Agent guide](https://modeldial.com/agent)
+- [ModelDial Skill](https://modeldial.com/modeldial-skill/SKILL.md)
+- [Public Radar](https://modeldial.com/radar)
+- [Evaluation method](https://modeldial.com/method)
+- [Data license](https://modeldial.com/data-license)
+
+The published Radar dataset is licensed under CC BY 4.0. Attribute ModelDial and identify the batch when practical.

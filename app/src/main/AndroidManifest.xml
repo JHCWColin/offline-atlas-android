@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <application android:theme="@style/AppTheme" android:label="离线网页馆"
+        android:icon="@drawable/ic_launcher" android:allowBackup="false"
+        android:usesCleartextTraffic="true" android:hardwareAccelerated="true"
+        android:supportsRtl="true">
+        <activity android:name=".MainActivity" android:screenOrientation="sensorLandscape"
+            android:configChanges="orientation|screenSize|keyboardHidden" android:exported="true">
+            <intent-filter><action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" /></intent-filter>
+        </activity>
+    </application>
+</manifest>

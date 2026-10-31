@@ -1,0 +1,14 @@
+* text=auto
+*.gradle text eol=lf
+*.java text eol=lf
+*.py text eol=lf
+*.cjs text eol=lf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+# Captured response bytes must survive every clone unchanged.
+sites/** -text
+app/src/main/assets/notices/** -text
+*.png -text
+*.jpg -text
+*.woff2 -text
+*.jar -text

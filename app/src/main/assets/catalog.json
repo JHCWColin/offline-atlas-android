@@ -1,0 +1,4 @@
+[
+  {"id":"socpk","title":"SOCPK","subtitle":"极客湾 · 手机芯片效能榜","description":"性能、能效与芯片数据 · 完整公开图表快照","color":"#3F9DF8","port":18081},
+  {"id":"modeldial","title":"ModelDial","subtitle":"大模型评测 · 排行榜","description":"排行榜、图表与维度筛选 · 中英双语","color":"#9B8AFF","port":18082}
+]

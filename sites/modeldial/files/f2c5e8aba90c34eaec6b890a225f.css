@@ -1,0 +1,123 @@
+.overview-root .model-name strong,
+.overview-root .overview-rank-model strong {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 4px 8px;
+}
+
+.overview-root .model-name strong > .model-result-link {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.overview-root .model-name-tags {
+  display: none;
+  align-items: center;
+  gap: 6px;
+  flex: 0 0 auto;
+}
+
+.overview-root .model-name-tags:has(> :not([hidden])) {
+  display: inline-flex;
+}
+
+.overview-root .model-status-tags {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex: 0 0 auto;
+}
+
+.overview-root .model-status-tags:empty {
+  display: none;
+}
+
+.overview-root .product-bot-badge,
+.overview-root .model-status-badge,
+.overview-root .model-name strong .model-new-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  height: 20px;
+  margin: 0;
+  padding: 0 5px;
+  border: 1px solid #e5e8ef;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.overview-root .product-bot-badge {
+  gap: 3px;
+  background: #f5f6f8;
+  color: #687080;
+}
+
+.overview-root .product-bot-badge svg {
+  width: 12px;
+  height: 12px;
+  flex: none;
+}
+
+.overview-root .model-status-badge {
+  background: #eef1f8;
+  color: #637395;
+}
+
+.overview-root .highlight-identity .model-name {
+  flex: 1;
+}
+
+@media (max-width: 760px) {
+  .overview-root .model-name strong {
+    flex-wrap: wrap;
+  }
+
+  .overview-root .model-name strong > .model-result-link {
+    flex-shrink: 0;
+  }
+
+  .overview-root .highlight-identity .model-name strong {
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 6px;
+  }
+
+  .overview-root .highlight-identity .model-status-tags {
+    flex-basis: 100%;
+  }
+
+  .overview-root .radar-table .model-name strong {
+    align-items: center;
+    column-gap: 6px;
+  }
+
+  .overview-root .radar-table .model-name-tags {
+    margin-block-start: 0;
+  }
+
+  .overview-root .product-bot-badge,
+  .overview-root .model-status-badge,
+  .overview-root .model-name strong .model-new-badge {
+    height: 18px;
+    padding-inline: 4px;
+    font-size: 10px;
+  }
+}
+
+.overview-root .configuration-choice .effort-value {
+  color: var(--muted);
+  font: 12px/1.5 var(--sans);
+  padding-block: 5px;
+}
+
+.overview-root .comparison-evidence h4 {
+  margin: 8px 0;
+  font-size: 12px;
+  font-weight: 500;
+}

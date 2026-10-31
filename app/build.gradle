@@ -1,0 +1,53 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.offlineatlas.browser'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.offlineatlas.browser'
+        minSdk 27
+        targetSdk 28
+        versionCode 1
+        versionName '1.0.0'
+        ndk { abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86_64' }
+    }
+    signingConfigs {
+        release {
+            storeFile file(System.getenv('ATLAS_KEYSTORE') ?: '../signing/release.jks')
+            storePassword System.getenv('ATLAS_STORE_PASSWORD') ?: 'offline-atlas-2026'
+            keyAlias 'offline-atlas'
+            keyPassword System.getenv('ATLAS_KEY_PASSWORD') ?: 'offline-atlas-2026'
+        }
+    }
+    buildTypes {
+        release {
+            signingConfig (file(System.getenv('ATLAS_KEYSTORE') ?: '../signing/release.jks').exists() ? signingConfigs.release : signingConfigs.debug)
+            minifyEnabled false
+        }
+    }
+    sourceSets.main.assets.srcDirs = ['src/main/assets', "$buildDir/generated/offlineAssets"]
+    compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+    packaging { jniLibs { useLegacyPackaging = true } }
+}
+
+tasks.register('syncOfflineSites', Sync) {
+    from '../sites'
+    into "$buildDir/generated/offlineAssets/sites"
+    exclude '**/audit*', '**/report*', '**/README*', '**/sources/**', '**/linked-video-metadata/**', '**/external-audit.json'
+    doLast {
+        def parser = new groovy.json.JsonSlurper()
+        def hosts = [:]
+        parser.parse(file('src/main/assets/catalog.json')).each { card ->
+            def manifest = parser.parse(file("../sites/${card.id}/manifest.json"))
+            manifest.entries.each { entry -> hosts[new URI(entry.url).host] = card.port }
+        }
+        def bridge = file("$buildDir/generated/offlineAssets/bridge")
+        bridge.mkdirs()
+        new File(bridge, 'routes.js').text = 'const OFFLINE_HOSTS = ' + groovy.json.JsonOutput.toJson(hosts) + ';\n'
+    }
+}
+tasks.named('preBuild').configure { dependsOn 'syncOfflineSites' }
+
+dependencies {
+    implementation 'org.mozilla.geckoview:geckoview:140.0.20250707120347'
+}

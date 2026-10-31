@@ -1,0 +1,2034 @@
+{
+  "sites": [
+    {
+      "site": "modeldial",
+      "manifest": "sites\\modeldial\\manifest.json",
+      "entries": 106,
+      "uniqueFiles": 106,
+      "bytes": 13281220,
+      "coveredStaticUrls": 79,
+      "errors": [],
+      "missingRuntime": [],
+      "missingNavigation": [
+        {
+          "kind": "navigation",
+          "url": "https://arena.modeldial.com/",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/en/radar",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "sources": [
+            "https://modeldial.com/data-license"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/agent",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/compare",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/compare/glm-5-3-high-vs-max",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/compare/gpt-6-1-sol-vs-claude-opus-5-5",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/compare/gpt-6-1-sol-vs-gpt-6-sol",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/contact",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/datasets",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/agent",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/compare",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/compare/glm-5-3-high-vs-max",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/compare/gpt-6-1-sol-vs-claude-opus-5-5",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/compare/gpt-6-1-sol-vs-gpt-6-sol",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/contact",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/data-license",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/datasets",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/guides",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/method",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/model-detector",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/MiniMax-M3.1-Flash-Preview?config=MiniMax-M3.1-Flash-Preview%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/MiniMax-M3.1-Flash?config=MiniMax-M3.1-Flash%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/MiniMax-M3?config=MiniMax-M3%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/anthropic%2Fclaude-sonnet-5.5?config=anthropic%2Fclaude-sonnet-5.5%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/anthropic%2Fhaiku-5.5?config=anthropic%2Fhaiku-5.5%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/claude-fable-5-1?config=claude-fable-5-1%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/claude-opus-4-8?config=claude-opus-4-8%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/claude-opus-5-5?config=claude-opus-5-5%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/claude-opus-5?config=claude-opus-5%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/deepseek-flash?config=deepseek-flash%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/deepseek-v4-flash-vision-exp?config=deepseek-v4-flash-vision-exp%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/deepseek-v4-flash?config=deepseek-v4-flash%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/deepseek-v4-pro?config=deepseek-v4-pro%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/deepseek-v4.1-flash-expires-on-0910?config=deepseek-v4.1-flash-expires-on-0910%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/doubao-seed-2-1-pro-260915?config=doubao-seed-2-1-pro-260915%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gemini-3.7-flash-high?config=gemini-3.7-flash-high%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gemini-3.8-flash-high?config=gemini-3.8-flash-high%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/glm-5.3-flash?config=glm-5.3-flash%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/glm-5.3?config=glm-5.3%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-5.6-luna?config=gpt-5.6-luna%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-5.6-sol?config=gpt-5.6-sol%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-5.6-terra?config=gpt-5.6-terra%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-6-astra?config=gpt-6-astra%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-6-luna?config=gpt-6-luna%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-6-sol?config=gpt-6-sol%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-6.1-sol?config=gpt-6.1-sol%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/gpt-6.1-terra?config=gpt-6.1-terra%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/grok-4.6?config=grok-4.6%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/grok-4.7?config=grok-4.7%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/hy4-preview?config=hy4-preview%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/k3.1-pro?config=k3.1-pro%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/k3?config=k3%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/kimi-for-coding?config=kimi-for-coding%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/meta%2Fmuse-wonder?config=meta%2Fmuse-wonder%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/mimo-v2.6-flash?config=mimo-v2.6-flash%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/mimo-v2.6-pro?config=mimo-v2.6-pro%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/muse-spark-1.3-contributor?config=muse-spark-1.3-contributor%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/nvidia%2Fnemotron-3-ultra-550b-a55b%3Afree?config=nvidia%2Fnemotron-3-ultra-550b-a55b%3Afree%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/qwen%2Fqwen3.8-27b?config=qwen%2Fqwen3.8-27b%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/qwen3.8-flash?config=qwen3.8-flash%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/qwen3.8-max?config=qwen3.8-max%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/space-bunny-free?config=space-bunny-free%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/models/step-5-preview?config=step-5-preview%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/radar?axis=overall&highlight=gemini-4-argon&expanded=gemini-4-argon",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/subscriptions",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/en/subscriptions?period=week&ranking=axis%3Doverall",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/guides",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/method",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/model-detector",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/MiniMax-M3.1-Flash-Preview?config=MiniMax-M3.1-Flash-Preview%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/MiniMax-M3.1-Flash?config=MiniMax-M3.1-Flash%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/MiniMax-M3?config=MiniMax-M3%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/anthropic%2Fclaude-sonnet-5.5?config=anthropic%2Fclaude-sonnet-5.5%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/anthropic%2Fhaiku-5.5?config=anthropic%2Fhaiku-5.5%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/claude-fable-5-1?config=claude-fable-5-1%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/claude-opus-4-8?config=claude-opus-4-8%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/claude-opus-5-5?config=claude-opus-5-5%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/claude-opus-5?config=claude-opus-5%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/deepseek-flash?config=deepseek-flash%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/deepseek-v4-flash-vision-exp?config=deepseek-v4-flash-vision-exp%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/deepseek-v4-flash?config=deepseek-v4-flash%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/deepseek-v4-pro?config=deepseek-v4-pro%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/deepseek-v4.1-flash-expires-on-0910?config=deepseek-v4.1-flash-expires-on-0910%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/doubao-seed-2-1-pro-260915?config=doubao-seed-2-1-pro-260915%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gemini-3.7-flash-high?config=gemini-3.7-flash-high%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gemini-3.8-flash-high?config=gemini-3.8-flash-high%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/glm-5.3-flash?config=glm-5.3-flash%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/glm-5.3?config=glm-5.3%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-5.6-luna?config=gpt-5.6-luna%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-5.6-sol?config=gpt-5.6-sol%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-5.6-terra?config=gpt-5.6-terra%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-6-astra?config=gpt-6-astra%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-6-luna?config=gpt-6-luna%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-6-sol?config=gpt-6-sol%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-6.1-sol?config=gpt-6.1-sol%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/gpt-6.1-terra?config=gpt-6.1-terra%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/grok-4.6?config=grok-4.6%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/grok-4.7?config=grok-4.7%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/hy4-preview?config=hy4-preview%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/k3.1-pro?config=k3.1-pro%7Exhigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/k3?config=k3%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/kimi-for-coding?config=kimi-for-coding%7Ehigh&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/meta%2Fmuse-wonder?config=meta%2Fmuse-wonder%7Emax&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/mimo-v2.6-flash?config=mimo-v2.6-flash%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/mimo-v2.6-pro?config=mimo-v2.6-pro%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/muse-spark-1.3-contributor?config=muse-spark-1.3-contributor%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/nvidia%2Fnemotron-3-ultra-550b-a55b%3Afree?config=nvidia%2Fnemotron-3-ultra-550b-a55b%3Afree%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/qwen%2Fqwen3.8-27b?config=qwen%2Fqwen3.8-27b%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/qwen3.8-flash?config=qwen3.8-flash%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/qwen3.8-max?config=qwen3.8-max%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/space-bunny-free?config=space-bunny-free%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/models/step-5-preview?config=step-5-preview%7Edefault&axis=overall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/radar?axis=overall&highlight=gemini-4-argon&expanded=gemini-4-argon",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/subscriptions",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://modeldial.com/subscriptions?period=week&ranking=axis%3Doverall",
+          "sources": [
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "navigation",
+          "url": "https://policies.google.com/technologies/partner-sites",
+          "sources": [
+            "https://modeldial.com/data-license"
+          ]
+        }
+      ],
+      "unresolvedCandidates": [
+        {
+          "kind": "candidate",
+          "url": "http://n/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/434uqaej0s3tu.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "http://www.w3.org/1998/Math/MathML",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/434uqaej0s3tu.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "http://www.w3.org/1999/xlink",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/434uqaej0s3tu.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "http://www.w3.org/2000/svg",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/434uqaej0s3tu.js",
+            "https://modeldial.com/_next/static/chunks/44gdqgu2sidyq.js",
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/en/radar",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "http://www.w3.org/XML/1998/namespace",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/434uqaej0s3tu.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://a/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://a/c%20d?a=1&c=3",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://a@b/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://alldonesites.com/claude-usage-tracker/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://arena.modeldial.com/",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/en/radar",
+            "https://modeldial.com/google-analytics.74d2b902d2ce.js",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://ark.cn-beijing.volces.com/api/plan/v3/responses",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-1",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-haiku-5-5-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-opus-4-8",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-luna",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-luna-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-luna-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-sol",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-low",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-medium",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-terra",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-terra-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-terra-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-1-sol",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-1-sol-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-1-sol-low",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-1-sol-medium",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-astra",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-astra-low",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-astra-medium",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-luna",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-luna-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-luna-low",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-sol",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-sol-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/gpt-6-sol-low",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/grok-4-6",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/grok-4-6-xhigh",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/grok-4-7",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/grok-4-7-high",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/mimo-v2-6-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/minimax-m3",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/muse-wonder",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/nvidia-nemotron-3-ultra-550b-a55b",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/releases/deepseek-v4-pro",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/releases/gemini-3-8-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://artificialanalysis.ai/models/step-5",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://arxiv.org/abs/2602.16763",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://chatgpt.com/codex/pricing/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://chatgpt.com/pricing/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://claude.com/pricing",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://cloud.tencent.cn/act/pro/tokenplan",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://cloud.tencent.com/document/product/1823/130060",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://codex-quota.manetli.com/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://codex-quota.manetli.com/data/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/en/radar",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://discuss.ai.google.dev/t/estimating-included-quota-in-google-ai-pro/183629",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/token-plan-personal-faq",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/token-plan-personal-overview",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://docs.z.ai/devpack/overview",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://docs.z.ai/guides/overview/pricing",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://finopsllm.com/research/claude-max-vs-chatgpt-pro-codex-200",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://finopsllm.com/research/claude-pro-max-tokens-limit",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://finopsllm.com/research/codex-usage-limits-chatgpt-pro",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://freebuff.com/latency",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://geminicli.com/docs/resources/quota-and-pricing/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://github.com/openai/codex/issues/43222",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://github.com/openai/codex/issues/43731",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://github.com/zloirock/core-js",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://github.com/zloirock/core-js/blob/v3.38.1/LICENSE",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://help.aliyun.com/zh/model-studio/coding-plan",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://intl.cloud.tencent.com/document/product/1300/81315",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://labs.scale.com/leaderboard/mask",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2615396",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2837349",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2885763/1",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2941739",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2942313",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2951463/5",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2951463/9",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2955948",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2955948/15",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://linux.do/t/topic/2956728",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://livebench.ai/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://llmlatency.dev/coding-agents",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://mimo.mi.com/docs/zh-CN/tokenplan",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://modeldial.com/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js",
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js",
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/en/radar",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://modeldial.com/agent",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://modeldial.com/en/data-license",
+          "sources": [
+            "https://modeldial.com/data-license"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://modeldial.com/en/method",
+          "sources": [
+            "https://modeldial.com/en/radar"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://modeldial.com/guides",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://modeldial.com/method",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://modeldial.com/radar?show=picker",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://one.google.com/about/google-ai-plans/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/anthropic/claude-opus-4.8",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/docs/guides/routing/provider-selection",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/google/gemini-3.7-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/meta/muse-wonder",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/minimax/minimax-m3.1-flash:free",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/moonshotai/kimi-k3",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/openai/gpt-6-luna",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/openai/gpt-6-sol",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/openai/gpt-6.1-terra?reasoningEffort=max",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/qwen/qwen3.8-27b",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/qwen/qwen3.8-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/tencent/hy4-preview",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/z-ai/glm-5.3",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://platform.minimax.cn/subscribe/token-plan",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://platform.minimax.io/docs/guides/pricing-token-plan",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://platform.stepfun.ai/step-plan",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://policies.google.com/technologies/partner-sites",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/google-analytics.74d2b902d2ce.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://react.dev/errors/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/2hbdid8j3qoom.js",
+            "https://modeldial.com/_next/static/chunks/2i51e627rllld.js",
+            "https://modeldial.com/_next/static/chunks/434uqaej0s3tu.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://schema.org/",
+          "sources": [
+            "https://modeldial.com/data-license",
+            "https://modeldial.com/en/radar",
+            "https://modeldial.com/radar"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://techiesnote.com/blog/kimi-membership-pricing/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://velqa.ma/en/models/qwen3-8-max",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.allagent.wiki/blog/kimi-membership-tier-migration/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.googletagmanager.com/gtag/js?id=",
+          "sources": [
+            "https://modeldial.com/google-analytics.74d2b902d2ce.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.kimi.com/en/help/membership/membership-overview",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.reddit.com/r/DeepSeek/comments/1x55ztd/deepseek_41_flash_only_hitting_87_toks_on/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.reddit.com/r/MiniMax_AI/comments/1wrszoc/minimax_31_flash/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.reddit.com/r/codex/comments/1wp0v6x/allowance_for_gpt_6_luna_sol_and_astra_measured/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.reddit.com/r/codex/comments/1wtlkg6/gpt_61_brought_another_nerf_to_usage_table_update/?sort=new",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.reddit.com/r/codex/comments/1x4yte1/gpt61_sol_is_46x_slower_than_gpt56_sol_are_we/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.reddit.com/r/kimi/comments/1wqjghr/i_just_measured_kimi_quota_for_coding_on/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.remakebench.com/capacity/plans/supergrok-heavy",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://www.woshipm.com/evaluating/6472683.html",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.ai/pricing",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.com/MiaAI_lab/status/2103862565097066875",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.com/jordan_ligren/status/2100330708799836510",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.com/riba2534/status/2103363198997180859",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.com/theo/status/2104079585956761814",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.com/theo/status/2104683186215363058",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x.com/xirong610/status/2104209696098025709",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://x/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://zenmux.ai/moonshotai/kimi-k2.8-preview",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://zenn.dev/kimuson/articles/compare-ai-subscription-20260818",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js"
+          ]
+        },
+        {
+          "kind": "candidate",
+          "url": "https://тест/",
+          "sources": [
+            "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js"
+          ]
+        }
+      ],
+      "unmirroredMetadata": [
+        {
+          "kind": "metadata",
+          "url": "https://modeldial.com/en/data-license",
+          "sources": [
+            "https://modeldial.com/data-license"
+          ]
+        }
+      ],
+      "limitation": "Static references only; exercise dynamic URLs in the offline APK and inspect its request log."
+    }
+  ]
+}

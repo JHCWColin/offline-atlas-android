@@ -1,0 +1,14 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+artifacts/
+__pycache__/
+*.pyc
+.idea/
+*.iml
+tools/.cache/
+scratch*/
+signing/
+qa/geckodriver.log

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="ModelDial">
+  <style>@media (prefers-color-scheme:dark){#symbol{fill:#FFFFFF}}</style>
+  <title>ModelDial</title>
+  <desc>ModelDial B1 optical small-size symbol for 32px. Simplified closed vector paths with transparent background.</desc>
+  <g id="symbol" fill="#171B24" fill-rule="nonzero" transform="translate(1 5.9) scale(0.1271186441 0.1402777778)">
+    <path id="micro-left" d="M68 50C60 61 56 77 56 92V116C56 136 38 144 12 144C4 144 0 142 0 134V92C0 73 10 60 24 52C36 45 54 43 68 50Z" />
+    <path id="micro-middle" d="M79 41C104 20 138 5 155 31C160 40 160 51 160 63V104C160 127 149 137 134 137C119 137 108 124 108 107V66C108 49 96 39 79 41Z" />
+    <path id="micro-right" d="M146 143C169 129 181 110 181 86V57C181 33 188 15 211 5C222 0.5 236 -3 236 9V58C236 101 205 136 166 143C158 144 152 144 146 143Z" />
+  </g>
+</svg>

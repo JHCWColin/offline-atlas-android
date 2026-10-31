@@ -1,0 +1,2781 @@
+{
+  "siteId": "socpk",
+  "title": "SOCPK",
+  "entryUrl": "https://www.socpk.com/",
+  "capturedAt": "2026-10-31T11:39:53.725424+00:00",
+  "hostAliases": [
+    "socpk.com",
+    "www.socpk.com"
+  ],
+  "spaFallback": "files/index.html",
+  "ignoreCacheBustQuery": true,
+  "spaRoutes": [
+    "/",
+    "/category/",
+    "/chart/",
+    "/chips",
+    "/admin"
+  ],
+  "entries": [
+    {
+      "url": "https://www.socpk.com/",
+      "path": "files/index.html",
+      "contentType": "text/html; charset=utf-8",
+      "status": 200,
+      "sha256": "9108df8eacc292ebef936228ed4c802d4e62a272b0c26488d7fff84b98ad66d0",
+      "bytes": 565,
+      "finalUrl": "https://www.socpk.com/",
+      "fetchedAt": "2026-10-31T11:31:29.651959+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-235\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/chips",
+      "path": "files/api/chips.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "dc2bc0874e0246e73aa9757bb981e27aa8a288ecc90bdd9f7e3d8a3462be0345",
+      "bytes": 89234,
+      "finalUrl": "https://www.socpk.com/api/chips",
+      "fetchedAt": "2026-10-31T11:31:29.668805+00:00",
+      "headers": {
+        "ETag": "\"020626e4bb8cdf10413e11c24371b70bac68ff80\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/3dmark-wle",
+      "path": "files/api/pages/3dmark-wle.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "56e2fe49732bc077ded0fd97c56235d97d0483bf8e6d89b5447d81c2f45bde0e",
+      "bytes": 7543,
+      "finalUrl": "https://www.socpk.com/api/pages/3dmark-wle",
+      "fetchedAt": "2026-10-31T11:31:34.904606+00:00",
+      "headers": {
+        "ETag": "\"a12884a99a2080de2a12cb34c61fec3b6afb6de1\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/3dmark-wle/data",
+      "path": "files/api/pages/3dmark-wle/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "84d718d4263800619351c572dd66f786c4dfd93af2afbe310743dec28d353fcc",
+      "bytes": 2999,
+      "finalUrl": "https://www.socpk.com/api/pages/3dmark-wle/data",
+      "fetchedAt": "2026-10-31T11:31:35.008737+00:00",
+      "headers": {
+        "ETag": "\"2145fa3328f4baef85ed3056aa5a0fdd50101a69\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/battery-life-5-0",
+      "path": "files/api/pages/battery-life-5-0.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "a4819aa1129163fa5f2ab6f11a620752d508b1e8f447647f33ad18df5b0603aa",
+      "bytes": 16504,
+      "finalUrl": "https://www.socpk.com/api/pages/battery-life-5-0",
+      "fetchedAt": "2026-10-31T11:31:40.189133+00:00",
+      "headers": {
+        "ETag": "\"27f38fdcb0449eb506d651af286c16ea02e2212b\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/battery-life-5-0/data",
+      "path": "files/api/pages/battery-life-5-0/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "8d92609883f7246e156c61c2e6b6165bf5389531dd3f4f4946f4d05e16f31dc1",
+      "bytes": 2927,
+      "finalUrl": "https://www.socpk.com/api/pages/battery-life-5-0/data",
+      "fetchedAt": "2026-10-31T11:31:40.133023+00:00",
+      "headers": {
+        "ETag": "\"c4934001ed3feeb4a7852293076e6c2d11cfa9ae\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/charge-curves",
+      "path": "files/api/pages/charge-curves.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "8c2dcce70569c812a3cacb1ea7b47e169b8996743afba71d3706304ccaa336ad",
+      "bytes": 18724,
+      "finalUrl": "https://www.socpk.com/api/pages/charge-curves",
+      "fetchedAt": "2026-10-31T11:31:40.165580+00:00",
+      "headers": {
+        "ETag": "\"bf7b54dad1079c5ade586f3ba66edb1b8f534d31\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/charge-curves/data",
+      "path": "files/api/pages/charge-curves/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "ed5a4610792953862b7e1918338a0189c363e067364393558312d1542498f4a9",
+      "bytes": 784155,
+      "finalUrl": "https://www.socpk.com/api/pages/charge-curves/data",
+      "fetchedAt": "2026-10-31T11:31:40.429851+00:00",
+      "headers": {
+        "ETag": "\"11c7262879bbeaf246324ee48222306dd908e9b7\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-cpu",
+      "path": "files/api/pages/chip-cpu.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "f07b110f148328642dc95b01b99f301b67dbb58f745c753940415b1761369b4b",
+      "bytes": 14017,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-cpu",
+      "fetchedAt": "2026-10-31T11:31:40.267246+00:00",
+      "headers": {
+        "ETag": "\"b0ad1e2493124fa07130b28e06b0918b200bd564\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-cpu-efficiency",
+      "path": "files/api/pages/chip-cpu-efficiency.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "277a9e4db2408a24f2bddf4e5011e6e5375f6100c8fa9eb0a4dc0c2bd9883666",
+      "bytes": 5047,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-cpu-efficiency",
+      "fetchedAt": "2026-10-31T11:31:40.200684+00:00",
+      "headers": {
+        "ETag": "\"0dca6b99277b5ffdf7fe3e8f5c15ef1314106031\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-cpu-efficiency/data",
+      "path": "files/api/pages/chip-cpu-efficiency/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "0ddc766ca087b93476302c2da2bd6d3fac19159b93d46cc0941489e6a4c0f428",
+      "bytes": 1883,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-cpu-efficiency/data",
+      "fetchedAt": "2026-10-31T11:31:45.892721+00:00",
+      "headers": {
+        "ETag": "\"dd9997d3422ca467680c0facfdeec8fdb3bf1e00\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-cpu/data",
+      "path": "files/api/pages/chip-cpu/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "8328f5481d6fcc322b4ea90a5f475075f5333afb1ba91afed59dfb0f46dbde8c",
+      "bytes": 5703,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-cpu/data",
+      "fetchedAt": "2026-10-31T11:31:45.868642+00:00",
+      "headers": {
+        "ETag": "\"eee9943fd2ffcaf2d61d796057ff48c72741ec24\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-gpu",
+      "path": "files/api/pages/chip-gpu.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "ec51e9b49a6d8ddccf8b65f9a88c9777c0a9d1c575ce745d70f86cffcfff8e40",
+      "bytes": 14295,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-gpu",
+      "fetchedAt": "2026-10-31T11:31:45.882074+00:00",
+      "headers": {
+        "ETag": "\"c14e2f48bcd86c2748b1ca876e3109d55b10fb6a\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-gpu/data",
+      "path": "files/api/pages/chip-gpu/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "5d4ae0b072a8877f094718dd117efa69ac8216bf37bec3cb7a013365a04ec5b5",
+      "bytes": 5715,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-gpu/data",
+      "fetchedAt": "2026-10-31T11:31:45.864319+00:00",
+      "headers": {
+        "ETag": "\"8325f82721ddd07644fa78a7cd7b2e0801119bed\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-overall",
+      "path": "files/api/pages/chip-overall.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "96eeb9099f2426dfb5c326ace4118891ca1983a836f6ca2c6cc1f969e1f43cda",
+      "bytes": 14161,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-overall",
+      "fetchedAt": "2026-10-31T11:31:45.891170+00:00",
+      "headers": {
+        "ETag": "\"ea2540498e9925437752239330975b796ee5e197\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/chip-overall/data",
+      "path": "files/api/pages/chip-overall/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "e1761b5e552703d21f732f84f3ba1afccf690e6c038795f79bf8cde14960e754",
+      "bytes": 5719,
+      "finalUrl": "https://www.socpk.com/api/pages/chip-overall/data",
+      "fetchedAt": "2026-10-31T11:31:45.527849+00:00",
+      "headers": {
+        "ETag": "\"d09c64ca88e6b3e8cc1988975b59e3118a016f87\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/geekbench-5",
+      "path": "files/api/pages/geekbench-5.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "93d80f99cd789c4f0b813b5df444fd281a5ea98a60772256068a11feb8b55119",
+      "bytes": 13181,
+      "finalUrl": "https://www.socpk.com/api/pages/geekbench-5",
+      "fetchedAt": "2026-10-31T11:31:50.839022+00:00",
+      "headers": {
+        "ETag": "\"3eae4019fd8f750874ae7ad953e57503edc7ffae\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/geekbench-5/data",
+      "path": "files/api/pages/geekbench-5/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "b42b0144ec64ab72712f6ae741ef7c154333e4078ca45c59dd63c7e03727f28d",
+      "bytes": 5927,
+      "finalUrl": "https://www.socpk.com/api/pages/geekbench-5/data",
+      "fetchedAt": "2026-10-31T11:31:50.839022+00:00",
+      "headers": {
+        "ETag": "\"5cfd851bf59cb0088f3d429a16eb55ea3043e186\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/geekbench-6",
+      "path": "files/api/pages/geekbench-6.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "ebc6ce04b9778648c4ba853e8aa0c97914ccc95c8911cf0041dd341cc0d00078",
+      "bytes": 7539,
+      "finalUrl": "https://www.socpk.com/api/pages/geekbench-6",
+      "fetchedAt": "2026-10-31T11:31:50.919939+00:00",
+      "headers": {
+        "ETag": "\"5747c77b427958671dd3396e18e2f9b5da7b0a45\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/geekbench-6/data",
+      "path": "files/api/pages/geekbench-6/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "52a00f86d9c0e4680daf59f6b09a8219442f8a3978e67f80f565a37a1b428967",
+      "bytes": 3327,
+      "finalUrl": "https://www.socpk.com/api/pages/geekbench-6/data",
+      "fetchedAt": "2026-10-31T11:31:50.890466+00:00",
+      "headers": {
+        "ETag": "\"7c7e4c264734a4e02db515296e2394a3c54f1993\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/gfxbench-5",
+      "path": "files/api/pages/gfxbench-5.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "a6d8b019e071e6d3a1d104332f1670d5cc9a766dc60601cd81a8cda9740fcfa5",
+      "bytes": 12952,
+      "finalUrl": "https://www.socpk.com/api/pages/gfxbench-5",
+      "fetchedAt": "2026-10-31T11:31:50.865027+00:00",
+      "headers": {
+        "ETag": "\"04e055b2bbb1d40649304f70fb21c8534c160002\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/gfxbench-5/data",
+      "path": "files/api/pages/gfxbench-5/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "e4885074d6480715383b03c04760e1638803ecce8688228e7a3819e9e593b096",
+      "bytes": 5763,
+      "finalUrl": "https://www.socpk.com/api/pages/gfxbench-5/data",
+      "fetchedAt": "2026-10-31T11:31:50.818956+00:00",
+      "headers": {
+        "ETag": "\"fb7c5dd2af17d731a81d0413cb5cd6fb7aadea3c\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/laptop-gpu-efficiency",
+      "path": "files/api/pages/laptop-gpu-efficiency.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "1061744b86cda097020e093abe6a77dec205910a2798830271c3f62550d1b63b",
+      "bytes": 4873,
+      "finalUrl": "https://www.socpk.com/api/pages/laptop-gpu-efficiency",
+      "fetchedAt": "2026-10-31T11:31:56.112627+00:00",
+      "headers": {
+        "ETag": "\"a922e88e5322cb24908d11a7e4b7226e26a5bbf3\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/laptop-gpu-efficiency/data",
+      "path": "files/api/pages/laptop-gpu-efficiency/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "67119e588beb4e2b2c6b77b3a99f44aac04f733ccbfed1277914f664e1e34069",
+      "bytes": 4467,
+      "finalUrl": "https://www.socpk.com/api/pages/laptop-gpu-efficiency/data",
+      "fetchedAt": "2026-10-31T11:31:56.079106+00:00",
+      "headers": {
+        "ETag": "\"140b7b5d756129f5bd0b400ad08b5113b822d1c5\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/mobile-soc-efficiency-gb7",
+      "path": "files/api/pages/mobile-soc-efficiency-gb7.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "84af510a7496a1e9ae7281b42707923212303cbdd21012ac780f0052b24e1697",
+      "bytes": 9017,
+      "finalUrl": "https://www.socpk.com/api/pages/mobile-soc-efficiency-gb7",
+      "fetchedAt": "2026-10-31T11:31:56.137519+00:00",
+      "headers": {
+        "ETag": "\"b72a7589b770e8e9f3a332af0f9bab35c1fd8d59\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/mobile-soc-efficiency-gb7/data",
+      "path": "files/api/pages/mobile-soc-efficiency-gb7/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "0851402eac72e4a9cce87bbb451f22e8ab6932a77151d1cd8459284d121a7b5d",
+      "bytes": 54263,
+      "finalUrl": "https://www.socpk.com/api/pages/mobile-soc-efficiency-gb7/data",
+      "fetchedAt": "2026-10-31T11:31:56.062444+00:00",
+      "headers": {
+        "ETag": "\"c03942a75fff3b42b1168a51c88c7b490dbb42f7\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/mobile-soc-efficiency-snl",
+      "path": "files/api/pages/mobile-soc-efficiency-snl.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "d4c2f6ba9c3c11f2166dcad19b2b2cd882343ec9dc3c0d0aa0b3008ae1da710d",
+      "bytes": 4943,
+      "finalUrl": "https://www.socpk.com/api/pages/mobile-soc-efficiency-snl",
+      "fetchedAt": "2026-10-31T11:31:56.112053+00:00",
+      "headers": {
+        "ETag": "\"7e32c6d0af6c15015bee11210896b7ce7a85da08\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/mobile-soc-efficiency-snl/data",
+      "path": "files/api/pages/mobile-soc-efficiency-snl/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "886cbcf0afc1460b5b972ff37307ac97af11e03c008bce591bf1ce66cbecbb17",
+      "bytes": 37823,
+      "finalUrl": "https://www.socpk.com/api/pages/mobile-soc-efficiency-snl/data",
+      "fetchedAt": "2026-10-31T11:31:56.304595+00:00",
+      "headers": {
+        "ETag": "\"dc00474097741afdf222d5d50af11f700c34e5ec\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/mobile-soc-spec26",
+      "path": "files/api/pages/mobile-soc-spec26.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "7043c5cda50b1e055636f57d5a2cb814612c5f685d260e6ac48dea376a894e89",
+      "bytes": 19636,
+      "finalUrl": "https://www.socpk.com/api/pages/mobile-soc-spec26",
+      "fetchedAt": "2026-10-31T11:32:01.442526+00:00",
+      "headers": {
+        "ETag": "\"086a5c08dd9214b491eac20c1bb9bdaa2db19150\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/pages/mobile-soc-spec26/data",
+      "path": "files/api/pages/mobile-soc-spec26/data.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "07f1ab923dfc1deb33cad74cfffb43f5bce3ad7305a9fd7e48829af64addb05a",
+      "bytes": 92535,
+      "finalUrl": "https://www.socpk.com/api/pages/mobile-soc-spec26/data",
+      "fetchedAt": "2026-10-31T11:32:01.515786+00:00",
+      "headers": {
+        "ETag": "\"35a2ac5035fab4b8864fd674642da300fb000241\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/api/site",
+      "path": "files/api/site.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "6e0ca19d67454e9ad3b09f1d790efd0aa50242432e4aa99358d156c3482fcdf5",
+      "bytes": 7762,
+      "finalUrl": "https://www.socpk.com/api/site",
+      "fetchedAt": "2026-10-31T11:31:29.557177+00:00",
+      "headers": {
+        "ETag": "\"594a8a5fadf78cc3ad7ecf5c694eda08e105a152\"",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminBar-B0Z-9FZK.css",
+      "path": "files/assets/AdminBar-B0Z-9FZK.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "8913f2bec39eb58328e03da7832e06ab981b7da5342e11052f5e2371875803dc",
+      "bytes": 1792,
+      "finalUrl": "https://www.socpk.com/assets/AdminBar-B0Z-9FZK.css",
+      "fetchedAt": "2026-10-31T11:34:11.244029+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-700\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminBar-Cp-sHwc6.js",
+      "path": "files/assets/AdminBar-Cp-sHwc6.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "769b46c14f654629b94c403402a797ca7a56ce8b88bb3821704f545f2723c4d3",
+      "bytes": 3826,
+      "finalUrl": "https://www.socpk.com/assets/AdminBar-Cp-sHwc6.js",
+      "fetchedAt": "2026-10-31T11:34:11.247032+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-ef2\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminChips-CE2iDIkz.css",
+      "path": "files/assets/AdminChips-CE2iDIkz.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "48687722312d4d0059ab75b7d5a08bda7faa46a54bf904d998b8deb88714977e",
+      "bytes": 5344,
+      "finalUrl": "https://www.socpk.com/assets/AdminChips-CE2iDIkz.css",
+      "fetchedAt": "2026-10-31T11:34:16.019316+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-14e0\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminChips-YUVQlKPv.js",
+      "path": "files/assets/AdminChips-YUVQlKPv.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "ec1e40cd5a4b2e663be1a36d8a7a35ce559e8bf0460f4bb0e0a1be82a731a790",
+      "bytes": 20458,
+      "finalUrl": "https://www.socpk.com/assets/AdminChips-YUVQlKPv.js",
+      "fetchedAt": "2026-10-31T11:34:15.941223+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-4fea\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminFeedback-CZv-rZ3q.css",
+      "path": "files/assets/AdminFeedback-CZv-rZ3q.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "a6542f5a8906b00d3ff997b4dd104246fea73a61869545926c574624f1323122",
+      "bytes": 2086,
+      "finalUrl": "https://www.socpk.com/assets/AdminFeedback-CZv-rZ3q.css",
+      "fetchedAt": "2026-10-31T11:34:15.886165+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-826\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminFeedback-DkPtNFn7.js",
+      "path": "files/assets/AdminFeedback-DkPtNFn7.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "3a09e80926c5ab56cb15a800dd4df438a575a3b4324591c9c500d36082f3a54c",
+      "bytes": 3952,
+      "finalUrl": "https://www.socpk.com/assets/AdminFeedback-DkPtNFn7.js",
+      "fetchedAt": "2026-10-31T11:34:16.029316+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-f70\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminLogin-BIDwDE6v.css",
+      "path": "files/assets/AdminLogin-BIDwDE6v.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "d9ba0b78bd25792e46d560406e2561f36bc29a6cea9eb0cb0a7e32165883f6fd",
+      "bytes": 1124,
+      "finalUrl": "https://www.socpk.com/assets/AdminLogin-BIDwDE6v.css",
+      "fetchedAt": "2026-10-31T11:34:15.949180+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-464\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminLogin-QFfL1bcq.js",
+      "path": "files/assets/AdminLogin-QFfL1bcq.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "9c1831066a10cce54c17b6daa22450c2754e1fe9597a6756bcb2e12ec9164fd5",
+      "bytes": 1475,
+      "finalUrl": "https://www.socpk.com/assets/AdminLogin-QFfL1bcq.js",
+      "fetchedAt": "2026-10-31T11:34:15.908919+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-5c3\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminPageEdit-CylVuVn0.css",
+      "path": "files/assets/AdminPageEdit-CylVuVn0.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "5d64018d9f54064dab70af307c1dd6e5e72920d55a54031c3eec3f8871d57f60",
+      "bytes": 7778,
+      "finalUrl": "https://www.socpk.com/assets/AdminPageEdit-CylVuVn0.css",
+      "fetchedAt": "2026-10-31T11:34:20.724412+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-1e62\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminPageEdit-D2hQ8PB1.js",
+      "path": "files/assets/AdminPageEdit-D2hQ8PB1.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "c100db5bb6098a85fa533db56b7ebbdb829df94c55ebde845b28ee9b95eb0a4d",
+      "bytes": 46012,
+      "finalUrl": "https://www.socpk.com/assets/AdminPageEdit-D2hQ8PB1.js",
+      "fetchedAt": "2026-10-31T11:34:20.681989+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-b3bc\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminPages-CmVyimz5.js",
+      "path": "files/assets/AdminPages-CmVyimz5.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "ea54e72eeee03dce4df93556cd09ed94f1a2922624ca796839038c61dc499825",
+      "bytes": 8031,
+      "finalUrl": "https://www.socpk.com/assets/AdminPages-CmVyimz5.js",
+      "fetchedAt": "2026-10-31T11:34:20.653133+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-1f5f\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminPages-D2NOxPnu.css",
+      "path": "files/assets/AdminPages-D2NOxPnu.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "805350fce623091c311ea78ebf14faf89f30519df45ad8d577effdce4204630f",
+      "bytes": 2710,
+      "finalUrl": "https://www.socpk.com/assets/AdminPages-D2NOxPnu.css",
+      "fetchedAt": "2026-10-31T11:34:20.693747+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-a96\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminSettings-BPnNJ45V.js",
+      "path": "files/assets/AdminSettings-BPnNJ45V.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "6287aacf63933ef0524d6e3c174c4138b91e5897163bc73737d3e8a6bb02f88f",
+      "bytes": 4759,
+      "finalUrl": "https://www.socpk.com/assets/AdminSettings-BPnNJ45V.js",
+      "fetchedAt": "2026-10-31T11:34:20.708608+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-1297\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminSettings-Cc5Ht7Ln.css",
+      "path": "files/assets/AdminSettings-Cc5Ht7Ln.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "ddd07deed460bf4736a919edf74304b15b8e69079f44b125753f19d9ae63c9ce",
+      "bytes": 3266,
+      "finalUrl": "https://www.socpk.com/assets/AdminSettings-Cc5Ht7Ln.css",
+      "fetchedAt": "2026-10-31T11:34:20.820910+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-cc2\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminVideos-BumdIo31.js",
+      "path": "files/assets/AdminVideos-BumdIo31.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "1aa998c8d63aa5f9cd773c16260098ffb5575659c7570f1c8ec1485be094b97f",
+      "bytes": 7270,
+      "finalUrl": "https://www.socpk.com/assets/AdminVideos-BumdIo31.js",
+      "fetchedAt": "2026-10-31T11:34:25.593434+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-1c66\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/AdminVideos-C1rAsif6.css",
+      "path": "files/assets/AdminVideos-C1rAsif6.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "4c587cd8211c498b871aa1b664948b3e6aec2e1bb2278130faa91559b0b2b43d",
+      "bytes": 3246,
+      "finalUrl": "https://www.socpk.com/assets/AdminVideos-C1rAsif6.css",
+      "fetchedAt": "2026-10-31T11:34:25.506396+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-cae\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/CategoryPage-CsFChaMi.js",
+      "path": "files/assets/CategoryPage-CsFChaMi.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "863c6b56857fa84692a858832cf11ea24252f5d9182f91285025e1392e9fe6b1",
+      "bytes": 6969,
+      "finalUrl": "https://www.socpk.com/assets/CategoryPage-CsFChaMi.js",
+      "fetchedAt": "2026-10-31T11:34:25.536888+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-1b39\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/CategoryPage-O_djGBR7.css",
+      "path": "files/assets/CategoryPage-O_djGBR7.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "ddf555b387d79b6c1b83a3ed793ca5ef068e2ab6f57b3d228b8543f00c1c4b16",
+      "bytes": 3027,
+      "finalUrl": "https://www.socpk.com/assets/CategoryPage-O_djGBR7.css",
+      "fetchedAt": "2026-10-31T11:34:25.537888+00:00",
+      "headers": {
+        "ETag": "\"6ac76482-bd3\"",
+        "Last-Modified": "Thu, 08 Oct 2026 09:38:10 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/ChartPage-Byz9TUJB.css",
+      "path": "files/assets/ChartPage-Byz9TUJB.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "442dad1dc3025f7bedcb58cb2a6559afb6f28cfea08e700ba48ca38e3f25580e",
+      "bytes": 17334,
+      "finalUrl": "https://www.socpk.com/assets/ChartPage-Byz9TUJB.css",
+      "fetchedAt": "2026-10-31T11:34:25.513883+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-43b6\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/ChartPage-Db-6zRix.js",
+      "path": "files/assets/ChartPage-Db-6zRix.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "6876952065e499e1daedba11d6fee167430f5cfbfb584c631f7f871d597b6667",
+      "bytes": 33317,
+      "finalUrl": "https://www.socpk.com/assets/ChartPage-Db-6zRix.js",
+      "fetchedAt": "2026-10-31T11:34:25.575169+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-8225\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/ChipDbPage-COlp_SdS.js",
+      "path": "files/assets/ChipDbPage-COlp_SdS.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "b76a79ef4729842cadf1ff39cd349f171be6e3e2ea4903ccd7c4d3299bf96616",
+      "bytes": 3234,
+      "finalUrl": "https://www.socpk.com/assets/ChipDbPage-COlp_SdS.js",
+      "fetchedAt": "2026-10-31T11:34:30.307387+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-ca2\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/ChipDbPage-Cd73ianj.css",
+      "path": "files/assets/ChipDbPage-Cd73ianj.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "0466db9281e5fc2e0908fbc1623ae99957f525a9566b8345475fa6406967d836",
+      "bytes": 2441,
+      "finalUrl": "https://www.socpk.com/assets/ChipDbPage-Cd73ianj.css",
+      "fetchedAt": "2026-10-31T11:34:30.290451+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-989\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/ChipDetailPage-BLkpSwxL.css",
+      "path": "files/assets/ChipDetailPage-BLkpSwxL.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "99c8c3d46f01f76487e9ea3836cfd6a9fda41220148285e8b1b914dd7bcef40a",
+      "bytes": 5313,
+      "finalUrl": "https://www.socpk.com/assets/ChipDetailPage-BLkpSwxL.css",
+      "fetchedAt": "2026-10-31T11:34:30.327413+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-14c1\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/ChipDetailPage-DI9fA5OT.js",
+      "path": "files/assets/ChipDetailPage-DI9fA5OT.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "f3c6e8113bfc892f6029f826c18cda567b0a6a8049019b108c253521e01ee1a3",
+      "bytes": 7140,
+      "finalUrl": "https://www.socpk.com/assets/ChipDetailPage-DI9fA5OT.js",
+      "fetchedAt": "2026-10-31T11:34:30.548001+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-1be4\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/HScrollRow-BmxIcFzA.js",
+      "path": "files/assets/HScrollRow-BmxIcFzA.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "00f767cc03dce06a32912377a6a008449be2a42c1d2fbe997367e2d196aa7640",
+      "bytes": 4126,
+      "finalUrl": "https://www.socpk.com/assets/HScrollRow-BmxIcFzA.js",
+      "fetchedAt": "2026-10-31T11:34:30.333448+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-101e\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/HScrollRow-zVHTV0Bw.css",
+      "path": "files/assets/HScrollRow-zVHTV0Bw.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "ad1febd6938b5593ba269381b03f191b621a60d1d04b5dd7b9b240b33712bf42",
+      "bytes": 4728,
+      "finalUrl": "https://www.socpk.com/assets/HScrollRow-zVHTV0Bw.css",
+      "fetchedAt": "2026-10-31T11:34:30.336996+00:00",
+      "headers": {
+        "ETag": "\"6ac76482-1278\"",
+        "Last-Modified": "Thu, 08 Oct 2026 09:38:10 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/HomePage-CMAUJO_0.css",
+      "path": "files/assets/HomePage-CMAUJO_0.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "b86b2042413b9002e6d9f2e2e01f96be6f501cc8e975a3ba8ef4315ce9bcd0bd",
+      "bytes": 7838,
+      "finalUrl": "https://www.socpk.com/assets/HomePage-CMAUJO_0.css",
+      "fetchedAt": "2026-10-31T11:34:35.267811+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-1e9e\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/HomePage-z0oxE-gy.js",
+      "path": "files/assets/HomePage-z0oxE-gy.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "aa8b0b4411c99f6d9282b8f26264f4d9ad5aa02d6634b2ca43fffde64184f962",
+      "bytes": 12100,
+      "finalUrl": "https://www.socpk.com/assets/HomePage-z0oxE-gy.js",
+      "fetchedAt": "2026-10-31T11:34:35.433391+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-2f44\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/ambient-M-lxepVc.js",
+      "path": "files/assets/ambient-M-lxepVc.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "463a6c18dd8dd9447b40129eaafcdb98c7f9cea72a7f59ddfca145c92e9a6587",
+      "bytes": 336,
+      "finalUrl": "https://www.socpk.com/assets/ambient-M-lxepVc.js",
+      "fetchedAt": "2026-10-31T11:34:35.218627+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-150\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/benchmarks-B01_SL6K.js",
+      "path": "files/assets/benchmarks-B01_SL6K.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "5006a3531f756b5fade869c645aa6baade6752a2b136b79e37e564ab100a78c5",
+      "bytes": 677,
+      "finalUrl": "https://www.socpk.com/assets/benchmarks-B01_SL6K.js",
+      "fetchedAt": "2026-10-31T11:34:35.207476+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-2a5\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/brand/SOCPK-Logo-Black.png",
+      "path": "files/assets/brand/SOCPK-Logo-Black.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "95bb5a57c31aa1859801194690c3c0af6c19aab15e4ed0de368fdf10bd8c0581",
+      "bytes": 57433,
+      "finalUrl": "https://www.socpk.com/assets/brand/SOCPK-Logo-Black.png",
+      "fetchedAt": "2026-10-31T11:35:46.823878+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-e059\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/brand/SOCPK-Logo-White.png",
+      "path": "files/assets/brand/SOCPK-Logo-White.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "d88d353c97e97c488f329d8cbb4019cdcfdad7eb8b719c06fe40f605868e38bb",
+      "bytes": 52294,
+      "finalUrl": "https://www.socpk.com/assets/brand/SOCPK-Logo-White.png",
+      "fetchedAt": "2026-10-31T11:35:46.824876+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-cc46\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/brand/favicon.ico",
+      "path": "files/assets/brand/favicon.ico",
+      "contentType": "image/x-icon",
+      "status": 200,
+      "sha256": "1c53574423da50e11e8354749ac288de81c813a4d8467997431ffa92449cd7a4",
+      "bytes": 13631,
+      "finalUrl": "https://www.socpk.com/assets/brand/favicon.ico",
+      "fetchedAt": "2026-10-31T11:31:35.134249+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-353f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/brand/favicon.png",
+      "path": "files/assets/brand/favicon.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "b1fad834a3d0311350a1447f54de03f0e6dae13a657a4e2dad33b9b809e0618a",
+      "bytes": 13609,
+      "finalUrl": "https://www.socpk.com/assets/brand/favicon.png",
+      "fetchedAt": "2026-10-31T11:31:34.821795+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3529\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/brand/geekerwan-logo-black.svg",
+      "path": "files/assets/brand/geekerwan-logo-black.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bd79f2aca6d1ffef1cae36ff0504de7744288a18e1d16f4f0322e18304fb44e9",
+      "bytes": 6296,
+      "finalUrl": "https://www.socpk.com/assets/brand/geekerwan-logo-black.svg",
+      "fetchedAt": "2026-10-31T11:37:02.200592+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1898\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/brand/geekerwan-logo-white.svg",
+      "path": "files/assets/brand/geekerwan-logo-white.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "7b1f40a17ce8bae49926acf62772e4425aae003d69993534fa489b988ac8bc31",
+      "bytes": 5698,
+      "finalUrl": "https://www.socpk.com/assets/brand/geekerwan-logo-white.svg",
+      "fetchedAt": "2026-10-31T11:37:02.253362+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1642\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/colors-DPKHw8g-.js",
+      "path": "files/assets/colors-DPKHw8g-.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "4d47e66035953e9d6bd56a6e95ca99209177f4c79a8694cc1be8059de2f53bd3",
+      "bytes": 1610,
+      "finalUrl": "https://www.socpk.com/assets/colors-DPKHw8g-.js",
+      "fetchedAt": "2026-10-31T11:34:35.232203+00:00",
+      "headers": {
+        "ETag": "\"6ac76482-64a\"",
+        "Last-Modified": "Thu, 08 Oct 2026 09:38:10 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/dataFormats-CFrCNKzw.js",
+      "path": "files/assets/dataFormats-CFrCNKzw.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "362d93e78fea5ea52292a662966753fc17edf06dc70d1ae674a0de2ff6f15269",
+      "bytes": 1022,
+      "finalUrl": "https://www.socpk.com/assets/dataFormats-CFrCNKzw.js",
+      "fetchedAt": "2026-10-31T11:34:35.208144+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-3fe\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/html2canvas.esm-QH1iLAAe.js",
+      "path": "files/assets/html2canvas.esm-QH1iLAAe.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "061c08e50c0dc57b8d5e6531f0b8237a52a68b233260d49ab2f2c2906ad112c4",
+      "bytes": 202379,
+      "finalUrl": "https://www.socpk.com/assets/html2canvas.esm-QH1iLAAe.js",
+      "fetchedAt": "2026-10-31T11:37:07.119815+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-3168b\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/index-BgBY0hhf.js",
+      "path": "files/assets/index-BgBY0hhf.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "418b22aae13dfa5030bcaafa226e3ff77db35c9d2ae1a5825e158943d80497de",
+      "bytes": 222008,
+      "finalUrl": "https://www.socpk.com/assets/index-BgBY0hhf.js",
+      "fetchedAt": "2026-10-31T11:31:35.145512+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-36338\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/index-CMIuTGbY.css",
+      "path": "files/assets/index-CMIuTGbY.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "8937818e1a58bc62875e38119ebbb64303e9f14d66864826ca41f130545e8d1a",
+      "bytes": 15980,
+      "finalUrl": "https://www.socpk.com/assets/index-CMIuTGbY.css",
+      "fetchedAt": "2026-10-31T11:31:34.809396+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-3e6c\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/logos/bbpcslogo-wm-dark.png",
+      "path": "files/assets/logos/bbpcslogo-wm-dark.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "727059eb5cc4a62b90adc87a7a9df429e3ffe5322355e42149023c2733ca6ced",
+      "bytes": 4177,
+      "finalUrl": "https://www.socpk.com/assets/logos/bbpcslogo-wm-dark.png",
+      "fetchedAt": "2026-10-31T11:39:48.625443+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1051\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/logos/bbpcslogo-wm-light.png",
+      "path": "files/assets/logos/bbpcslogo-wm-light.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "78a2a1f486c55a5e8b3660adbf5a177a53dff8b1487b4cd85885b6e313caefa4",
+      "bytes": 4077,
+      "finalUrl": "https://www.socpk.com/assets/logos/bbpcslogo-wm-light.png",
+      "fetchedAt": "2026-10-31T11:39:48.682129+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-fed\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/logos/gkwlogo-wm-dark.png",
+      "path": "files/assets/logos/gkwlogo-wm-dark.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "28c02876df5b51767868ffaf566b4ec83cc7054a84a3a1cede0e364fdf0dfe03",
+      "bytes": 5537,
+      "finalUrl": "https://www.socpk.com/assets/logos/gkwlogo-wm-dark.png",
+      "fetchedAt": "2026-10-31T11:39:48.632953+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-15a1\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/logos/gkwlogo-wm-light.png",
+      "path": "files/assets/logos/gkwlogo-wm-light.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "01fc49278d00d2b68995a06f370607a13092d89c151eb99cf329a8e6877a802a",
+      "bytes": 5488,
+      "finalUrl": "https://www.socpk.com/assets/logos/gkwlogo-wm-light.png",
+      "fetchedAt": "2026-10-31T11:39:53.342986+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1570\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/allscore-min.png",
+      "path": "files/assets/mainpic/allscore-min.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "63020286fc2bbcf723d46cf723ae4c7216dbba0ebc20b14d69de60aa7073f5d0",
+      "bytes": 36158,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/allscore-min.png",
+      "fetchedAt": "2026-10-31T11:35:51.508962+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-8d3e\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/bat5.0.png",
+      "path": "files/assets/mainpic/bat5.0.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "be46f789550e5af336889c93de041b93d5382c28d84bc4863213db19d56d6d98",
+      "bytes": 84634,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/bat5.0.png",
+      "fetchedAt": "2026-10-31T11:37:22.781422+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-14a9a\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/cpuscore-min.png",
+      "path": "files/assets/mainpic/cpuscore-min.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "1be9e07f0852dbb85a3bce153c01a5e35a5984743b3c721bffe4305c6de976da",
+      "bytes": 34828,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/cpuscore-min.png",
+      "fetchedAt": "2026-10-31T11:35:56.336101+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-880c\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/cr.png",
+      "path": "files/assets/mainpic/cr.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "0f2cb7ce069b595eebea41f3e1fc5cf74636e6fad07aa66617c797755906d4b2",
+      "bytes": 24060,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/cr.png",
+      "fetchedAt": "2026-10-31T11:35:56.307741+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-5dfc\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/dl.png",
+      "path": "files/assets/mainpic/dl.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "24f18f17af54983c8dc4f73d55108ad2d669088aa4c6a12aef38f5059ee8c696",
+      "bytes": 53773,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/dl.png",
+      "fetchedAt": "2026-10-31T11:35:56.351568+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-d20d\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/effscore-min.png",
+      "path": "files/assets/mainpic/effscore-min.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "7eabeabf733902071308451b52d6b66f03e409d8925ed78b82e1c32298c61011",
+      "bytes": 33547,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/effscore-min.png",
+      "fetchedAt": "2026-10-31T11:35:56.333209+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-830b\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/gb6.png",
+      "path": "files/assets/mainpic/gb6.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "0e6a73c79059bdbfbbb168bc1adfc87aae10bbf0ae8f66489deb3bff99b8f14c",
+      "bytes": 94764,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/gb6.png",
+      "fetchedAt": "2026-10-31T11:35:56.307123+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1722c\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/gpuscore-min.png",
+      "path": "files/assets/mainpic/gpuscore-min.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "9282e0e7bb2e68939748a51477f7aa4973cdf0ca608160f4b3089f8dfb94ad82",
+      "bytes": 35523,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/gpuscore-min.png",
+      "fetchedAt": "2026-10-31T11:35:56.232941+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-8ac3\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/laptopgpu.png",
+      "path": "files/assets/mainpic/laptopgpu.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "76721b0ef24b4d99ab2e98c34a3843353209cc6093e2a7ebbd93c6fef233392b",
+      "bytes": 20042,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/laptopgpu.png",
+      "fetchedAt": "2026-10-31T11:37:07.118809+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-4e4a\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/lefttop_black.png",
+      "path": "files/assets/mainpic/lefttop_black.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "d67b5d62f9910c9787a5415c18b46ab9c5c7998d1397063ce03d32a190423fe1",
+      "bytes": 14119,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/lefttop_black.png",
+      "fetchedAt": "2026-10-31T11:37:22.142245+00:00",
+      "headers": {
+        "ETag": "\"6a9fb3cf-3727\"",
+        "Last-Modified": "Tue, 08 Sep 2026 07:05:51 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/lefttop_white.png",
+      "path": "files/assets/mainpic/lefttop_white.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "163e8c0eb1af37c03b0ede85e3563543d340e2c8af49c36aecf8a09d485dcc88",
+      "bytes": 14019,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/lefttop_white.png",
+      "fetchedAt": "2026-10-31T11:37:22.071770+00:00",
+      "headers": {
+        "ETag": "\"6a9fb3cf-36c3\"",
+        "Last-Modified": "Tue, 08 Sep 2026 07:05:51 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/mainpic/phonecpu.png",
+      "path": "files/assets/mainpic/phonecpu.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "ba04ad1324dee495f9f44f55dd1a8665121d8182f3060cea23cebeab99d7dd65",
+      "bytes": 20291,
+      "finalUrl": "https://www.socpk.com/assets/mainpic/phonecpu.png",
+      "fetchedAt": "2026-10-31T11:37:07.013755+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-4f43\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-amlogic.png",
+      "path": "files/assets/socpics/brand/brand-amlogic.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "b8cc234983eedb7044c8884205d87016b39ebbbc701a896e92dc59674cea68ec",
+      "bytes": 5764,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-amlogic.png",
+      "fetchedAt": "2026-10-31T11:37:11.911485+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1684\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-broadcom.png",
+      "path": "files/assets/socpics/brand/brand-broadcom.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "27926e0562a94e8023174071477a7722a922d412940f3d0fbf9803126bd7197d",
+      "bytes": 7423,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-broadcom.png",
+      "fetchedAt": "2026-10-31T11:37:11.991992+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1cff\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-google.png",
+      "path": "files/assets/socpics/brand/brand-google.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "92fac8e09f48b1aec758ee60116908e6d37c25ca32dac6041dd2db4a4dac7ba3",
+      "bytes": 4778,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-google.png",
+      "fetchedAt": "2026-10-31T11:37:11.937047+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-12aa\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-huawei.png",
+      "path": "files/assets/socpics/brand/brand-huawei.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "ab04aca7ca2fea52d6135a77a0dc1b7ca47a6432692f09466229609283a32f26",
+      "bytes": 7651,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-huawei.png",
+      "fetchedAt": "2026-10-31T11:37:11.979633+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1de3\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-mediatek.png",
+      "path": "files/assets/socpics/brand/brand-mediatek.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "d32b8ba0cec7945073b0ff7c024477f35d6c94dd1be2c78a82604d015527dd6b",
+      "bytes": 4025,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-mediatek.png",
+      "fetchedAt": "2026-10-31T11:37:11.932612+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-fb9\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-nvidia.png",
+      "path": "files/assets/socpics/brand/brand-nvidia.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "047b19f65a5074c8f6bfc5c2a71eae3ef80221484b700a523059cd9944e44458",
+      "bytes": 5482,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-nvidia.png",
+      "fetchedAt": "2026-10-31T11:37:11.991992+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-156a\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-samsung.png",
+      "path": "files/assets/socpics/brand/brand-samsung.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "65deb8e8f71303ea1b59572c276c3543a1593a67dfd6cd4da1c7494374c402ba",
+      "bytes": 6187,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-samsung.png",
+      "fetchedAt": "2026-10-31T11:37:16.905967+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-182b\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-snapdragon.png",
+      "path": "files/assets/socpics/brand/brand-snapdragon.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "7f563028f3a68b2f2d8e3b79adcaf075ea4bf1f1611bfd5db4c9a3c428ccb27e",
+      "bytes": 7240,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-snapdragon.png",
+      "fetchedAt": "2026-10-31T11:37:16.880886+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1c48\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/brand-unisoc.png",
+      "path": "files/assets/socpics/brand/brand-unisoc.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "7ca80f4807750b56477ff42bdb7732b03305283e5aa9a5f73feaecfe146162da",
+      "bytes": 7483,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/brand-unisoc.png",
+      "fetchedAt": "2026-10-31T11:37:17.013547+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1d3b\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/icon-brand-apple-black.svg",
+      "path": "files/assets/socpics/brand/icon-brand-apple-black.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "360807d4c4e6936a08b1776258e5b5a152268f796343e5d425b421807ff6cc68",
+      "bytes": 662,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/icon-brand-apple-black.svg",
+      "fetchedAt": "2026-10-31T11:37:16.880886+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-296\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/icon-brand-apple-white.svg",
+      "path": "files/assets/socpics/brand/icon-brand-apple-white.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "05cdfa1a8f84ed8f72866de8d6918bd425a588c4c3164d238463c36a8ac0dbdd",
+      "bytes": 676,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/icon-brand-apple-white.svg",
+      "fetchedAt": "2026-10-31T11:37:16.905967+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-2a4\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/brand/icon-brand-xiaomi.svg",
+      "path": "files/assets/socpics/brand/icon-brand-xiaomi.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "9fb3df7fd72f7fa925cc6b10da843dc473a9f2074ffa39f0e98d0082512d270c",
+      "bytes": 1881,
+      "finalUrl": "https://www.socpk.com/assets/socpics/brand/icon-brand-xiaomi.svg",
+      "fetchedAt": "2026-10-31T11:37:16.885894+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-759\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-8elite.png",
+      "path": "files/assets/socpics/icon-8elite.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "976b125463e631b46c156502b3fdde148b08b52458a8e4d6174e5a59e6a75147",
+      "bytes": 935862,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-8elite.png",
+      "fetchedAt": "2026-10-31T11:32:29.420046+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-e47b6\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-8elitegen5.png",
+      "path": "files/assets/socpics/icon-8elitegen5.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "6e2f2eaed0ea23af680644d9810d3b09de3ce1ee8a4b109f149eaf0a055bc668",
+      "bytes": 951128,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-8elitegen5.png",
+      "fetchedAt": "2026-10-31T11:32:28.712391+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-e8358\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-8sgen3.png",
+      "path": "files/assets/socpics/icon-8sgen3.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "7344d0bf11eddef6d38c852e80d2cc3e647f25abba2a625f89e8afc7c2354ede",
+      "bytes": 1810140,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-8sgen3.png",
+      "fetchedAt": "2026-10-31T11:32:29.859422+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1b9edc\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a10.png",
+      "path": "files/assets/socpics/icon-a10.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "e1b1eeaa0741b348f128541795c920f590a98e6692ceaed8e22a7326f2595798",
+      "bytes": 438065,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a10.png",
+      "fetchedAt": "2026-10-31T11:32:28.710312+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-6af31\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a10x.png",
+      "path": "files/assets/socpics/icon-a10x.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "d7610c4a9d633c256c9d2bd0821efa6e9debdd6a81b72e73d652b265e061c5f2",
+      "bytes": 266616,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a10x.png",
+      "fetchedAt": "2026-10-31T11:32:28.574318+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-41178\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a11.png",
+      "path": "files/assets/socpics/icon-a11.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "b84479d16f16e7c90782c97dab27970d46757a3453b91f3e38ddc8ed6895e326",
+      "bytes": 434222,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a11.png",
+      "fetchedAt": "2026-10-31T11:32:28.604647+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-6a02e\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a12.png",
+      "path": "files/assets/socpics/icon-a12.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "caa42bf1e8a82ce8185920901e4a3e47b7c99b925866e14b2797c4b1ac5e2904",
+      "bytes": 438997,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a12.png",
+      "fetchedAt": "2026-10-31T11:32:35.627671+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-6b2d5\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a12x.png",
+      "path": "files/assets/socpics/icon-a12x.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "5f3f259cf8f5a580e927be88422dc41a4b42fe307ea7bf04b23a8aded66da008",
+      "bytes": 367811,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a12x.png",
+      "fetchedAt": "2026-10-31T11:32:35.461878+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-59cc3\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a13.png",
+      "path": "files/assets/socpics/icon-a13.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "8a548479f4c1ce7b827b885b5dc2a75810a4be522e53229076c29cdf50bbf91c",
+      "bytes": 406316,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a13.png",
+      "fetchedAt": "2026-10-31T11:32:35.497803+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-6332c\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a14.png",
+      "path": "files/assets/socpics/icon-a14.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "4c43f95dc35a623137888956eff76a20e6179597798e6aa021a05365f1a487db",
+      "bytes": 395172,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a14.png",
+      "fetchedAt": "2026-10-31T11:32:35.494536+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-607a4\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a15.png",
+      "path": "files/assets/socpics/icon-a15.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "b791a2d556287ef4bc9adaefbe7523881012a25adc73d48566e8d0b446579780",
+      "bytes": 350819,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a15.png",
+      "fetchedAt": "2026-10-31T11:32:35.251920+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-55a63\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a16.png",
+      "path": "files/assets/socpics/icon-a16.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "33dcb3b6c7238ff80373553bd555763a952c1cfeb9d70d1f6b1ebd34b1081091",
+      "bytes": 348766,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a16.png",
+      "fetchedAt": "2026-10-31T11:32:35.252923+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-5525e\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a17pro.png",
+      "path": "files/assets/socpics/icon-a17pro.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "b196f65051a57f174a9ef567940d988edf10ab69da0eba6e768412132aeb4526",
+      "bytes": 186014,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a17pro.png",
+      "fetchedAt": "2026-10-31T11:32:50.684216+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-2d69e\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a18.png",
+      "path": "files/assets/socpics/icon-a18.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "316db25f0d0a5b05f08e7869848f18f573363e5e1d0f7bdfd22b27175a32e5fb",
+      "bytes": 29017,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a18.png",
+      "fetchedAt": "2026-10-31T11:32:50.672182+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-7159\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a18pro.png",
+      "path": "files/assets/socpics/icon-a18pro.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "7e305632f02c5ea451bfd28faad059157f88eee85783a4a0e24da4392afb15d9",
+      "bytes": 40162,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a18pro.png",
+      "fetchedAt": "2026-10-31T11:32:40.518194+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-9ce2\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a19.png",
+      "path": "files/assets/socpics/icon-a19.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "fc821a4b774f50058c7d022c564084e4ebe8cefe5746a216e66e99febf138832",
+      "bytes": 69607,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a19.png",
+      "fetchedAt": "2026-10-31T11:32:40.530765+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-10fe7\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a19pro.png",
+      "path": "files/assets/socpics/icon-a19pro.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "48386bc9215af624e26263ddf1b792618ed4231eed06bcbbf3d43b73964475a5",
+      "bytes": 71212,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a19pro.png",
+      "fetchedAt": "2026-10-31T11:32:40.584627+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1162c\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a7.png",
+      "path": "files/assets/socpics/icon-a7.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "b8d94808c837a507512a4114bd8fcee87f881e16fd0b95667a0e5586b0a5970c",
+      "bytes": 430417,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a7.png",
+      "fetchedAt": "2026-10-31T11:32:40.763651+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-69151\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a8.png",
+      "path": "files/assets/socpics/icon-a8.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "6d1390c022bff8f24fa6782c36ead0e14d826b5a9de667e04f6bdbdb8f3dd1d4",
+      "bytes": 432432,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a8.png",
+      "fetchedAt": "2026-10-31T11:32:55.521500+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-69930\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-a9.png",
+      "path": "files/assets/socpics/icon-a9.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "a9d477ca7879f47ec90d7badcfc4769f6975d21de844b8f8f00991c38a112956",
+      "bytes": 461032,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-a9.png",
+      "fetchedAt": "2026-10-31T11:32:55.666157+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-708e8\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-amlogic-default.png",
+      "path": "files/assets/socpics/icon-amlogic-default.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "3c5bdd5b29411d7740ad5c37bd8268b226b76021946ba8b8668fd6cd7b6f4389",
+      "bytes": 245516,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-amlogic-default.png",
+      "fetchedAt": "2026-10-31T11:32:55.597573+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3bf0c\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-d9000.png",
+      "path": "files/assets/socpics/icon-d9000.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "38e697cd080b4a8e75391c1c3db1d3960974ed30c951768f1cfbb46dfb2c91b8",
+      "bytes": 136943,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-d9000.png",
+      "fetchedAt": "2026-10-31T11:32:55.572346+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-216ef\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-d9200.png",
+      "path": "files/assets/socpics/icon-d9200.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "7a1ebb68bc33520531117a9809535f8585bc576835d56dd98727033f9af53a5a",
+      "bytes": 117762,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-d9200.png",
+      "fetchedAt": "2026-10-31T11:32:55.569441+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1cc02\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-d9300.png",
+      "path": "files/assets/socpics/icon-d9300.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "a78d49aec9df32f5680558732c074cc646567749649fc6d0694b89268326962e",
+      "bytes": 128177,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-d9300.png",
+      "fetchedAt": "2026-10-31T11:32:55.494901+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1f4b1\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-d9400.png",
+      "path": "files/assets/socpics/icon-d9400.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "978e716f72cc47e0a173a8eba538d24922cf731d50e5f85a28bb751c9164da1b",
+      "bytes": 66482,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-d9400.png",
+      "fetchedAt": "2026-10-31T11:33:00.508306+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-103b2\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-d9500.png",
+      "path": "files/assets/socpics/icon-d9500.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "40b5e2fdb8ba080b884b1ca35df53a48a483177f42ae6c4e614f3947675d8340",
+      "bytes": 104344,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-d9500.png",
+      "fetchedAt": "2026-10-31T11:33:00.496332+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-19798\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-exynos-default-no5g.png",
+      "path": "files/assets/socpics/icon-exynos-default-no5g.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "9f5bc767a40baf7b265b4ce01e7da6f5854578a65833e819921ea84251f11742",
+      "bytes": 21112,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-exynos-default-no5g.png",
+      "fetchedAt": "2026-10-31T11:33:00.469241+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-5278\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-exynos-default.png",
+      "path": "files/assets/socpics/icon-exynos-default.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "6e67fc00959168c010f72ac86400607cf02b225e84d1c5bc2418e1d554bc6a2d",
+      "bytes": 29111,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-exynos-default.png",
+      "fetchedAt": "2026-10-31T11:33:00.469961+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-71b7\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-hisilicon-default.png",
+      "path": "files/assets/socpics/icon-hisilicon-default.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "dba33f33c2127b6f976c8cc5f9e246dc1c45d0119de878d6fdedea4012ccad40",
+      "bytes": 196003,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-hisilicon-default.png",
+      "fetchedAt": "2026-10-31T11:33:00.457236+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-2fda3\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-m1.png",
+      "path": "files/assets/socpics/icon-m1.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "dd11badf3e1758b5883019061a0fb0cc590fca24d2cf138b0e13046779c29885",
+      "bytes": 84114,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-m1.png",
+      "fetchedAt": "2026-10-31T11:33:00.483875+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-14892\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-m2.png",
+      "path": "files/assets/socpics/icon-m2.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "e4d1f5a4a4042f1848ad9bb1845de82e488d6592d03624b949a0411f9e8e5006",
+      "bytes": 45846,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-m2.png",
+      "fetchedAt": "2026-10-31T11:33:05.279226+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-b316\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-m4.png",
+      "path": "files/assets/socpics/icon-m4.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "05ae781f2fee3ad8ca616f9a3541bd5e33ff906ae0cbb278377f0d55c75dba0d",
+      "bytes": 36164,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-m4.png",
+      "fetchedAt": "2026-10-31T11:33:05.249277+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-8d44\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-raspi-default.png",
+      "path": "files/assets/socpics/icon-raspi-default.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "162f1ca344a86965237d1fcb259fd8ec5a6f2d807c45fbb010c6e4eed7a02a19",
+      "bytes": 6239,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-raspi-default.png",
+      "fetchedAt": "2026-10-31T11:33:05.258577+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-185f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-surge-s1.png",
+      "path": "files/assets/socpics/icon-surge-s1.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "1bd4cee75b627e5cb01735d9e433da85b6bce4d25c961f8eb49b637a1f6a2dbb",
+      "bytes": 422138,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-surge-s1.png",
+      "fetchedAt": "2026-10-31T11:33:05.392344+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-670fa\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-tegra-k1.png",
+      "path": "files/assets/socpics/icon-tegra-k1.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "dc97d766afec58dfd7ec867cb482774806d43bee8d2c654e1134ab56b1c92e1a",
+      "bytes": 71554,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-tegra-k1.png",
+      "fetchedAt": "2026-10-31T11:33:05.272174+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-11782\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-tegra-x1.png",
+      "path": "files/assets/socpics/icon-tegra-x1.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "d228a87c37db14ee8701dd0a53b85163c035020e0ae44853918d0e7e111a0aca",
+      "bytes": 140462,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-tegra-x1.png",
+      "fetchedAt": "2026-10-31T11:33:05.399977+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-224ae\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-tensor-default.png",
+      "path": "files/assets/socpics/icon-tensor-default.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "afd0300e3d32dbb42d11581412c7078858d30819e9c769547878964b0da77ca5",
+      "bytes": 515539,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-tensor-default.png",
+      "fetchedAt": "2026-10-31T11:33:10.727065+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-7ddd3\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-unisoc-default-no5g.png",
+      "path": "files/assets/socpics/icon-unisoc-default-no5g.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "336989a801d03f3a1ac7e1572610d344a5eb9595c36fcafc166ab4a9b2a6db49",
+      "bytes": 566007,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-unisoc-default-no5g.png",
+      "fetchedAt": "2026-10-31T11:33:10.859467+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-8a2f7\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-unisoc-default.png",
+      "path": "files/assets/socpics/icon-unisoc-default.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "0644558747548bedac8a21fc010a9703a43ac08eb08025fc3a71ad1f3edba4b2",
+      "bytes": 568244,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-unisoc-default.png",
+      "fetchedAt": "2026-10-31T11:33:10.806436+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-8abb4\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/icon-xringo1.png",
+      "path": "files/assets/socpics/icon-xringo1.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "90a02177fb7a477d7c5f97688f49574f0dd97b7e2f03b6e7e9252e0fa34a8ee1",
+      "bytes": 449308,
+      "finalUrl": "https://www.socpk.com/assets/socpics/icon-xringo1.png",
+      "fetchedAt": "2026-10-31T11:33:10.624412+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-6db1c\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-808.svg",
+      "path": "files/assets/socpics/svg/icon-808.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "d5125027a1af60079e1e1605fef85008cd00af80ea26202628e80a0ea5e6a04c",
+      "bytes": 231599,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-808.svg",
+      "fetchedAt": "2026-10-31T11:33:10.713713+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-388af\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-810.svg",
+      "path": "files/assets/socpics/svg/icon-810.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bda9d1eff1b6f9f79a0f75094f706597001c34b6c01da2e95155ef2229156ac5",
+      "bytes": 230815,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-810.svg",
+      "fetchedAt": "2026-10-31T11:33:10.737919+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3859f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-821.svg",
+      "path": "files/assets/socpics/svg/icon-821.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bda9d1eff1b6f9f79a0f75094f706597001c34b6c01da2e95155ef2229156ac5",
+      "bytes": 230815,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-821.svg",
+      "fetchedAt": "2026-10-31T11:33:16.238376+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3859f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-835.svg",
+      "path": "files/assets/socpics/svg/icon-835.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bda9d1eff1b6f9f79a0f75094f706597001c34b6c01da2e95155ef2229156ac5",
+      "bytes": 230815,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-835.svg",
+      "fetchedAt": "2026-10-31T11:33:16.248382+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3859f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-845.svg",
+      "path": "files/assets/socpics/svg/icon-845.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bda9d1eff1b6f9f79a0f75094f706597001c34b6c01da2e95155ef2229156ac5",
+      "bytes": 230815,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-845.svg",
+      "fetchedAt": "2026-10-31T11:33:16.267731+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3859f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-855.svg",
+      "path": "files/assets/socpics/svg/icon-855.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bda9d1eff1b6f9f79a0f75094f706597001c34b6c01da2e95155ef2229156ac5",
+      "bytes": 230815,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-855.svg",
+      "fetchedAt": "2026-10-31T11:33:16.083454+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3859f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-855plus.svg",
+      "path": "files/assets/socpics/svg/icon-855plus.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bda9d1eff1b6f9f79a0f75094f706597001c34b6c01da2e95155ef2229156ac5",
+      "bytes": 230815,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-855plus.svg",
+      "fetchedAt": "2026-10-31T11:33:16.084063+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-3859f\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-865.svg",
+      "path": "files/assets/socpics/svg/icon-865.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "132f95fe00b24a8585d5b1a477d7d20f5390baba169788f09b8048a2efad9446",
+      "bytes": 227641,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-865.svg",
+      "fetchedAt": "2026-10-31T11:33:16.267731+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37939\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-865plus.svg",
+      "path": "files/assets/socpics/svg/icon-865plus.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "132f95fe00b24a8585d5b1a477d7d20f5390baba169788f09b8048a2efad9446",
+      "bytes": 227641,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-865plus.svg",
+      "fetchedAt": "2026-10-31T11:33:21.221666+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37939\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-870.svg",
+      "path": "files/assets/socpics/svg/icon-870.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "5efeca8b74535c952105badeda2afefb9c5b922f12dea0eb8347cb7f0f8085af",
+      "bytes": 228536,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-870.svg",
+      "fetchedAt": "2026-10-31T11:33:21.298286+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37cb8\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-888.svg",
+      "path": "files/assets/socpics/svg/icon-888.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "03180ca8a5196ffb794ffeb309ed5ecbab0aedf3a567f5685e9cbd573eaf6135",
+      "bytes": 228693,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-888.svg",
+      "fetchedAt": "2026-10-31T11:33:21.220121+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37d55\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-888plus.svg",
+      "path": "files/assets/socpics/svg/icon-888plus.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "4d65d7d388e6848dae9ce92fa50ce17ad7d2ba34b0f878e0092fb90092fea720",
+      "bytes": 228694,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-888plus.svg",
+      "fetchedAt": "2026-10-31T11:33:21.089357+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37d56\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-8gen1.svg",
+      "path": "files/assets/socpics/svg/icon-8gen1.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "06548b862dd65e754b385473209a6ee93017938eeb16f0001557aa9a3eeb5775",
+      "bytes": 228006,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-8gen1.svg",
+      "fetchedAt": "2026-10-31T11:33:21.323005+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37aa6\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-8gen2.svg",
+      "path": "files/assets/socpics/svg/icon-8gen2.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "5087f901bb56b9dbb4072c448d740b26c6516142413e0160f4590559414e23b5",
+      "bytes": 228006,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-8gen2.svg",
+      "fetchedAt": "2026-10-31T11:33:21.233813+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37aa6\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-8gen3.svg",
+      "path": "files/assets/socpics/svg/icon-8gen3.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "0fc0cc9186564c022f72f2e33a511f4ca5eba41142db2e036950a448861c7595",
+      "bytes": 228006,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-8gen3.svg",
+      "fetchedAt": "2026-10-31T11:33:26.276324+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37aa6\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-8gen5.svg",
+      "path": "files/assets/socpics/svg/icon-8gen5.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "aedd84b7dc5bbd6ec86c30c178ba41df1b17a7b84cd6dd5f8be6242b74145a3b",
+      "bytes": 1798504,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-8gen5.svg",
+      "fetchedAt": "2026-10-31T11:33:26.533905+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-1b7168\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/svg/icon-8plusgen1.svg",
+      "path": "files/assets/socpics/svg/icon-8plusgen1.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "9c7d2096a49ef96113449ab6f3546a26d5876e4fcbf694989f2ea59aa5d44fca",
+      "bytes": 228007,
+      "finalUrl": "https://www.socpk.com/assets/socpics/svg/icon-8plusgen1.svg",
+      "fetchedAt": "2026-10-31T11:33:26.188549+00:00",
+      "headers": {
+        "ETag": "\"6a981de2-37aa7\"",
+        "Last-Modified": "Wed, 02 Sep 2026 13:00:18 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1787658413733-4846ac651f25.png",
+      "path": "files/assets/socpics/uploads/1787658413733-4846ac651f25.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "158da606c07a37df5b6d0a2384f0829525e9c66a12413e7c32088ab86212e4bc",
+      "bytes": 67390,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1787658413733-4846ac651f25.png",
+      "fetchedAt": "2026-10-31T11:33:26.182530+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1787664783766-eda570ba9237.jpg",
+      "path": "files/assets/socpics/uploads/1787664783766-eda570ba9237.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "ac5b6cdfb1f5bf84319e506b2f4fde21e17110739f185dd7378b4e44ee830411",
+      "bytes": 282307,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1787664783766-eda570ba9237.jpg",
+      "fetchedAt": "2026-10-31T11:37:07.161601+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425609602-e3c255ebaee2.jpg",
+      "path": "files/assets/socpics/uploads/1788425609602-e3c255ebaee2.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "3fd85f2c29b4aab4370f2e95bd1604add484283b091ae84291aeacfb8fe1b9aa",
+      "bytes": 56904,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425609602-e3c255ebaee2.jpg",
+      "fetchedAt": "2026-10-31T11:32:01.482263+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425614295-4be32fd88cd7.jpg",
+      "path": "files/assets/socpics/uploads/1788425614295-4be32fd88cd7.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "d7f3ddc6abc202191cdb662ecd81de6a36df1e43d332f451ae7872cd0902ba04",
+      "bytes": 58474,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425614295-4be32fd88cd7.jpg",
+      "fetchedAt": "2026-10-31T11:32:01.505225+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425664769-22f5e269eacf.jpg",
+      "path": "files/assets/socpics/uploads/1788425664769-22f5e269eacf.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "de6673214aa25b03aae3beab81cc2258afbead8252ba72259d3eb59255ec794e",
+      "bytes": 55731,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425664769-22f5e269eacf.jpg",
+      "fetchedAt": "2026-10-31T11:32:01.495133+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425670179-0720f23ec940.jpg",
+      "path": "files/assets/socpics/uploads/1788425670179-0720f23ec940.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "d5893926c9d7cf1dfe6ea147c50f9d5a29fab2b333672464dcb5a189741ea7a1",
+      "bytes": 56259,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425670179-0720f23ec940.jpg",
+      "fetchedAt": "2026-10-31T11:32:01.482263+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425679866-0fdcb1cec5a6.jpg",
+      "path": "files/assets/socpics/uploads/1788425679866-0fdcb1cec5a6.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "cd30ef82ba24ce71304e70e95e7db8953c12294ba03f443aadb3eeb8f2344f5d",
+      "bytes": 57525,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425679866-0fdcb1cec5a6.jpg",
+      "fetchedAt": "2026-10-31T11:32:06.720376+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425683894-22e882be107b.jpg",
+      "path": "files/assets/socpics/uploads/1788425683894-22e882be107b.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "08b4c0f6eb653162978c013114850a94a7d2244920d9bc06142c1df8f7dcd141",
+      "bytes": 54419,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425683894-22e882be107b.jpg",
+      "fetchedAt": "2026-10-31T11:32:06.915040+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425693583-0d6dfea005fe.jpg",
+      "path": "files/assets/socpics/uploads/1788425693583-0d6dfea005fe.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "b7a74beba6fd62e64251aeb6bd1384a272089929dd5e365c8f3e7b174b1eb932",
+      "bytes": 57254,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425693583-0d6dfea005fe.jpg",
+      "fetchedAt": "2026-10-31T11:32:06.619546+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425697377-f651ae039b9d.jpg",
+      "path": "files/assets/socpics/uploads/1788425697377-f651ae039b9d.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "90e22409c871ab691453aa5fb3709d67b44ae41ab48b6abfc9d9d1e436ba5cbf",
+      "bytes": 47388,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425697377-f651ae039b9d.jpg",
+      "fetchedAt": "2026-10-31T11:32:06.719371+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425729845-e71ae1da94f9.jpg",
+      "path": "files/assets/socpics/uploads/1788425729845-e71ae1da94f9.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "0d86a8fdfb277d94eeea4bf4312e3e3c55faab381c3d018a79d1c9a7982eb481",
+      "bytes": 48396,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425729845-e71ae1da94f9.jpg",
+      "fetchedAt": "2026-10-31T11:32:06.737470+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425732606-68726023824b.jpg",
+      "path": "files/assets/socpics/uploads/1788425732606-68726023824b.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "5776b2ffde7083f98d5bf042986300ad1c34760e745587ceb76666f658d14293",
+      "bytes": 54358,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425732606-68726023824b.jpg",
+      "fetchedAt": "2026-10-31T11:32:06.718866+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425739503-fa72ab4c585b.jpg",
+      "path": "files/assets/socpics/uploads/1788425739503-fa72ab4c585b.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "39873f6242702507421e693d736387ee663f9727514ae41037c45981a1a0ff5b",
+      "bytes": 46870,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425739503-fa72ab4c585b.jpg",
+      "fetchedAt": "2026-10-31T11:32:12.170032+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425742891-9fee1faff541.jpg",
+      "path": "files/assets/socpics/uploads/1788425742891-9fee1faff541.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "9006a22473af7fcde711f5b4b0f3c018c7b9f3f659fca51d9b8f4ca8f66cfb0d",
+      "bytes": 54255,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425742891-9fee1faff541.jpg",
+      "fetchedAt": "2026-10-31T11:32:11.952097+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425751189-f495c759e931.jpg",
+      "path": "files/assets/socpics/uploads/1788425751189-f495c759e931.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "2ec994d70cf7d72be405dc14736229c8ba87a4b7a877772910875040463dddc4",
+      "bytes": 44912,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425751189-f495c759e931.jpg",
+      "fetchedAt": "2026-10-31T11:32:12.016056+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425755274-a15835cd4aff.jpg",
+      "path": "files/assets/socpics/uploads/1788425755274-a15835cd4aff.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "a6696735abc4f6e494579a29b99bc2d36091a26206f62d4ab410dd0339ea18ed",
+      "bytes": 42819,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425755274-a15835cd4aff.jpg",
+      "fetchedAt": "2026-10-31T11:32:12.038461+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425769854-469633da26fe.jpg",
+      "path": "files/assets/socpics/uploads/1788425769854-469633da26fe.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "3eb8f4d46262574df6cc89989a11bb4351cc3d7a4df013759ef74906051f715e",
+      "bytes": 51337,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425769854-469633da26fe.jpg",
+      "fetchedAt": "2026-10-31T11:32:12.194796+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425773125-92236d6680b5.jpg",
+      "path": "files/assets/socpics/uploads/1788425773125-92236d6680b5.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "78cc25fca07319ea8b295d60839617d27f48fce451c94e90e05a23d8f839fff3",
+      "bytes": 46197,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425773125-92236d6680b5.jpg",
+      "fetchedAt": "2026-10-31T11:32:12.002535+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425782032-c3e4af9303eb.jpg",
+      "path": "files/assets/socpics/uploads/1788425782032-c3e4af9303eb.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "1468e5af20fc0526963cac77c5e691ece9f0cc6aa6ad322ef062478125492c55",
+      "bytes": 53939,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425782032-c3e4af9303eb.jpg",
+      "fetchedAt": "2026-10-31T11:32:17.243836+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425784803-98c31775d915.jpg",
+      "path": "files/assets/socpics/uploads/1788425784803-98c31775d915.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "fb827c6bad4b579a75d453a1dc570992b80acfb34ff44dccace6eace54300490",
+      "bytes": 55906,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425784803-98c31775d915.jpg",
+      "fetchedAt": "2026-10-31T11:32:17.254066+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425800066-79e3ccea0ec7.jpg",
+      "path": "files/assets/socpics/uploads/1788425800066-79e3ccea0ec7.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "1897223f72fe4ffe2d1ea93b08e2368f0f6324f6cd6f857db880f388073dbba2",
+      "bytes": 52242,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425800066-79e3ccea0ec7.jpg",
+      "fetchedAt": "2026-10-31T11:32:17.323102+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425804254-f486809ce25e.jpg",
+      "path": "files/assets/socpics/uploads/1788425804254-f486809ce25e.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "653336587e281e544f75b258c406e9aa6e53b59d383be70ec13af744e41000df",
+      "bytes": 53492,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425804254-f486809ce25e.jpg",
+      "fetchedAt": "2026-10-31T11:32:17.395385+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425812048-3b75071df4b9.jpg",
+      "path": "files/assets/socpics/uploads/1788425812048-3b75071df4b9.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "ce2417076f9076f89112b2042968fd1a6602e745689231eadec4afee79154f96",
+      "bytes": 50691,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425812048-3b75071df4b9.jpg",
+      "fetchedAt": "2026-10-31T11:32:17.272962+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425815755-3f36f6ce602f.jpg",
+      "path": "files/assets/socpics/uploads/1788425815755-3f36f6ce602f.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "95eb998571d6e4853c6f4bcbcbaec160620e2c0899fbbcc54cf4372b6142eac7",
+      "bytes": 53213,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425815755-3f36f6ce602f.jpg",
+      "fetchedAt": "2026-10-31T11:32:17.407965+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425830119-199b62520f33.jpg",
+      "path": "files/assets/socpics/uploads/1788425830119-199b62520f33.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "d9181f94645e3d8fc2aca6daa30ff871bf93e58fdb613e2cb202e70373b625d5",
+      "bytes": 53072,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425830119-199b62520f33.jpg",
+      "fetchedAt": "2026-10-31T11:32:23.103860+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425834995-dee547cc5f7e.jpg",
+      "path": "files/assets/socpics/uploads/1788425834995-dee547cc5f7e.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "f71cc2880ff3073b3c181f64464efc48e8781523976925879c3bf9cf85d80bbf",
+      "bytes": 54851,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425834995-dee547cc5f7e.jpg",
+      "fetchedAt": "2026-10-31T11:32:22.919002+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425843746-bfc705b0b6f1.jpg",
+      "path": "files/assets/socpics/uploads/1788425843746-bfc705b0b6f1.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "7f1fdaa87ab19cff2bc9330c4029c5a501181397986906f62657620cd900abce",
+      "bytes": 60869,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425843746-bfc705b0b6f1.jpg",
+      "fetchedAt": "2026-10-31T11:32:22.866556+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788425847018-e3defa32c2c9.jpg",
+      "path": "files/assets/socpics/uploads/1788425847018-e3defa32c2c9.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "4a834407d7b0cbb19bf89202c93943904f9e4b717a6e0a55fcf3a9c147a4b7db",
+      "bytes": 54744,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788425847018-e3defa32c2c9.jpg",
+      "fetchedAt": "2026-10-31T11:32:22.868924+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788503315315-6b0b6ea42d42.jpg",
+      "path": "files/assets/socpics/uploads/1788503315315-6b0b6ea42d42.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "c2e89f1805cfdb05e94bf2490ed7e585fc718c8005c3ea930ed9c44063a4d62e",
+      "bytes": 54285,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788503315315-6b0b6ea42d42.jpg",
+      "fetchedAt": "2026-10-31T11:32:23.101860+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/socpics/uploads/1788503319619-89b0b241b611.jpg",
+      "path": "files/assets/socpics/uploads/1788503319619-89b0b241b611.jpg",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "sha256": "f3c5ced4cc7540d027729ff1a6d6601c12264bac2f0a044e309ef2a719145d15",
+      "bytes": 58352,
+      "finalUrl": "https://www.socpk.com/assets/socpics/uploads/1788503319619-89b0b241b611.jpg",
+      "fetchedAt": "2026-10-31T11:32:22.874427+00:00",
+      "headers": {
+        "Content-Security-Policy": "sandbox"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/url-Dxej5S3e.js",
+      "path": "files/assets/url-Dxej5S3e.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "4a0ac794b3e60bed971e71b64d5bfcdd327b3153ddd4557937cb907cdd3950d9",
+      "bytes": 167,
+      "finalUrl": "https://www.socpk.com/assets/url-Dxej5S3e.js",
+      "fetchedAt": "2026-10-31T11:34:40.346104+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-a7\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/vendors-DyVqyn8S.css",
+      "path": "files/assets/vendors-DyVqyn8S.css",
+      "contentType": "text/css",
+      "status": 200,
+      "sha256": "0b8c11c18059251f673acb5824515624968422bee83366eaa62f916bd8cd2ae7",
+      "bytes": 8607,
+      "finalUrl": "https://www.socpk.com/assets/vendors-DyVqyn8S.css",
+      "fetchedAt": "2026-10-31T11:34:40.326052+00:00",
+      "headers": {
+        "ETag": "\"6ac76482-219f\"",
+        "Last-Modified": "Thu, 08 Oct 2026 09:38:10 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    },
+    {
+      "url": "https://www.socpk.com/assets/vendors-MT4h8O6w.js",
+      "path": "files/assets/vendors-MT4h8O6w.js",
+      "contentType": "application/javascript; charset=utf-8",
+      "status": 200,
+      "sha256": "8855bb967a2badb7ae550401097ee39ff903437d9735d282a685a710faf4fb41",
+      "bytes": 36400,
+      "finalUrl": "https://www.socpk.com/assets/vendors-MT4h8O6w.js",
+      "fetchedAt": "2026-10-31T11:34:40.430296+00:00",
+      "headers": {
+        "ETag": "\"6ae034ab-8e30\"",
+        "Last-Modified": "Tue, 27 Oct 2026 05:20:43 GMT",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'"
+      }
+    }
+  ]
+}

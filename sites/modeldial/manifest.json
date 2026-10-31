@@ -1,0 +1,1393 @@
+{
+  "schemaVersion": 1,
+  "siteId": "modeldial",
+  "entryUrl": "https://modeldial.com/radar",
+  "title": "ModelDial 模型排行榜",
+  "capturedAt": "2026-10-31T11:40:23.773403+00:00",
+  "scope": "Radar page, Chinese and English, and its static/current-data dependencies",
+  "entries": [
+    {
+      "url": "https://alldonesites.com/data/claude-usage.json",
+      "path": "files/e59b45759ae4fbfc29c19c71b4dd.json",
+      "contentType": "application/json",
+      "status": 200,
+      "sha256": "9107adabeaa260f200bd5ca56ba61824a4d0e76091fb9ffe1bc5ffcd4c272fff",
+      "size": 1560694,
+      "headers": {
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/0-5l_f3askyfb.js",
+      "path": "files/6764b2b990560e4e304a5cda9b98.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "6bec2b42f6799631ae7d11e66aeb9d79e6c9d3903acdd313252301e20d07d105",
+      "size": 19834,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "path": "files/fabbfa33046de7d6ddfe32831e8b.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+      "size": 112594,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/0l7g9u36fbsqr.js",
+      "path": "files/1390dab27a350e20eb0b2ef37ef7.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "9455abbf2655fe82d63d650e892b409402b31effbb005dc924bce65c4612a774",
+      "size": 237538,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/0pnip318mboby.js",
+      "path": "files/3a7ae7a9436d2d4b253c0ab7b226.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "119da5765bebcbede7cbf98ade942d27ef122fd18ed7b48a93ee945dac623558",
+      "size": 17516,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/0xrixg7uoolmy.js",
+      "path": "files/a2939a59363675e62de985eee17e.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "c1c29bcc700c9aabc09deacd8b63ea5a25e1b6c26ab9f917cf6348a5eb6af3c5",
+      "size": 215,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/0y-j15lwono7c.js",
+      "path": "files/2ff059fa8baafcd4c6d337687515.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "26e7fb1171bffac47cafc97a5f7f7bb9d02a8614c41c71c705a4462722163eb2",
+      "size": 167754,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/1mje0buv8cyae.js",
+      "path": "files/044b8612024b75c62788d7db4ec8.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "c2f3b1bae19be62d69d33f6449fb19efbe92ca672936969382ad34947031caff",
+      "size": 42901,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/1vemrupzqjbz8.css",
+      "path": "files/e6b124a57a924b5cb869d20b4aa6.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "a8ad28c4ed7f1c1d1628b071f79870a214dd9ac378cf16d67c499f928caa3a9b",
+      "size": 103013,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/290_ava5gcb3o.js",
+      "path": "files/be7da011a1e891efacaa73db1199.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "a1b9dc39937b01781ad9462d793f0025434e2586d1861d4a15db360feb36b710",
+      "size": 75488,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/2hbdid8j3qoom.js",
+      "path": "files/7d7e28166ae93118e1202aaa7102.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "982844266abc3dcf16fb96052b8320f1b2c0f3e04f101575a73737e5a382608b",
+      "size": 154037,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/2i51e627rllld.js",
+      "path": "files/3c71f3ce94eed5af221006573698.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "a4590375a64190f57d18b357bf576bf111bd5f02f3c93cad0f65fdf176689f46",
+      "size": 31346,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/3e-9_4_bj3fiv.js",
+      "path": "files/85cde07d308cb2aa266f5e643504.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "4526de40ec92f94d3af41df816be843b87bd5db183eadf17466fa7d396a22e7d",
+      "size": 14455,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/3ivcc6t1s04dh.js",
+      "path": "files/5cfff86b424edd7a063dc8afaf21.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "70d406b798d16ec27ed2eaa4c32f6d98b3bce1ffffcf5ba8261f80a485545736",
+      "size": 13846,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/3loroau4mh8mu.css",
+      "path": "files/634a184453d94388d56ff1fe729b.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "d8a0370a23baa9b9a61c3ef4abfc3741d0c5a5cecedb683e8b0c73d2fe4b3c13",
+      "size": 24206,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/434uqaej0s3tu.js",
+      "path": "files/53de8fe492b571092b693d7e5f62.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "bfa1623724e3e97fc8eef7920cf058018a9184bddb18463427ed54f8ae0705ce",
+      "size": 227885,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/44gdqgu2sidyq.js",
+      "path": "files/9e24a951c52dc54faf9aa0d8b730.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "d328a525be0cfb8441687b8c49776a8ce542fdb4203b931c4e5e8ab0d7e721c0",
+      "size": 16488,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/453cd1tlxz5wi.js",
+      "path": "files/c951bcffa3fd7c91d8fa5eee7ce9.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "dc52451246e5dbba742bbbda6de3123aaf398a3ac3098567e05b566b92f089c8",
+      "size": 14377,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/chunks/turbopack-1xphq3epm82tk.js",
+      "path": "files/2ca092f8e530ca11146955bf24d2.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "1a5ec145c1699b47a1a2c1e207c76a7deaa9ea08d3c791632467a2a47de0bb57",
+      "size": 9652,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/media/geist_latin-s.p.3rd3ws2mg35i0.woff2",
+      "path": "files/49af2610a1513bf353acacbd10b1.bin",
+      "contentType": "font/woff2",
+      "status": 200,
+      "sha256": "1b5ebfb3a01a97343ac96873e6d59a8cb285c66012b6a1ac509cb2765e995ba8",
+      "size": 28356,
+      "headers": {
+        "Content-Type": "font/woff2",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/_next/static/media/geist_mono_latin-s.p.3f30ggp2vw8zj.woff2",
+      "path": "files/fd1f3d6481d5dc0ccd05357d5566.bin",
+      "contentType": "font/woff2",
+      "status": 200,
+      "sha256": "b7ac144b394cbd81052d6397ec0c33397977b1d7e9bc095e744e652a378c6fb3",
+      "size": 31288,
+      "headers": {
+        "Content-Type": "font/woff2",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/api/v1/radar/agent-profile.json",
+      "path": "files/ba2a8fee1c291dca4a797075f27d.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "70fb42a6d985876587b3324d3c743564a1d83356db3481cd8e7362fdc3d8c28d",
+      "size": 6628,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=300, s-maxage=300, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/api/v1/radar/changes.json",
+      "path": "files/84a6e57a70e6b53f505cd78a571f.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "a020b7ee929b6dc526e512689e3d1f2e94b87fdce21a162cbcbe1c0f9445935e",
+      "size": 59439,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=300, s-maxage=300, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/api/v1/radar/index.json",
+      "path": "files/1b3d1efae048c38d3743432345ec.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "d00c6d204b53ae6d80fea731d89ffa4cd46557f87ea9c4d27b2a1965f91c1759",
+      "size": 12211,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=300, s-maxage=300, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/api/v1/radar/latest.json",
+      "path": "files/1babb36ccc39751aaf5630bc7e72.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "4f5fae0eed9e2b4850cb4519fec37e7b33fdc493c2b96c683ac3149dc39a0ebf",
+      "size": 91166,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=300, s-maxage=300, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/brand/modeldial-b1-app-icon-512.png",
+      "path": "files/a5c3e0afc4e55112f4ca901e37ae.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "0843db74458d59535087dd13105a6eb95d9fe0c0e52ea1a178b87aa64a2e7fea",
+      "size": 13227,
+      "headers": {
+        "Content-Type": "image/png",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/brand/modeldial-b1-horizontal.svg",
+      "path": "files/31e6f3146183d9cbf5e1630cee7c.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "0e6dabb4ed7ce4e263ec3f1302c2bac6b3aa324bcc44019de7bab11ce32df9a3",
+      "size": 5947,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/brand/modeldial-b1-micro-16.svg",
+      "path": "files/6c4713f13b05c7685beb5c156fda.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "bcbedcccf9ea685233d51325e105b686cb5fe33ad8c18641b78fffecb01c1b87",
+      "size": 1013,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/brand/modeldial-b1-micro-32.svg",
+      "path": "files/f976a34d868b3a884b0c47ce2545.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "11fe0381e7f90412f90793d8acb64f09811f7cf09c10e1be96af8002d133caef",
+      "size": 986,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data-license",
+      "path": "files/4bc31d168f921a6f8d3f4b4d6601.html",
+      "contentType": "text/html; charset=utf-8",
+      "status": 200,
+      "sha256": "8843e6d4ef5b9bad917d6efe71d71bd376e1715a778263da7a8a5f92c403cf5b",
+      "size": 65580,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/benchmark-snapshots/index.json",
+      "path": "files/f8c3bb8acdae8ce4d71706a7847f.json",
+      "contentType": "application/json",
+      "status": 200,
+      "sha256": "e468fb5271ec09dbbc3920232cd29b8b08a2c8528a1b5f74f03b369b9082c1f6",
+      "size": 13202,
+      "headers": {
+        "Content-Type": "application/json",
+        "Cache-Control": "public, max-age=300, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/overview.json",
+      "path": "files/4264276a634aded05808bfe230fb.json",
+      "contentType": "application/json",
+      "status": 200,
+      "sha256": "5f809d36afa3312d8bd4c67e3fca731d13dffa6d0a5321f072587ce344803647",
+      "size": 515513,
+      "headers": {
+        "Content-Type": "application/json",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-0c8b030b60eba0b55c9f958d4c0804146e7f5673a19b711a7d6aec20fb4895d6.json",
+      "path": "files/241538325b2286d3379db2dac551.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "16ff0a39c32a4fc8997ca1a2347f528299ca060f9095b217717ae85356eedbcb",
+      "size": 262035,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-12636e196b5336eb8cc74ecb445702b7e9351a3f6ca8c8ac3df3b088fcc98777.json",
+      "path": "files/0c579b355bb9869f60fc3fa2a105.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "79451fd236c92916dac914932b2b62a6629a4ce8fbbcb7d411ada4a6048dadfe",
+      "size": 442487,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-54fffab6a18a9fd9956818a22aa673d6e37fc64b21ceb5c4fc27857f9ef3501e.json",
+      "path": "files/5103191b992fcb769e89515e1bdb.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "0bb1051812b8e2b58811fbeffc442a54daedd125a22e0d9ff05edf855d450c87",
+      "size": 439664,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-59363210e1fef249b0e70362b9722f2d455adc02474ec247022f40b2b6a6e5b5.json",
+      "path": "files/69080c93486c7a6a8a7943d5cea3.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "842f739013c3c992a91b60b62db63c68f6e3c05afa3c1ab127761b41f926bd4d",
+      "size": 139750,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-610449572de47670768b64db7f9675e1e7cc87a8cb4206bad774c0437ad59063.json",
+      "path": "files/2002a40d4b5cf69e0c7f35213961.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "3606b49a0a166f852cd1aeb1ee861f8d7e9b57b5a9c177a979c3c8b977e70097",
+      "size": 442487,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-638f02524fb06960377ea5fef73e5d7a0c09433076d2e45ce887bb641885fcba.json",
+      "path": "files/cc28639bf643771d413a03de2a7d.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "c8b0df51f61c0209c336c78a7059b64e6ea44369d5f254ebec2fcde308281174",
+      "size": 170338,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-8d982103c230299cda89d7f9e36bdedda1252a942557bce85a19e05690e62b94.json",
+      "path": "files/3cd6a2374f18f37a5d4fd0945dc9.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "1696a1c0e42aac14aaa456f728bb6a423dff7292a54ad4b7a67318991cd7cb05",
+      "size": 168434,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-a459cf4111ccec63f7a697133cb360965c5f42a7529383a597100286d982f02a.json",
+      "path": "files/d54f331611f9eefbba22539c5598.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "9ce89081412d893c879684539fdd8974a5977f788297fd6743b88ad7c469d8f0",
+      "size": 462376,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-ae2c19ddba6b1d630efb150470464d3de45e46426bbf06fc240082c028029bc1.json",
+      "path": "files/c6ba9fc2253a8bfee0a5581d20b8.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "c96b5d6e30ba7e0e0cec4547943009799948be7987d919346f67543ae2e3efbd",
+      "size": 448070,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-cbb6590956b45d451c9cdb5d7e9fda480ae1d8370453251bf88b37ba8a8e66ca.json",
+      "path": "files/b6dbd4d1f1b2827b50dc22a1efba.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "7917cc9aee9e1a4cc98997a73ae447958fd9cd4a757fc8371c72ce0e62ad3116",
+      "size": 459493,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-f2734d216b833938f3989dc1987c058d6bef90e560b2f91a374ddd11d77766c7.json",
+      "path": "files/839dd8e5cf8e30d5d7f09e2e57e4.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "b0f91bb091044c7c0b39172f2b5248f63bacdf41c58ef33e3896fe085ddf2817",
+      "size": 442487,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/evaluation-f79112a0ef0eb7714a03ed215b1bfafb7d716ad03aed8b78581d0f9a97ef55fd.json",
+      "path": "files/002a14e707e7d91cb59ef9aa30ab.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "e3f9ea3df25044ff5377cb6138d82d6d13443548d3cabd65502e873e4a46185f",
+      "size": 453747,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/pricing-558102e552269389e09ab11477f8c63d3aedee5bab43565c55e4168c61b36cf4.json",
+      "path": "files/7c19f609e686824f9dc6ac0bd805.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "45b4f2e8f3f95beba13f094f7f4698dd8b33e0a9d436bc004944479320f8133c",
+      "size": 462646,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/q5-policy-projection-20261001055103584.json",
+      "path": "files/4fcdc3cb0ad62253f7cc74500c9e.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "8812ecacdffda733d028976bb3af1b387dbe642ebcbb1cbe28fb6bf29734294e",
+      "size": 401032,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/archive/space-bunny-free-owner-20260927002105711.json",
+      "path": "files/7d3b4e22f75b9c9dd238f3c3538f.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "1591dfe0c6500efd275ec5f5b913647cc96be10f0875d36ca7a421a0886bc0e0",
+      "size": 227944,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/index.json",
+      "path": "files/facfd9adf1040bfd0f4fb5052ea0.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "e33598f6f0cbb296c4b17ae184ccbceb5f912035db9e43594bdf46edc62f8f55",
+      "size": 7786,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/reference-snapshots/latest.json",
+      "path": "files/894d818ab8de0cf537afa92cadd4.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "45b4f2e8f3f95beba13f094f7f4698dd8b33e0a9d436bc004944479320f8133c",
+      "size": 462646,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/data/traffic-counter.json",
+      "path": "files/959bd9e2541c45bbd12f596f2aaf.json",
+      "contentType": "application/json",
+      "status": 200,
+      "sha256": "a35cf92fa400d8dd3f1d113b8035a6ad6818df30b983c32556c2f9efc185ad72",
+      "size": 342,
+      "headers": {
+        "Content-Type": "application/json",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/en/radar",
+      "path": "files/6ef0eba1cbb947835dff0fc72da2.html",
+      "contentType": "text/html; charset=utf-8",
+      "status": 200,
+      "sha256": "24324b6fbd0d2920291e22ebad893264dff8b644e9f8cd75271560103e29c73a",
+      "size": 583415,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "Cache-Control": "no-cache",
+        "X-ModelDial-Publication": "ec2bac1a12f9ad38f72bc83be5b92edb22e833aabd33c42102584166e25ae9df",
+        "X-ModelDial-Seed": "slim",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/favicon.ico?favicon.1n2icjauipzj6.ico",
+      "path": "files/3802a5fe11abda864d00319a46f4.ico",
+      "contentType": "image/vnd.microsoft.icon",
+      "status": 200,
+      "sha256": "af773355a2654d576cd791afc8a0b0e4dde425ab360ea505fc32fcb599c8dea9",
+      "size": 2813,
+      "headers": {
+        "Content-Type": "image/vnd.microsoft.icon",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/google-analytics.74d2b902d2ce.js",
+      "path": "files/98ea8bbf8d5501a76fca46827452.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "sha256": "74d2b902d2ce1644b2ca3198426268c6458f589be27578a03af4c0be880519a4",
+      "size": 23929,
+      "headers": {
+        "Content-Type": "application/javascript",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/llms.txt",
+      "path": "files/90c1f2d990240f3889efcf7f9e9d.txt",
+      "contentType": "text/plain; charset=utf-8",
+      "status": 200,
+      "sha256": "58ef6cf646dc9989ed280848dc7f22715810b560d66b5fba4d47d97527404ab7",
+      "size": 3394,
+      "headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/openapi-v1.json",
+      "path": "files/7c22e56e600af353da5a7785674b.json",
+      "contentType": "application/json",
+      "status": 200,
+      "sha256": "d544bd6e463a359cb843d12b86a68fddcb13a31854b06d1d3b47db02252b32c8",
+      "size": 21635,
+      "headers": {
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/anthropic-lobe.svg",
+      "path": "files/d5540b627a6f26c92da8e6f04664.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "ba6f380244a0bfcfc5ba82b0c95daa0da0c2b10c675ba5ab6cda2b3aad236ba8",
+      "size": 369,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/deepseek-lobe.svg",
+      "path": "files/26f331a3abc4a8727566b2b00c66.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "da7ea009ae25b2cac7b84ab96212567954c9e4edeb2a1f946a0224208dbce8c2",
+      "size": 2190,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/doubao-lobe.svg",
+      "path": "files/e0890f6c65b90a25f2a616fb4b34.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "efdc477b20dfd1914007d267746279df577f53b642ee5f50f9ccba4ac7d1eddb",
+      "size": 1143,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/geist-latin.woff2",
+      "path": "files/fe4c16baae36829a7e051cae9f95.bin",
+      "contentType": "font/woff2",
+      "status": 200,
+      "sha256": "1b5ebfb3a01a97343ac96873e6d59a8cb285c66012b6a1ac509cb2765e995ba8",
+      "size": 28356,
+      "headers": {
+        "Content-Type": "font/woff2",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/geist-mono-latin.woff2",
+      "path": "files/8b5086a35c199b2b080e6cbffb95.bin",
+      "contentType": "font/woff2",
+      "status": 200,
+      "sha256": "b7ac144b394cbd81052d6397ec0c33397977b1d7e9bc095e744e652a378c6fb3",
+      "size": 31288,
+      "headers": {
+        "Content-Type": "font/woff2",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/google-lobe.svg",
+      "path": "files/10ccde03dfee0895a9374b4345a0.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "7f0fedc0f60e28d230a285d7905488674389a81e2b5822348e6547363a334bb1",
+      "size": 901,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/hunyuan-lobe.svg",
+      "path": "files/b3fa9da067d9422a283fd1eb6406.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "7306a65eb71c4de61e21a637e5c4fef94afde823678e225c46f891cc783f6531",
+      "size": 954,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/meta-mono-lobe.svg",
+      "path": "files/ba108c42e630af1e86091739ccd8.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "805ef9a35305393eb5a89be46b0708c9b119b3308ca44aaedd1457ff04857060",
+      "size": 1735,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/mimo-official.png",
+      "path": "files/02966f817c7762d0313ccc0f8b60.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "412f6909b6217e6c4872bde89ef5e1fc2a23850960ccac40730081d2d98305c5",
+      "size": 29959,
+      "headers": {
+        "Content-Type": "image/png",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/minimax-lobe.svg",
+      "path": "files/cad5b98276b6a5a5d555cb974b4f.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "2695dd9ff3269d397818d89550e58f3d65bb6f93c5608dc3044588f57bc24e7b",
+      "size": 1335,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/moonshot-lobe.svg",
+      "path": "files/596910938a797fd652bc8026acea.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "4b1288c76220e999fa7033a72e4a8f6d477b17b0cb863ada53a40a41220ede61",
+      "size": 4029,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/nvidia-lobe.svg",
+      "path": "files/6f414dd748237f608dd7912ef7dc.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "5a419b99e0ffdbfbe8caa7ec25581054eae03024da59cb860c54ea55ac8e7e73",
+      "size": 1030,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/openai-lobe.svg",
+      "path": "files/189773499e46774cebe4b5a0e5ff.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "802335af1ddb4e135468f689aabe7ac7798a3177c1b71bbd4549fc602e9264ed",
+      "size": 1688,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/qwen-lobe.svg",
+      "path": "files/7e4497901a758cf7fa9003e6f7d3.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "da3440f061aeb36e1110bd88ee5b2210d9c9a122a9dce55314234199b3088da1",
+      "size": 1791,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/stepfun-official-transparent.png",
+      "path": "files/461a0f5d7d378c8e063ea0ba0dbe.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "39fdff1b5f2b9d30ad627ed5d6e2c0accd43e7b2b32cec6c77623470f9223b81",
+      "size": 681,
+      "headers": {
+        "Content-Type": "image/png",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/unbiased-official.svg",
+      "path": "files/bf0b787259cdf9390ff16a341b11.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "7ba2aca12699723b474e2d63277eff7ddf41f0bde07e38ab774b21c0326f65a2",
+      "size": 494,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/unknown-mark.svg",
+      "path": "files/505380bb5f1cd9d9ff87d471196c.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "85b509e0775ed3232698354eb8e4ecf47b6df9fd0ccc06221a70bf32b784c8b3",
+      "size": 296,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/xai-lobe.svg",
+      "path": "files/f13af39d468f28593ada17ad5070.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "0410d14cf99a22d55d34712e9db5e4d0b8b156baa31e7d8c561848847e542edc",
+      "size": 373,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/assets/zhipu-lobe.svg",
+      "path": "files/e4d25a418be7e92e23a62b59314e.svg",
+      "contentType": "image/svg+xml",
+      "status": 200,
+      "sha256": "239853fdb83b6d9a830b8f6d78dc16fc72e81323bac9a10914df5926b8bd5647",
+      "size": 3603,
+      "headers": {
+        "Content-Type": "image/svg+xml",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=14400, must-revalidate"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/product-evaluations.css",
+      "path": "files/f2c5e8aba90c34eaec6b890a225f.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "349fd620fb9fcaebd51683202e0dff64d21043d7ad7be7d4523264b366216392",
+      "size": 2370,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/product-evaluations.css?v=349fd620fb9fcaeb",
+      "path": "files/4278c89585be137fd38d82d34c38.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "349fd620fb9fcaebd51683202e0dff64d21043d7ad7be7d4523264b366216392",
+      "size": 2370,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-base.css",
+      "path": "files/38b1fe71aafb6b1c77b3038b3396.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "3d424d66429d27b927e3e2bfba8ca0e60d3a5a6aae05fc61f81bb7d6bf96c7b5",
+      "size": 137891,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-base.css?v=3d424d66429d27b9",
+      "path": "files/796feec2fd35b96a7a6cb4f2cb60.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "3d424d66429d27b927e3e2bfba8ca0e60d3a5a6aae05fc61f81bb7d6bf96c7b5",
+      "size": 137891,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-boards.css",
+      "path": "files/c4378f5e2d357df5d6e9026f33bc.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "d7eaefb72070d4e10fbd38c3fbbe35a51b6bf5bbbbbebeb5e271b18cf38c84a4",
+      "size": 32647,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-boards.css?v=d7eaefb72070d4e1",
+      "path": "files/74d5f2b088db9988700e9a4174c8.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "d7eaefb72070d4e10fbd38c3fbbe35a51b6bf5bbbbbebeb5e271b18cf38c84a4",
+      "size": 32647,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-charts.css",
+      "path": "files/65d1d164e2993437da7b6cb567e9.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "fb71813fac691cbdaa92c8772d508d22059ee8c893e34683499a43df23ec23de",
+      "size": 14625,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-charts.css?v=fb71813fac691cbd",
+      "path": "files/e3eb2f945e3a64e81604a25e46de.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "fb71813fac691cbdaa92c8772d508d22059ee8c893e34683499a43df23ec23de",
+      "size": 14625,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-compare.css",
+      "path": "files/5ba890577d43b724499672678f3b.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "0f236325c4ba6ca7e72ec48cd7e608cf78592b87d5f05d623075108619c836b6",
+      "size": 23583,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-content.css",
+      "path": "files/7911875c75c49e93e2d0522b617e.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "5ce8505ec434ac24f049a7b523c799d43a49d0d8343d40cc3226cb24ca26707e",
+      "size": 51511,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-content.css?v=5ce8505ec434ac24",
+      "path": "files/dde7f31c51acd642d1914de25c0f.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "5ce8505ec434ac24f049a7b523c799d43a49d0d8343d40cc3226cb24ca26707e",
+      "size": 51511,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-compare.css",
+      "path": "files/aa9fcfce7cef1721428b111b0bcc.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "4d0f8a4aa95da296ba8f50dc77f0738f2742641e4a3231b54a4b8632f628ebc9",
+      "size": 132161,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-contact.css",
+      "path": "files/9e81bbb8414a7f10cbd5f6282300.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "4356193348e548101523d51fce0d18830122cfdb77b51bcff409b9bcd4498abf",
+      "size": 63592,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-datasets.css",
+      "path": "files/d41ae91640fbb87a7e3c75d10e57.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "d9f15deb5bba05368b9f1dc7b16b33c88b154dfc51bcd016018f5daae22c8f07",
+      "size": 68975,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-guides.css",
+      "path": "files/78dc1e438f602bc02f895be6c978.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "e55fc18df9f9b39a80d516d64b2203851d3058049ec3d1418b005977838dcf7c",
+      "size": 69763,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-home.css",
+      "path": "files/8d86459e926ba528d117d4cd09c7.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "42a2f5962727d744dbf51c74ff9ed1e797c42dab7032176a9136c3ec2aa56f68",
+      "size": 138392,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-method.css",
+      "path": "files/34789d22a5b96070dc8e45651659.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "7ffc9f542481da1cd2bf9b4685bcf9eba82a801c62c8e750b8f6fadb87591074",
+      "size": 68616,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-model.css",
+      "path": "files/e76512c0a099036ef432655ee892.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "d0db8780ad354ffd38a6b82aaeee00a25a05a45f5511b6d103364842f6929652",
+      "size": 90814,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-radar.css",
+      "path": "files/adbb8d0da3a52a56286caebebef8.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "bf30f19e3fe5e63df7fc024f49458cd3f67a88d2c7a4e0e80048014f72f6e9fa",
+      "size": 180352,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design-radar.css?v=bf30f19e3fe5e63d",
+      "path": "files/d10e12bbbd379f41b36a1e5d200c.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "bf30f19e3fe5e63df7fc024f49458cd3f67a88d2c7a4e0e80048014f72f6e9fa",
+      "size": 180352,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-design.css",
+      "path": "files/91f834739ea0bbff6923884f56f4.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "2d4b7d2919202e9924e66d4d875b0be89fe4350d16b3ecf174e97e5623931b4f",
+      "size": 388791,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-radar.css",
+      "path": "files/f36d39865ef7d3a687fd6f95748e.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "c227f865a87052c10297267e52c305d0c25fa2f342fa149cc73490b5d18636a3",
+      "size": 11529,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-radar.css?v=c227f865a87052c1",
+      "path": "files/b9029277671036a23edf17b5bb06.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "c227f865a87052c10297267e52c305d0c25fa2f342fa149cc73490b5d18636a3",
+      "size": 11529,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-table.css",
+      "path": "files/58b60dcd5d89e748c57ae5949a4c.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "65548979de6622246588bd1b3318774d4de5c1f3321bb81df96e9c413b9f1f6b",
+      "size": 5836,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/overview/styles-table.css?v=65548979de662224",
+      "path": "files/ac061e6169cd8c97c8916b507b24.css",
+      "contentType": "text/css; charset=utf-8",
+      "status": 200,
+      "sha256": "65548979de6622246588bd1b3318774d4de5c1f3321bb81df96e9c413b9f1f6b",
+      "size": 5836,
+      "headers": {
+        "Content-Type": "text/css; charset=utf-8",
+        "Cache-Control": "public, max-age=14400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/radar",
+      "path": "files/4f765c605ddc6f39b953fa5cebfe.html",
+      "contentType": "text/html; charset=utf-8",
+      "status": 200,
+      "sha256": "45944e6ed81920f6cf278a84d8bee00a7d69b2463b5af6843de32b510a8d8340",
+      "size": 582773,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "Cache-Control": "no-cache",
+        "X-ModelDial-Publication": "ec2bac1a12f9ad38f72bc83be5b92edb22e833aabd33c42102584166e25ae9df",
+        "X-ModelDial-Seed": "slim",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/seo/modeldial-radar-en.png?v=b1-blue-dot",
+      "path": "files/a945f59c8a7c85f25ec8b01fd869.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "ff5e86099ef34d82d07b537fb9e5163882bf7bd8b0417544056f175dc2314c48",
+      "size": 62175,
+      "headers": {
+        "Content-Type": "image/png",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://modeldial.com/seo/modeldial-radar-zh-CN.png?v=b1-blue-dot",
+      "path": "files/4a7342d78407d3ebd6d2ddd884f7.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "84d66f704d6faacb102656665d2b7f6419c8287cb0254ae2bee2dfff9618edc9",
+      "size": 55853,
+      "headers": {
+        "Content-Type": "image/png",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "content-security-policy": "frame-ancestors 'none'"
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ModelDialAI/.github/main/profile/README.md",
+      "path": "files/24474afabf3e591550df56f07742.txt",
+      "contentType": "text/plain; charset=utf-8",
+      "status": 200,
+      "sha256": "96321402daec7e5329bf8e2d25e9a6598ef2e6513302a55274f37886344478b4",
+      "size": 6427,
+      "headers": {
+        "Cache-Control": "max-age=300",
+        "Content-Security-Policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+        "Content-Type": "text/plain; charset=utf-8",
+        "Access-Control-Allow-Origin": "*"
+      }
+    },
+    {
+      "url": "https://reference.modeldial.com/community/current.json",
+      "path": "files/b5114a09476daeead1eee55ec87a.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "f246acebd95865f8e757cf7f59c813fde4e9b3d757e8c88c68b873ed49b2a757",
+      "size": 298,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "url": "https://reference.modeldial.com/community/images/6281c8003294c902f5be99b2a1224a3cbf4010991eed67d37056995b1c77b5cf.png",
+      "path": "files/30b3c072139a3fb935f237a393a8.png",
+      "contentType": "image/png",
+      "status": 200,
+      "sha256": "6281c8003294c902f5be99b2a1224a3cbf4010991eed67d37056995b1c77b5cf",
+      "size": 325182,
+      "headers": {
+        "Content-Type": "image/png",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "url": "https://reference.modeldial.com/model-display-names/current.json",
+      "path": "files/44137788b162a9c96600dd1d72db.json",
+      "contentType": "application/json; charset=utf-8",
+      "status": 200,
+      "sha256": "b7289648104c5dbec048b2d2f716993763d29a65bd44a685293362a776f615e5",
+      "size": 743,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    }
+  ]
+}

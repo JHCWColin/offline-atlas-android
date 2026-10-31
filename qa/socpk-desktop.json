@@ -1,0 +1,1817 @@
+{
+  "engine": "150.0.7871.187",
+  "capturedAt": "2026-10-31T11:43:18.053Z",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "networkPolicy": "Manifest-only. External requests fulfilled from local snapshot; no Internet fallback.",
+  "chartCount": 14,
+  "chipListCount": 157,
+  "chipDetailCount": 157,
+  "missing": [],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "requests": [
+    "http://127.0.0.1:18091/",
+    "http://127.0.0.1:18091/assets/index-BgBY0hhf.js",
+    "http://127.0.0.1:18091/assets/index-CMIuTGbY.css",
+    "http://127.0.0.1:18091/api/site",
+    "http://127.0.0.1:18091/assets/brand/SOCPK-Logo-White.png",
+    "http://127.0.0.1:18091/assets/brand/geekerwan-logo-white.svg",
+    "http://127.0.0.1:18091/assets/HomePage-z0oxE-gy.js",
+    "http://127.0.0.1:18091/assets/HScrollRow-BmxIcFzA.js",
+    "http://127.0.0.1:18091/assets/HScrollRow-zVHTV0Bw.css",
+    "http://127.0.0.1:18091/assets/colors-DPKHw8g-.js",
+    "http://127.0.0.1:18091/assets/HomePage-CMAUJO_0.css",
+    "http://127.0.0.1:18091/api/pages/mobile-soc-efficiency-gb7",
+    "http://127.0.0.1:18091/api/pages/mobile-soc-efficiency-gb7/data",
+    "http://127.0.0.1:18091/assets/brand/favicon.png",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425609602-e3c255ebaee2.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788503315315-6b0b6ea42d42.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425664769-22f5e269eacf.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425843746-bfc705b0b6f1.jpg",
+    "http://127.0.0.1:18091/category/mobile-soc",
+    "http://127.0.0.1:18091/assets/CategoryPage-CsFChaMi.js",
+    "http://127.0.0.1:18091/assets/ambient-M-lxepVc.js",
+    "http://127.0.0.1:18091/assets/CategoryPage-O_djGBR7.css",
+    "http://127.0.0.1:18091/category/battery-5.0",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1787664783766-eda570ba9237.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425693583-0d6dfea005fe.jpg",
+    "http://127.0.0.1:18091/category/laptop-gpu-curve",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425679866-0fdcb1cec5a6.jpg",
+    "http://127.0.0.1:18091/category/history",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425729845-e71ae1da94f9.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425739503-fa72ab4c585b.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425751189-f495c759e931.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425769854-469633da26fe.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425782032-c3e4af9303eb.jpg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1788425800066-79e3ccea0ec7.jpg",
+    "http://127.0.0.1:18091/chart/mobile-soc-spec26",
+    "http://127.0.0.1:18091/assets/ChartPage-Db-6zRix.js",
+    "http://127.0.0.1:18091/assets/vendors-MT4h8O6w.js",
+    "http://127.0.0.1:18091/assets/vendors-DyVqyn8S.css",
+    "http://127.0.0.1:18091/assets/ChartPage-Byz9TUJB.css",
+    "http://127.0.0.1:18091/api/pages/mobile-soc-spec26",
+    "http://127.0.0.1:18091/assets/logos/gkwlogo-wm-dark.png",
+    "http://127.0.0.1:18091/api/pages/mobile-soc-spec26/data",
+    "http://127.0.0.1:18091/assets/mainpic/lefttop_white.png",
+    "http://127.0.0.1:18091/assets/mainpic/lefttop_black.png",
+    "http://127.0.0.1:18091/chart/mobile-soc-efficiency-gb7",
+    "http://127.0.0.1:18091/chart/mobile-soc-efficiency-snl",
+    "http://127.0.0.1:18091/api/pages/mobile-soc-efficiency-snl",
+    "http://127.0.0.1:18091/api/pages/mobile-soc-efficiency-snl/data",
+    "http://127.0.0.1:18091/chart/charge-curves",
+    "http://127.0.0.1:18091/api/pages/charge-curves",
+    "http://127.0.0.1:18091/api/pages/charge-curves/data",
+    "http://127.0.0.1:18091/chart/battery-life-5-0",
+    "http://127.0.0.1:18091/api/pages/battery-life-5-0",
+    "http://127.0.0.1:18091/api/pages/battery-life-5-0/data",
+    "http://127.0.0.1:18091/chart/laptop-gpu-efficiency",
+    "http://127.0.0.1:18091/api/pages/laptop-gpu-efficiency",
+    "http://127.0.0.1:18091/assets/logos/bbpcslogo-wm-dark.png",
+    "http://127.0.0.1:18091/api/pages/laptop-gpu-efficiency/data",
+    "http://127.0.0.1:18091/chart/geekbench-6",
+    "http://127.0.0.1:18091/api/pages/geekbench-6",
+    "http://127.0.0.1:18091/api/pages/geekbench-6/data",
+    "http://127.0.0.1:18091/chart/geekbench-5",
+    "http://127.0.0.1:18091/api/pages/geekbench-5",
+    "http://127.0.0.1:18091/api/pages/geekbench-5/data",
+    "http://127.0.0.1:18091/chart/gfxbench-5",
+    "http://127.0.0.1:18091/api/pages/gfxbench-5",
+    "http://127.0.0.1:18091/api/pages/gfxbench-5/data",
+    "http://127.0.0.1:18091/chart/3dmark-wle",
+    "http://127.0.0.1:18091/api/pages/3dmark-wle",
+    "http://127.0.0.1:18091/api/pages/3dmark-wle/data",
+    "http://127.0.0.1:18091/chart/chip-overall",
+    "http://127.0.0.1:18091/api/pages/chip-overall",
+    "http://127.0.0.1:18091/api/pages/chip-overall/data",
+    "http://127.0.0.1:18091/chart/chip-cpu",
+    "http://127.0.0.1:18091/api/pages/chip-cpu",
+    "http://127.0.0.1:18091/api/pages/chip-cpu/data",
+    "http://127.0.0.1:18091/chart/chip-gpu",
+    "http://127.0.0.1:18091/api/pages/chip-gpu",
+    "http://127.0.0.1:18091/api/pages/chip-gpu/data",
+    "http://127.0.0.1:18091/chart/chip-cpu-efficiency",
+    "http://127.0.0.1:18091/api/pages/chip-cpu-efficiency",
+    "http://127.0.0.1:18091/api/pages/chip-cpu-efficiency/data",
+    "http://127.0.0.1:18091/chips",
+    "http://127.0.0.1:18091/assets/ChipDbPage-COlp_SdS.js",
+    "http://127.0.0.1:18091/assets/ChipDbPage-Cd73ianj.css",
+    "http://127.0.0.1:18091/api/chips",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-samsung.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-exynos-default.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-exynos-default-no5g.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-huawei.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-hisilicon-default.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/icon-brand-xiaomi.svg",
+    "http://127.0.0.1:18091/assets/socpics/uploads/1787658413733-4846ac651f25.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-xringo1.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-surge-s1.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-amlogic.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-amlogic-default.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-broadcom.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-raspi-default.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-unisoc.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-unisoc-default.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-unisoc-default-no5g.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-mediatek.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-d9500.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-d9400.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-d9300.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-d9200.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-d9000.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-nvidia.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-tegra-x1.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-tegra-k1.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/icon-brand-apple-white.svg",
+    "http://127.0.0.1:18091/assets/socpics/icon-m4.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-m2.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-m1.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a19pro.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a19.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a18pro.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a18.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a17pro.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a16.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a12x.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a15.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a14.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a13.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a12.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a11.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a10x.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a10.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a9.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a8.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-a7.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-google.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-tensor-default.png",
+    "http://127.0.0.1:18091/assets/socpics/brand/brand-snapdragon.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-8elitegen5.png",
+    "http://127.0.0.1:18091/assets/socpics/icon-8elite.png",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-8gen5.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-8gen3.svg",
+    "http://127.0.0.1:18091/assets/socpics/icon-8sgen3.png",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-8gen2.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-8plusgen1.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-8gen1.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-888plus.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-888.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-870.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-865plus.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-865.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-855plus.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-855.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-845.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-835.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-821.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-810.svg",
+    "http://127.0.0.1:18091/assets/socpics/svg/icon-808.svg",
+    "http://127.0.0.1:18091/chips/186",
+    "http://127.0.0.1:18091/assets/ChipDetailPage-DI9fA5OT.js",
+    "http://127.0.0.1:18091/assets/benchmarks-B01_SL6K.js",
+    "http://127.0.0.1:18091/assets/ChipDetailPage-BLkpSwxL.css",
+    "http://127.0.0.1:18091/chips/209",
+    "http://127.0.0.1:18091/chips/217",
+    "http://127.0.0.1:18091/chips/226",
+    "http://127.0.0.1:18091/chips/233",
+    "http://127.0.0.1:18091/chips/246",
+    "http://127.0.0.1:18091/chips/258",
+    "http://127.0.0.1:18091/chips/267",
+    "http://127.0.0.1:18091/chips/283",
+    "http://127.0.0.1:18091/chips/290",
+    "http://127.0.0.1:18091/chips/311",
+    "http://127.0.0.1:18091/chips/202",
+    "http://127.0.0.1:18091/chips/208",
+    "http://127.0.0.1:18091/chips/212",
+    "http://127.0.0.1:18091/chips/213",
+    "http://127.0.0.1:18091/chips/214",
+    "http://127.0.0.1:18091/chips/220",
+    "http://127.0.0.1:18091/chips/229",
+    "http://127.0.0.1:18091/chips/245",
+    "http://127.0.0.1:18091/chips/230",
+    "http://127.0.0.1:18091/chips/331",
+    "http://127.0.0.1:18091/chips/249",
+    "http://127.0.0.1:18091/chips/251",
+    "http://127.0.0.1:18091/chips/282",
+    "http://127.0.0.1:18091/chips/286",
+    "http://127.0.0.1:18091/chips/297",
+    "http://127.0.0.1:18091/chips/240",
+    "http://127.0.0.1:18091/chips/256",
+    "http://127.0.0.1:18091/chips/265",
+    "http://127.0.0.1:18091/chips/300",
+    "http://127.0.0.1:18091/chips/339",
+    "http://127.0.0.1:18091/chips/177",
+    "http://127.0.0.1:18091/chips/319",
+    "http://127.0.0.1:18091/chips/312",
+    "http://127.0.0.1:18091/chips/326",
+    "http://127.0.0.1:18091/chips/257",
+    "http://127.0.0.1:18091/chips/260",
+    "http://127.0.0.1:18091/chips/262",
+    "http://127.0.0.1:18091/chips/279",
+    "http://127.0.0.1:18091/chips/288",
+    "http://127.0.0.1:18091/chips/295",
+    "http://127.0.0.1:18091/chips/303",
+    "http://127.0.0.1:18091/chips/304",
+    "http://127.0.0.1:18091/chips/306",
+    "http://127.0.0.1:18091/chips/322",
+    "http://127.0.0.1:18091/chips/172",
+    "http://127.0.0.1:18091/chips/178",
+    "http://127.0.0.1:18091/chips/181",
+    "http://127.0.0.1:18091/chips/191",
+    "http://127.0.0.1:18091/chips/201",
+    "http://127.0.0.1:18091/chips/187",
+    "http://127.0.0.1:18091/chips/196",
+    "http://127.0.0.1:18091/chips/211",
+    "http://127.0.0.1:18091/chips/219",
+    "http://127.0.0.1:18091/chips/235",
+    "http://127.0.0.1:18091/chips/228",
+    "http://127.0.0.1:18091/chips/232",
+    "http://127.0.0.1:18091/chips/234",
+    "http://127.0.0.1:18091/chips/254",
+    "http://127.0.0.1:18091/chips/231",
+    "http://127.0.0.1:18091/chips/253",
+    "http://127.0.0.1:18091/chips/255",
+    "http://127.0.0.1:18091/chips/252",
+    "http://127.0.0.1:18091/chips/272",
+    "http://127.0.0.1:18091/chips/266",
+    "http://127.0.0.1:18091/chips/271",
+    "http://127.0.0.1:18091/chips/281",
+    "http://127.0.0.1:18091/chips/278",
+    "http://127.0.0.1:18091/chips/273",
+    "http://127.0.0.1:18091/chips/274",
+    "http://127.0.0.1:18091/chips/299",
+    "http://127.0.0.1:18091/chips/301",
+    "http://127.0.0.1:18091/chips/292",
+    "http://127.0.0.1:18091/chips/309",
+    "http://127.0.0.1:18091/chips/285",
+    "http://127.0.0.1:18091/chips/305",
+    "http://127.0.0.1:18091/chips/314",
+    "http://127.0.0.1:18091/chips/280",
+    "http://127.0.0.1:18091/chips/310",
+    "http://127.0.0.1:18091/chips/346",
+    "http://127.0.0.1:18091/chips/345",
+    "http://127.0.0.1:18091/chips/169",
+    "http://127.0.0.1:18091/chips/344",
+    "http://127.0.0.1:18091/chips/175",
+    "http://127.0.0.1:18091/chips/184",
+    "http://127.0.0.1:18091/chips/173",
+    "http://127.0.0.1:18091/chips/174",
+    "http://127.0.0.1:18091/chips/180",
+    "http://127.0.0.1:18091/chips/182",
+    "http://127.0.0.1:18091/chips/185",
+    "http://127.0.0.1:18091/chips/189",
+    "http://127.0.0.1:18091/chips/197",
+    "http://127.0.0.1:18091/chips/198",
+    "http://127.0.0.1:18091/chips/327",
+    "http://127.0.0.1:18091/chips/203",
+    "http://127.0.0.1:18091/chips/210",
+    "http://127.0.0.1:18091/chips/227",
+    "http://127.0.0.1:18091/chips/243",
+    "http://127.0.0.1:18091/chips/244",
+    "http://127.0.0.1:18091/chips/270",
+    "http://127.0.0.1:18091/chips/291",
+    "http://127.0.0.1:18091/chips/316",
+    "http://127.0.0.1:18091/chips/324",
+    "http://127.0.0.1:18091/chips/342",
+    "http://127.0.0.1:18091/chips/341",
+    "http://127.0.0.1:18091/chips/343",
+    "http://127.0.0.1:18091/chips/206",
+    "http://127.0.0.1:18091/chips/340",
+    "http://127.0.0.1:18091/chips/221",
+    "http://127.0.0.1:18091/chips/171",
+    "http://127.0.0.1:18091/chips/176",
+    "http://127.0.0.1:18091/chips/179",
+    "http://127.0.0.1:18091/chips/183",
+    "http://127.0.0.1:18091/chips/193",
+    "http://127.0.0.1:18091/chips/188",
+    "http://127.0.0.1:18091/chips/199",
+    "http://127.0.0.1:18091/chips/205",
+    "http://127.0.0.1:18091/chips/215",
+    "http://127.0.0.1:18091/chips/216",
+    "http://127.0.0.1:18091/chips/223",
+    "http://127.0.0.1:18091/chips/222",
+    "http://127.0.0.1:18091/chips/225",
+    "http://127.0.0.1:18091/chips/237",
+    "http://127.0.0.1:18091/chips/236",
+    "http://127.0.0.1:18091/chips/238",
+    "http://127.0.0.1:18091/chips/259",
+    "http://127.0.0.1:18091/chips/277",
+    "http://127.0.0.1:18091/chips/293",
+    "http://127.0.0.1:18091/chips/315",
+    "http://127.0.0.1:18091/chips/320",
+    "http://127.0.0.1:18091/chips/333",
+    "http://127.0.0.1:18091/chips/194",
+    "http://127.0.0.1:18091/chips/207",
+    "http://127.0.0.1:18091/chips/239",
+    "http://127.0.0.1:18091/chips/247",
+    "http://127.0.0.1:18091/chips/241",
+    "http://127.0.0.1:18091/chips/242",
+    "http://127.0.0.1:18091/chips/248",
+    "http://127.0.0.1:18091/chips/335",
+    "http://127.0.0.1:18091/chips/269",
+    "http://127.0.0.1:18091/chips/268",
+    "http://127.0.0.1:18091/chips/275",
+    "http://127.0.0.1:18091/chips/287",
+    "http://127.0.0.1:18091/chips/250",
+    "http://127.0.0.1:18091/chips/261",
+    "http://127.0.0.1:18091/chips/289",
+    "http://127.0.0.1:18091/chips/284",
+    "http://127.0.0.1:18091/chips/298",
+    "http://127.0.0.1:18091/chips/302",
+    "http://127.0.0.1:18091/chips/294",
+    "http://127.0.0.1:18091/chips/307",
+    "http://127.0.0.1:18091/chips/313",
+    "http://127.0.0.1:18091/chips/264",
+    "http://127.0.0.1:18091/chips/263",
+    "http://127.0.0.1:18091/chips/276",
+    "http://127.0.0.1:18091/chips/321",
+    "http://127.0.0.1:18091/chips/323",
+    "http://127.0.0.1:18091/assets/brand/SOCPK-Logo-Black.png",
+    "http://127.0.0.1:18091/assets/brand/geekerwan-logo-black.svg",
+    "http://127.0.0.1:18091/assets/logos/gkwlogo-wm-light.png",
+    "http://127.0.0.1:18091/assets/logos/bbpcslogo-wm-light.png"
+  ],
+  "buttons": [
+    {
+      "text": "Feedback",
+      "title": "",
+      "aria": null,
+      "class": "feedback-item"
+    },
+    {
+      "text": "中",
+      "title": "Switch language",
+      "aria": null,
+      "class": "toggle-btn lang-btn"
+    },
+    {
+      "text": "",
+      "title": "Toggle theme: Light",
+      "aria": null,
+      "class": "toggle-btn"
+    },
+    {
+      "text": "",
+      "title": "",
+      "aria": "Open menu",
+      "class": "circle-btn menu-btn"
+    },
+    {
+      "text": "中",
+      "title": "Switch language",
+      "aria": null,
+      "class": "circle-btn"
+    },
+    {
+      "text": "",
+      "title": "Toggle theme: Light",
+      "aria": null,
+      "class": "circle-btn"
+    },
+    {
+      "text": "",
+      "title": "Back",
+      "aria": "Back",
+      "class": "back-btn"
+    },
+    {
+      "text": "",
+      "title": "Fullscreen",
+      "aria": "Fullscreen",
+      "class": "fs-open"
+    },
+    {
+      "text": "Filter chips",
+      "title": "Select models",
+      "aria": "Select models",
+      "class": "panel-button"
+    }
+  ],
+  "results": [
+    {
+      "type": "home",
+      "title": "SOCPK",
+      "bodyLength": 198,
+      "brokenImages": []
+    },
+    {
+      "type": "category",
+      "category": "mobile-soc",
+      "bodyLength": 107,
+      "brokenImages": []
+    },
+    {
+      "type": "category",
+      "category": "battery-5.0",
+      "bodyLength": 175,
+      "brokenImages": []
+    },
+    {
+      "type": "category",
+      "category": "laptop-gpu-curve",
+      "bodyLength": 130,
+      "brokenImages": []
+    },
+    {
+      "type": "category",
+      "category": "history",
+      "bodyLength": 202,
+      "brokenImages": []
+    },
+    {
+      "type": "chart",
+      "slug": "mobile-soc-spec26",
+      "title": "手机 CPU 单核能效曲线",
+      "bodyLength": 1063,
+      "canvas": 0,
+      "svg": 9,
+      "brokenImages": [],
+      "interactions": [
+        {
+          "type": "hideAll",
+          "count": "已选 0/53"
+        },
+        {
+          "type": "showAll",
+          "count": "已选 53/53"
+        },
+        {
+          "type": "suite",
+          "label": "INT"
+        },
+        {
+          "type": "suite",
+          "label": "FP"
+        },
+        {
+          "type": "fullscreenAndZoom",
+          "canvas": 0
+        }
+      ],
+      "panelCount": "已选 20/53"
+    },
+    {
+      "type": "chart",
+      "slug": "mobile-soc-efficiency-gb7",
+      "title": "手机 CPU 多核能效曲线",
+      "bodyLength": 602,
+      "canvas": 0,
+      "svg": 9,
+      "brokenImages": [],
+      "interactions": [
+        {
+          "type": "hideAll",
+          "count": "已选 0/34"
+        },
+        {
+          "type": "showAll",
+          "count": "已选 34/34"
+        },
+        {
+          "type": "suite",
+          "label": "GB6"
+        },
+        {
+          "type": "suite",
+          "label": "GB7"
+        },
+        {
+          "type": "fullscreenAndZoom",
+          "canvas": 0
+        }
+      ],
+      "panelCount": "已选 30/34"
+    },
+    {
+      "type": "chart",
+      "slug": "mobile-soc-efficiency-snl",
+      "title": "手机 GPU 能效曲线",
+      "bodyLength": 552,
+      "canvas": 0,
+      "svg": 9,
+      "brokenImages": [],
+      "interactions": [
+        {
+          "type": "hideAll",
+          "count": "已选 0/33"
+        },
+        {
+          "type": "showAll",
+          "count": "已选 33/33"
+        },
+        {
+          "type": "fullscreenAndZoom",
+          "canvas": 0
+        }
+      ],
+      "panelCount": "已选 15/33"
+    },
+    {
+      "type": "chart",
+      "slug": "charge-curves",
+      "title": "手机充电曲线",
+      "bodyLength": 580,
+      "canvas": 0,
+      "svg": 7,
+      "brokenImages": [],
+      "interactions": [
+        {
+          "type": "hideAll",
+          "count": "已选 0/74"
+        },
+        {
+          "type": "showAll",
+          "count": "已选 74/74"
+        }
+      ],
+      "panelCount": "已选 12/74"
+    },
+    {
+      "type": "chart",
+      "slug": "battery-life-5-0",
+      "title": "手机续航排行榜",
+      "bodyLength": 4028,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "laptop-gpu-efficiency",
+      "title": "笔记本显卡能效曲线",
+      "bodyLength": 464,
+      "canvas": 0,
+      "svg": 8,
+      "brokenImages": [],
+      "interactions": [
+        {
+          "type": "hideAll",
+          "count": "已选 0/37"
+        },
+        {
+          "type": "showAll",
+          "count": "已选 37/37"
+        },
+        {
+          "type": "fullscreenAndZoom",
+          "canvas": 0
+        }
+      ],
+      "panelCount": "已选 13/37"
+    },
+    {
+      "type": "chart",
+      "slug": "geekbench-6",
+      "title": "Geekbench 6 跑分排行",
+      "bodyLength": 1436,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "geekbench-5",
+      "title": "Geekbench 5 跑分排行",
+      "bodyLength": 2492,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "gfxbench-5",
+      "title": "GFXBench 5 排行",
+      "bodyLength": 2340,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "3dmark-wle",
+      "title": "3DMark Wild Life Extreme",
+      "bodyLength": 1449,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "chip-overall",
+      "title": "手机芯片综合性能排行",
+      "bodyLength": 2851,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "chip-cpu",
+      "title": "手机芯片 CPU 性能排行",
+      "bodyLength": 2822,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "chip-gpu",
+      "title": "手机芯片 GPU 性能排行",
+      "bodyLength": 2828,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chart",
+      "slug": "chip-cpu-efficiency",
+      "title": "手机芯片 CPU 能效排行",
+      "bodyLength": 962,
+      "canvas": 0,
+      "svg": 6,
+      "brokenImages": [],
+      "interactions": []
+    },
+    {
+      "type": "chipList",
+      "count": 157,
+      "expected": 157,
+      "brokenImages": [],
+      "filters": [
+        {
+          "label": "全部",
+          "count": 157
+        },
+        {
+          "label": "三星",
+          "count": 11
+        },
+        {
+          "label": "华为",
+          "count": 19
+        },
+        {
+          "label": "小米",
+          "count": 3
+        },
+        {
+          "label": "晶晨",
+          "count": 1
+        },
+        {
+          "label": "树莓派（博通）",
+          "count": 1
+        },
+        {
+          "label": "紫光",
+          "count": 10
+        },
+        {
+          "label": "联发科",
+          "count": 32
+        },
+        {
+          "label": "英伟达",
+          "count": 2
+        },
+        {
+          "label": "苹果",
+          "count": 24
+        },
+        {
+          "label": "谷歌",
+          "count": 6
+        },
+        {
+          "label": "高通",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "type": "chipDetail",
+      "id": "186",
+      "name": "Exynos 2400",
+      "bodyLength": 344,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "209",
+      "name": "Exynos 2200",
+      "bodyLength": 325,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "217",
+      "name": "Exynos 2100",
+      "bodyLength": 284,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "226",
+      "name": "Exynos 1080",
+      "bodyLength": 293,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "233",
+      "name": "Exynos 990",
+      "bodyLength": 307,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "246",
+      "name": "Exynos 9820",
+      "bodyLength": 297,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "258",
+      "name": "Exynos 9810",
+      "bodyLength": 268,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "267",
+      "name": "Exynos 980",
+      "bodyLength": 264,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "283",
+      "name": "Exynos 8895",
+      "bodyLength": 268,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "290",
+      "name": "Exynos 8890",
+      "bodyLength": 285,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "311",
+      "name": "Exynos 7420",
+      "bodyLength": 281,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "202",
+      "name": "麒麟 9020",
+      "bodyLength": 332,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "208",
+      "name": "麒麟 9010",
+      "bodyLength": 316,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "212",
+      "name": "麒麟 9000S",
+      "bodyLength": 349,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "213",
+      "name": "麒麟 9000",
+      "bodyLength": 334,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "214",
+      "name": "麒麟 9000E",
+      "bodyLength": 347,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "220",
+      "name": "麒麟 9000WL",
+      "bodyLength": 315,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "229",
+      "name": "麒麟 9000SL",
+      "bodyLength": 282,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "245",
+      "name": "麒麟 9000WM",
+      "bodyLength": 280,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "230",
+      "name": "麒麟 990 5G",
+      "bodyLength": 334,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "331",
+      "name": "麒麟 990",
+      "bodyLength": 348,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "249",
+      "name": "麒麟 980",
+      "bodyLength": 349,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "251",
+      "name": "麒麟 985",
+      "bodyLength": 304,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "282",
+      "name": "麒麟 970",
+      "bodyLength": 288,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "286",
+      "name": "麒麟 960",
+      "bodyLength": 289,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "297",
+      "name": "麒麟 950",
+      "bodyLength": 296,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "240",
+      "name": "麒麟 8000",
+      "bodyLength": 104,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "256",
+      "name": "麒麟 820",
+      "bodyLength": 280,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "265",
+      "name": "麒麟 810",
+      "bodyLength": 263,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "300",
+      "name": "麒麟 710F",
+      "bodyLength": 261,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "339",
+      "name": "玄戒 O3",
+      "bodyLength": 124,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "177",
+      "name": "玄戒 O1",
+      "bodyLength": 347,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "319",
+      "name": "澎湃 S1",
+      "bodyLength": 196,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "312",
+      "name": "S922X",
+      "bodyLength": 187,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "326",
+      "name": "BCM2711(树莓派4B)",
+      "bodyLength": 319,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "257",
+      "name": "展锐 T820",
+      "bodyLength": 334,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "260",
+      "name": "展锐 T770",
+      "bodyLength": 341,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "262",
+      "name": "展锐 T760",
+      "bodyLength": 305,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "279",
+      "name": "展锐 T765",
+      "bodyLength": 276,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "288",
+      "name": "展锐 T740",
+      "bodyLength": 305,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "295",
+      "name": "展锐 T618",
+      "bodyLength": 282,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "303",
+      "name": "展锐 T616",
+      "bodyLength": 274,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "304",
+      "name": "展锐 T610",
+      "bodyLength": 285,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "306",
+      "name": "展锐 T606",
+      "bodyLength": 270,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "322",
+      "name": "展锐 SC9863A",
+      "bodyLength": 284,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "172",
+      "name": "天玑 9500",
+      "bodyLength": 335,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "178",
+      "name": "天玑 9400",
+      "bodyLength": 375,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "181",
+      "name": "天玑 9300",
+      "bodyLength": 357,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "191",
+      "name": "天玑 9200",
+      "bodyLength": 324,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "201",
+      "name": "天玑 9000",
+      "bodyLength": 318,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "187",
+      "name": "天玑 8400",
+      "bodyLength": 321,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "196",
+      "name": "天玑 8300",
+      "bodyLength": 313,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "211",
+      "name": "天玑 8200",
+      "bodyLength": 306,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "219",
+      "name": "天玑 8100",
+      "bodyLength": 288,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "235",
+      "name": "迅鲲 1300T",
+      "bodyLength": 330,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "228",
+      "name": "天玑 1200",
+      "bodyLength": 332,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "232",
+      "name": "天玑 1100",
+      "bodyLength": 310,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "234",
+      "name": "天玑 1000+",
+      "bodyLength": 287,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "254",
+      "name": "天玑 1000L",
+      "bodyLength": 282,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "231",
+      "name": "天玑 7200",
+      "bodyLength": 283,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "253",
+      "name": "天玑 1080",
+      "bodyLength": 280,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "255",
+      "name": "天玑 920",
+      "bodyLength": 285,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "252",
+      "name": "天玑 820",
+      "bodyLength": 285,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "272",
+      "name": "天玑 810",
+      "bodyLength": 314,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "266",
+      "name": "天玑 800",
+      "bodyLength": 267,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "271",
+      "name": "天玑 800U",
+      "bodyLength": 281,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "281",
+      "name": "天玑 720",
+      "bodyLength": 282,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "278",
+      "name": "天玑 700",
+      "bodyLength": 301,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "273",
+      "name": "曦力 G99",
+      "bodyLength": 284,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "274",
+      "name": "曦力 G90T",
+      "bodyLength": 292,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "299",
+      "name": "曦力 G85",
+      "bodyLength": 300,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "301",
+      "name": "曦力 G80",
+      "bodyLength": 299,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "292",
+      "name": "曦力 X30",
+      "bodyLength": 320,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "309",
+      "name": "曦力 X20",
+      "bodyLength": 306,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "285",
+      "name": "曦力 P90",
+      "bodyLength": 284,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "305",
+      "name": "曦力 P60",
+      "bodyLength": 285,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "314",
+      "name": "曦力 P35",
+      "bodyLength": 284,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "280",
+      "name": "Tegra X1",
+      "bodyLength": 365,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "310",
+      "name": "Tegra K1",
+      "bodyLength": 375,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "346",
+      "name": "M6",
+      "bodyLength": 228,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "345",
+      "name": "M5",
+      "bodyLength": 306,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "169",
+      "name": "M4",
+      "bodyLength": 306,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "344",
+      "name": "M3",
+      "bodyLength": 343,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "175",
+      "name": "M2",
+      "bodyLength": 266,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "184",
+      "name": "M1",
+      "bodyLength": 310,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "173",
+      "name": "A19 Pro",
+      "bodyLength": 302,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "174",
+      "name": "A19",
+      "bodyLength": 285,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "180",
+      "name": "A18 Pro",
+      "bodyLength": 277,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "182",
+      "name": "A18",
+      "bodyLength": 265,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "185",
+      "name": "A17 Pro",
+      "bodyLength": 326,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "189",
+      "name": "A16",
+      "bodyLength": 300,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "197",
+      "name": "A12Z",
+      "bodyLength": 304,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "198",
+      "name": "A12X",
+      "bodyLength": 285,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "327",
+      "name": "A15",
+      "bodyLength": 340,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "203",
+      "name": "A14",
+      "bodyLength": 296,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "210",
+      "name": "A13",
+      "bodyLength": 295,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "227",
+      "name": "A12",
+      "bodyLength": 304,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "243",
+      "name": "A11",
+      "bodyLength": 310,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "244",
+      "name": "A10X",
+      "bodyLength": 267,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "270",
+      "name": "A10",
+      "bodyLength": 266,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "291",
+      "name": "A9",
+      "bodyLength": 265,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "316",
+      "name": "A8",
+      "bodyLength": 235,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "324",
+      "name": "A7",
+      "bodyLength": 250,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "342",
+      "name": "Tensor G6",
+      "bodyLength": 311,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "341",
+      "name": "Tensor G5",
+      "bodyLength": 323,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "343",
+      "name": "Tensor G4",
+      "bodyLength": 335,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "206",
+      "name": "Tensor G3",
+      "bodyLength": 348,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "340",
+      "name": "Tensor G2",
+      "bodyLength": 357,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "221",
+      "name": "Tensor",
+      "bodyLength": 352,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "171",
+      "name": "骁龙 8 Elite Gen5",
+      "bodyLength": 505,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "176",
+      "name": "骁龙 8 Elite",
+      "bodyLength": 481,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "179",
+      "name": "骁龙 8 Gen5",
+      "bodyLength": 408,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "183",
+      "name": "骁龙 8 Gen3",
+      "bodyLength": 549,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "193",
+      "name": "骁龙 8s Gen3",
+      "bodyLength": 379,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "188",
+      "name": "骁龙 8 Gen2",
+      "bodyLength": 463,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "199",
+      "name": "骁龙 8+ Gen1",
+      "bodyLength": 393,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "205",
+      "name": "骁龙 8 Gen1",
+      "bodyLength": 379,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "215",
+      "name": "骁龙 888+",
+      "bodyLength": 420,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "216",
+      "name": "骁龙 888",
+      "bodyLength": 416,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "223",
+      "name": "骁龙 870",
+      "bodyLength": 431,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "222",
+      "name": "骁龙 865+",
+      "bodyLength": 391,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "225",
+      "name": "骁龙 865",
+      "bodyLength": 410,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "237",
+      "name": "骁龙 860",
+      "bodyLength": 403,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "236",
+      "name": "骁龙 855+",
+      "bodyLength": 393,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "238",
+      "name": "骁龙 855",
+      "bodyLength": 370,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "259",
+      "name": "骁龙 845",
+      "bodyLength": 336,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "277",
+      "name": "骁龙 835",
+      "bodyLength": 311,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "293",
+      "name": "骁龙 821 / 820",
+      "bodyLength": 298,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "315",
+      "name": "骁龙 810",
+      "bodyLength": 247,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "320",
+      "name": "骁龙 808",
+      "bodyLength": 247,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "333",
+      "name": "微软 SQ1",
+      "bodyLength": 300,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "194",
+      "name": "骁龙 7+ Gen3",
+      "bodyLength": 341,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "207",
+      "name": "骁龙 7+ Gen2",
+      "bodyLength": 351,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "239",
+      "name": "骁龙 7s Gen 2",
+      "bodyLength": 349,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "247",
+      "name": "骁龙 7 Gen 1",
+      "bodyLength": 348,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "241",
+      "name": "骁龙 782G",
+      "bodyLength": 351,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "242",
+      "name": "骁龙 780G",
+      "bodyLength": 274,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "248",
+      "name": "骁龙 778G",
+      "bodyLength": 330,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "335",
+      "name": "骁龙 768G",
+      "bodyLength": 337,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "269",
+      "name": "骁龙 765G",
+      "bodyLength": 337,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "268",
+      "name": "骁龙 750G",
+      "bodyLength": 308,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "275",
+      "name": "骁龙 730G",
+      "bodyLength": 293,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "287",
+      "name": "骁龙 710",
+      "bodyLength": 323,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "250",
+      "name": "骁龙 6 Gen 1",
+      "bodyLength": 322,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "261",
+      "name": "骁龙 695",
+      "bodyLength": 301,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "289",
+      "name": "骁龙 680",
+      "bodyLength": 306,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "284",
+      "name": "骁龙 675",
+      "bodyLength": 311,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "298",
+      "name": "骁龙 665",
+      "bodyLength": 311,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "302",
+      "name": "骁龙 662",
+      "bodyLength": 368,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "294",
+      "name": "骁龙 660",
+      "bodyLength": 307,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "307",
+      "name": "骁龙 636",
+      "bodyLength": 311,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "313",
+      "name": "骁龙 625",
+      "bodyLength": 269,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "264",
+      "name": "骁龙 4 Gen 2",
+      "bodyLength": 316,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "263",
+      "name": "骁龙 4 Gen 1",
+      "bodyLength": 309,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "276",
+      "name": "骁龙 480",
+      "bodyLength": 287,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "321",
+      "name": "骁龙 439",
+      "bodyLength": 283,
+      "brokenImages": []
+    },
+    {
+      "type": "chipDetail",
+      "id": "323",
+      "name": "骁龙 430",
+      "bodyLength": 281,
+      "brokenImages": []
+    },
+    {
+      "type": "theme",
+      "theme": "light",
+      "brokenImages": []
+    },
+    {
+      "type": "theme",
+      "slug": "laptop-gpu-efficiency",
+      "theme": "light",
+      "brokenImages": []
+    },
+    {
+      "type": "locale",
+      "title": "Laptop GPU Power Efficiency Curve",
+      "htmlLang": "en"
+    }
+  ]
+}

@@ -1,0 +1,2728 @@
+{
+  "capturedAt": "2026-10-31T11:36:43.423569+00:00",
+  "scope": "Public metadata only. External video streams are not included in the APK snapshot.",
+  "linkedVideoCount": 80,
+  "metadataSuccessCount": 79,
+  "totalKnownDurationSeconds": 2477201,
+  "videos": [
+    {
+      "bvid": "BV12A376WEiZ",
+      "links": [
+        "https://www.bilibili.com/video/BV12A376WEiZ/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12A376WEiZ",
+      "metadataPath": "linked-video-metadata/BV12A376WEiZ.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 红米Turbo 5 Max 11小时26分钟 2026.6.3",
+      "durationSeconds": 41187,
+      "pages": [
+        {
+          "cid": 40306016771,
+          "page": 1,
+          "from": "vupload",
+          "part": "Redmi-Turbo5-Max-2026-06-03 13-16-46_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003rienpgf8n18u25bb6rdk1v4twb_firsti.jpg",
+          "ctime": 1785045721
+        },
+        {
+          "cid": 40306476611,
+          "page": 2,
+          "from": "vupload",
+          "part": "Redmi-Turbo5-Max-2026-06-03 13-16-46_第2段_剩余",
+          "duration": 5786,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000026ua6cqjxavjt2l9n6oyikllxib_firsti.jpg",
+          "ctime": 1785045721
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV13m356oEUE",
+      "links": [
+        "https://www.bilibili.com/video/BV13m356oEUE/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13m356oEUE",
+      "metadataPath": "linked-video-metadata/BV13m356oEUE.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 vivo X300S 9小时2分钟 2026.7.3",
+      "durationSeconds": 32665,
+      "pages": [
+        {
+          "cid": 40297235815,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 vivo X300S 9小时2分钟 2026.7.3",
+          "duration": 32665,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003rdj5tx54a7vb2hlcxn8zb82dpb_firsti.jpg",
+          "ctime": 1785036508
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV13m356oEXz",
+      "links": [
+        "https://www.bilibili.com/video/BV13m356oEXz/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13m356oEXz",
+      "metadataPath": "linked-video-metadata/BV13m356oEXz.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 vivo X300 Ultra 8小时10分钟 2026.7.6",
+      "durationSeconds": 29495,
+      "pages": [
+        {
+          "cid": 40297236938,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 vivo X300 Ultra 8小时10分钟 2026.7.6",
+          "duration": 29495,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000019g7od7ctgemx2jd7vi7iuv50nb_firsti.jpg",
+          "ctime": 1785036492
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV13w3G6SEXU",
+      "links": [
+        "https://www.bilibili.com/video/BV13w3G6SEXU/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13w3G6SEXU",
+      "metadataPath": "linked-video-metadata/BV13w3G6SEXU.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 K90 Max 11小时24分钟 2026.6.3",
+      "durationSeconds": 41186,
+      "pages": [
+        {
+          "cid": 40293040256,
+          "page": 1,
+          "from": "vupload",
+          "part": "K90-Max-2026-06-03 13-07-22_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000126jr67zpjy1124cjt5on1pr2zb_firsti.jpg",
+          "ctime": 1784996976
+        },
+        {
+          "cid": 40294024162,
+          "page": 2,
+          "from": "vupload",
+          "part": "K90-Max-2026-06-03 13-07-22_第2段_剩余",
+          "duration": 5785,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000jsffoioxe2bg2lam5vrrb2r29b_firsti.jpg",
+          "ctime": 1784996976
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV161gt6rE1e",
+      "links": [
+        "https://www.bilibili.com/video/BV161gt6rE1e/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV161gt6rE1e",
+      "metadataPath": "linked-video-metadata/BV161gt6rE1e.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO 15 9小时17分钟 2026.5.29",
+      "durationSeconds": 33473,
+      "pages": [
+        {
+          "cid": 40235502277,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iQOO 15 9小时17分钟 2026.5.29",
+          "duration": 33473,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001yjsuozkrzkso243aut9pkw9r4b_firsti.jpg",
+          "ctime": 1784833851
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV16GgX63EeA",
+      "links": [
+        "https://www.bilibili.com/video/BV16GgX63EeA/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16GgX63EeA",
+      "metadataPath": "linked-video-metadata/BV16GgX63EeA.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Nova 16 Pro 9小时56分钟 2026.7.7",
+      "durationSeconds": 35828,
+      "pages": [
+        {
+          "cid": 40322728931,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Nova 16 Pro 9小时56分钟 2026.7.7",
+          "duration": 35828,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003j4748bgjr9z5266n7v3mgngqab_firsti.jpg",
+          "ctime": 1785084359
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WE1G",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WE1G/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WE1G",
+      "metadataPath": "linked-video-metadata/BV1AMga6WE1G.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 K90 Pro Max 9小时41分钟 2026.6.16",
+      "durationSeconds": 34959,
+      "pages": [
+        {
+          "cid": 40235568172,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 K90 Pro Max 9小时41分钟 2026.6.16",
+          "duration": 34959,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003vdmpybcenc3s2uas7xk92q264b_firsti.jpg",
+          "ctime": 1784858864
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WE6u",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WE6u/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WE6u",
+      "metadataPath": "linked-video-metadata/BV1AMga6WE6u.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 17 Pro Max 8小时54分钟 2026.5.11",
+      "durationSeconds": 32111,
+      "pages": [
+        {
+          "cid": 40235499913,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 17 Pro Max 8小时54分钟 2026.5.11",
+          "duration": 32111,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002c6o1tec48big2pckhqhnd297gb_firsti.jpg",
+          "ctime": 1784858792
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WEAe",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WEAe/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WEAe",
+      "metadataPath": "linked-video-metadata/BV1AMga6WEAe.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 一加Ace6 9小时40分钟 2026.5.12",
+      "durationSeconds": 35069,
+      "pages": [
+        {
+          "cid": 40235699317,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 OnePlus Ace6 9小时40分钟 2026.5.12",
+          "duration": 35069,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000014w0et9cwez4q2pozpqyk1ul0ub_firsti.jpg",
+          "ctime": 1784859102
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WEFj",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WEFj/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WEFj",
+      "metadataPath": "linked-video-metadata/BV1AMga6WEFj.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 K80 Pro 7小时47分钟 2026.5.22",
+      "durationSeconds": 28103,
+      "pages": [
+        {
+          "cid": 40236354964,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 K80 Pro 7小时47分钟 2026.5.22",
+          "duration": 28103,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000329hvlmkqu5y21ym4o1xdl03ytb_firsti.jpg",
+          "ctime": 1784858780
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WERW",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WERW/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WERW",
+      "metadataPath": "linked-video-metadata/BV1AMga6WERW.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO Neo 11 10小时8分钟 2026.6.29",
+      "durationSeconds": 36572,
+      "pages": [
+        {
+          "cid": 40235565700,
+          "page": 1,
+          "from": "vupload",
+          "part": "iQOONeo11_2026-06-29 12-09-09_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000022cl57r7jlnnt2bqi08ed4tyipb_firsti.jpg",
+          "ctime": 1784858857
+        },
+        {
+          "cid": 40236746810,
+          "page": 2,
+          "from": "vupload",
+          "part": "iQOONeo11_2026-06-29 12-09-09_第2段_剩余",
+          "duration": 1171,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001bi7pfqa8agwu2c08d2nusin53b_firsti.jpg",
+          "ctime": 1784858857
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WEuA",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WEuA/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WEuA",
+      "metadataPath": "linked-video-metadata/BV1AMga6WEuA.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO 15 Ultra 9小时53分钟 2026.6.9",
+      "durationSeconds": 35675,
+      "pages": [
+        {
+          "cid": 40235503290,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iQOO 15 Ultra 9小时53分钟 2026.6.9",
+          "duration": 35675,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001yq1k7gkivhif26nuo1qj3vs3hb_firsti.jpg",
+          "ctime": 1784859144
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WEyK",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WEyK/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WEyK",
+      "metadataPath": "linked-video-metadata/BV1AMga6WEyK.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米17T Pro 9小时18分钟 2026.7.2",
+      "durationSeconds": 33645,
+      "pages": [
+        {
+          "cid": 40235764026,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Xiaomi 17T Pro 9小时18分钟 2026.7.2",
+          "duration": 33645,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000116im035m5omm2llw6hijgktvib_firsti.jpg",
+          "ctime": 1784859034
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1AMga6WEzZ",
+      "links": [
+        "https://www.bilibili.com/video/BV1AMga6WEzZ/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AMga6WEzZ",
+      "metadataPath": "linked-video-metadata/BV1AMga6WEzZ.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 一加Ace5 Pro 7小时45分钟 2026.5.19",
+      "durationSeconds": 27941,
+      "pages": [
+        {
+          "cid": 40235696257,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 一加Ace5 Pro 7小时45分钟 2026.5.19",
+          "duration": 27941,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000009dre0p0fppl42qdi7lq5gwqu1b_firsti.jpg",
+          "ctime": 1784858694
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1BkeS64EHS",
+      "links": [
+        "https://www.bilibili.com/video/BV1BkeS64EHS/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BkeS64EHS",
+      "metadataPath": "linked-video-metadata/BV1BkeS64EHS.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone18 Pro Max 10小时37分钟 2026.9.13",
+      "durationSeconds": 38277,
+      "pages": [
+        {
+          "cid": 42006415021,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone18 Pro Max 10小时37分钟 2026.9.13",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003b39fac6ayxlw2n6yldvuh81nmb_firsti.jpg",
+          "ctime": 1789744338
+        },
+        {
+          "cid": 42008643746,
+          "page": 2,
+          "from": "vupload",
+          "part": "iPhone18ProMax_2026-09-13 11-37-44_第2段_剩余",
+          "duration": 2876,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002vez3rvkfslaq21xn0atw2j9eub_firsti.jpg",
+          "ctime": 1789746694
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1CMga6WEDJ",
+      "links": [
+        "https://www.bilibili.com/video/BV1CMga6WEDJ/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CMga6WEDJ",
+      "metadataPath": "linked-video-metadata/BV1CMga6WEDJ.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 华为Mate 80 8小时32分钟 2026.6.17",
+      "durationSeconds": 30793,
+      "pages": [
+        {
+          "cid": 40235631782,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 华为Mate 80 8小时32分钟 2026.6.17",
+          "duration": 30793,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000h02panwvvcqz2c3oejcy86s4sb_firsti.jpg",
+          "ctime": 1784859215
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Cu376JELP",
+      "links": [
+        "https://www.bilibili.com/video/BV1Cu376JELP/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Cu376JELP",
+      "metadataPath": "linked-video-metadata/BV1Cu376JELP.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米15 Pro 7小时25分钟 2026.5.14",
+      "durationSeconds": 26844,
+      "pages": [
+        {
+          "cid": 40306084183,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 小米15 Pro 7小时25分钟 2026.5.14",
+          "duration": 26844,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000005bvdmyp0ncl72arlam2gxk2mvb_firsti.jpg",
+          "ctime": 1785045581
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Cz336vEop",
+      "links": [
+        "https://www.bilibili.com/video/BV1Cz336vEop/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Cz336vEop",
+      "metadataPath": "linked-video-metadata/BV1Cz336vEop.json",
+      "apiCode": 62002,
+      "title": null,
+      "durationSeconds": null,
+      "pages": [],
+      "downloadFlag": null,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1D23G6UEvR",
+      "links": [
+        "https://www.bilibili.com/video/BV1D23G6UEvR/."
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D23G6UEvR",
+      "metadataPath": "linked-video-metadata/BV1D23G6UEvR.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 K80 至尊版 9小时33分钟 2026.6.12",
+      "durationSeconds": 34447,
+      "pages": [
+        {
+          "cid": 40292778393,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 K80 至尊版 9小时33分钟 2026.6.12",
+          "duration": 34447,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003fqmcmwlyxmfj2eibv0kijtvw2b_firsti.jpg",
+          "ctime": 1784994641
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Gw3G6SErZ",
+      "links": [
+        "https://www.bilibili.com/video/BV1Gw3G6SErZ/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gw3G6SErZ",
+      "metadataPath": "linked-video-metadata/BV1Gw3G6SErZ.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Magic8 9小时12分钟 2026.6.9",
+      "durationSeconds": 33215,
+      "pages": [
+        {
+          "cid": 40293370809,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Magic8 9小时12分钟 2026.6.9",
+          "duration": 33215,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000317cck5w562mg2ki46xoyjyyxlb_firsti.jpg",
+          "ctime": 1784997613
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Gw3G6SEzg",
+      "links": [
+        "https://www.bilibili.com/video/BV1Gw3G6SEzg/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gw3G6SEzg",
+      "metadataPath": "linked-video-metadata/BV1Gw3G6SEzg.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Mate 70 Pro+ 8小时16分钟 2026.6.17",
+      "durationSeconds": 29909,
+      "pages": [
+        {
+          "cid": 40293697020,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Mate 70 Pro+ 8小时16分钟 2026.6.17",
+          "duration": 29909,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001myoqwuzhipa72lqk2ulwdpcaeb_firsti.jpg",
+          "ctime": 1784997396
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1HW3G6vEJ1",
+      "links": [
+        "https://www.bilibili.com/video/BV1HW3G6vEJ1/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HW3G6vEJ1",
+      "metadataPath": "linked-video-metadata/BV1HW3G6vEJ1.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO Neo 10 Pro+ 9小时13分钟 2026.5.27",
+      "durationSeconds": 33260,
+      "pages": [
+        {
+          "cid": 40291992501,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iQOO Neo 10 Pro+ 9小时13分钟 2026.5.27",
+          "duration": 33260,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002bo28ia0xd6zt2ni9gmmgrfj7jb_firsti.jpg",
+          "ctime": 1784992388
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Hr336PEd6",
+      "links": [
+        "https://www.bilibili.com/video/BV1Hr336PEd6/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hr336PEd6",
+      "metadataPath": "linked-video-metadata/BV1Hr336PEd6.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Nova 15 Pro 9小时28分钟 2026.6.22",
+      "durationSeconds": 34163,
+      "pages": [
+        {
+          "cid": 40294617051,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Nova 15 Pro 9小时28分钟 2026.6.22",
+          "duration": 34163,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003m9cq362sftvw1ypg4q1o0mcjab_firsti.jpg",
+          "ctime": 1784999004
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1JGgX63Edn",
+      "links": [
+        "https://www.bilibili.com/video/BV1JGgX63Edn/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JGgX63Edn",
+      "metadataPath": "linked-video-metadata/BV1JGgX63Edn.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO Z11 Turbo 10小时58分钟 2026.6.29",
+      "durationSeconds": 39895,
+      "pages": [
+        {
+          "cid": 40322666230,
+          "page": 1,
+          "from": "vupload",
+          "part": "Z11Turbo_2026-06-29 11-37-04_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000038k91apa6jr9k1ynwbergt27hjb_firsti.jpg",
+          "ctime": 1785085667
+        },
+        {
+          "cid": 40323320665,
+          "page": 2,
+          "from": "vupload",
+          "part": "Z11Turbo_2026-06-29 11-37-04_第2段_剩余",
+          "duration": 4494,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002tqbponxrm4mm2d2dlehdpfvrmb_firsti.jpg",
+          "ctime": 1785085667
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1JGgX63Erd",
+      "links": [
+        "https://www.bilibili.com/video/BV1JGgX63Erd/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JGgX63Erd",
+      "metadataPath": "linked-video-metadata/BV1JGgX63Erd.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO Z10 Turbo+ 10小时57分钟 2026.6.30",
+      "durationSeconds": 39553,
+      "pages": [
+        {
+          "cid": 40322664368,
+          "page": 1,
+          "from": "vupload",
+          "part": "iQOOZ10Turbo+_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003duqklxwhxfky2pcreyzfmstv0b_firsti.jpg",
+          "ctime": 1785084601
+        },
+        {
+          "cid": 40323255681,
+          "page": 2,
+          "from": "vupload",
+          "part": "iQOOZ10Turbo+_第2段_剩余",
+          "duration": 4152,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000j9hnz1ho4x3n20jean7nqy4vzb_firsti.jpg",
+          "ctime": 1785084601
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1KSKa6DEsD",
+      "links": [
+        "https://www.bilibili.com/video/BV1KSKa6DEsD/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KSKa6DEsD",
+      "metadataPath": "linked-video-metadata/BV1KSKa6DEsD.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 15 Pro 5小时 2026.5.12",
+      "durationSeconds": 18105,
+      "pages": [
+        {
+          "cid": 40172325130,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 15 Pro 5小时 2026.5.12",
+          "duration": 18105,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000018boy9d15ybfh2vtr55jhfqpfib_firsti.jpg",
+          "ctime": 1784654636
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Nn356LEyE",
+      "links": [
+        "https://www.bilibili.com/video/BV1Nn356LEyE/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Nn356LEyE",
+      "metadataPath": "linked-video-metadata/BV1Nn356LEyE.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 vivo X300 8小时20分钟 2026.7.6",
+      "durationSeconds": 30130,
+      "pages": [
+        {
+          "cid": 40297172739,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 vivo X300 8小时20分钟 2026.7.6",
+          "duration": 30130,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001075nuygp3q8j2ik15v6hpozdwb_firsti.jpg",
+          "ctime": 1785007422
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Qm356dEDo",
+      "links": [
+        "https://www.bilibili.com/video/BV1Qm356dEDo/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qm356dEDo",
+      "metadataPath": "linked-video-metadata/BV1Qm356dEDo.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 vivo X300 Pro 8小时21分钟 2026.7.6",
+      "durationSeconds": 30332,
+      "pages": [
+        {
+          "cid": 40297235228,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 vivo X300 Pro 8小时21分钟 2026.7.6",
+          "duration": 30332,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000037nzwqkw0s51q1yz91tr3qpnyzb_firsti.jpg",
+          "ctime": 1785036595
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Qm356dEQc",
+      "links": [
+        "https://www.bilibili.com/video/BV1Qm356dEQc/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qm356dEQc",
+      "metadataPath": "linked-video-metadata/BV1Qm356dEQc.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米17 8小时45分钟 2026.5.6",
+      "durationSeconds": 31554,
+      "pages": [
+        {
+          "cid": 40298087756,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 小米17 8小时45分钟 2026.5.6",
+          "duration": 31554,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003ihvod2ubf4p72rh1far6s4fp7b_firsti.jpg",
+          "ctime": 1785036570
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Qm356dEtD",
+      "links": [
+        "https://www.bilibili.com/video/BV1Qm356dEtD/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qm356dEtD",
+      "metadataPath": "linked-video-metadata/BV1Qm356dEtD.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米17 Pro 7小时40分钟 2026.4.30",
+      "durationSeconds": 27650,
+      "pages": [
+        {
+          "cid": 40297301153,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 小米17 Pro 7小时40分钟 2026.4.30",
+          "duration": 27650,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002jevpqmq8m23429xscm5olbqr4b_firsti.jpg",
+          "ctime": 1785036323
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Rj336nECc",
+      "links": [
+        "https://www.bilibili.com/video/BV1Rj336nECc/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Rj336nECc",
+      "metadataPath": "linked-video-metadata/BV1Rj336nECc.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Pura 90 Pro 9小时36分钟 2026.6.15",
+      "durationSeconds": 34660,
+      "pages": [
+        {
+          "cid": 40296318415,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Pura 90 Pro 9小时36分钟 2026.6.15",
+          "duration": 34660,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000032bag0bxg7j5c2exfiqwlm6t8yb_firsti.jpg",
+          "ctime": 1785004299
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1TV3G6GErp",
+      "links": [
+        "https://www.bilibili.com/video/BV1TV3G6GErp/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TV3G6GErp",
+      "metadataPath": "linked-video-metadata/BV1TV3G6GErp.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Mate 80 Pro Max 8小时14分钟 2026.6.22",
+      "durationSeconds": 29703,
+      "pages": [
+        {
+          "cid": 40294550728,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Mate 80 Pro Max 8小时14分钟 2026.6.22",
+          "duration": 29703,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002qokuvprdrdzt24wwxwjug8vf6b_firsti.jpg",
+          "ctime": 1784999735
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1U3gb69EG5",
+      "links": [
+        "https://www.bilibili.com/video/BV1U3gb69EG5/?spm_id_from=333.1387.upload.video_card.click"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U3gb69EG5",
+      "metadataPath": "linked-video-metadata/BV1U3gb69EG5.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 16 Pro Max 7小时3分钟 2026.5.14",
+      "durationSeconds": 25487,
+      "pages": [
+        {
+          "cid": 40208434957,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 16 Pro Max 7小时3分钟 2026.5.14",
+          "duration": 25487,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000012fs352vd6t2l2ram9ovkxty15b_firsti.jpg",
+          "ctime": 1784826860
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1U3gb69EZY",
+      "links": [
+        "https://www.bilibili.com/video/BV1U3gb69EZY/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U3gb69EZY",
+      "metadataPath": "linked-video-metadata/BV1U3gb69EZY.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 16 Pro 5小时33分钟 2026.6.23",
+      "durationSeconds": 20013,
+      "pages": [
+        {
+          "cid": 40208108896,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 16 Pro 5小时33分钟 2026.6.23",
+          "duration": 20013,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003r7pf771d7f302kol6e9wszcbkb_firsti.jpg",
+          "ctime": 1784826558
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1U3gb69EvL",
+      "links": [
+        "https://www.bilibili.com/video/BV1U3gb69EvL/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U3gb69EvL",
+      "metadataPath": "linked-video-metadata/BV1U3gb69EvL.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 17 Pro 7小时19分钟 2026.5.11",
+      "durationSeconds": 26431,
+      "pages": [
+        {
+          "cid": 40208174271,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 17 Pro 7小时19分钟 2026.5.11",
+          "duration": 26431,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000013nhnszmx1rme21hm23l0mpwppb_firsti.jpg",
+          "ctime": 1784827485
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1VhgC6MELX",
+      "links": [
+        "https://www.bilibili.com/video/BV1VhgC6MELX/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VhgC6MELX",
+      "metadataPath": "linked-video-metadata/BV1VhgC6MELX.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Find X9 Pro 10小时 2026.5.14",
+      "durationSeconds": 36086,
+      "pages": [
+        {
+          "cid": 40172454164,
+          "page": 1,
+          "from": "vupload",
+          "part": "FindX9Pro_2026-05-14 10-49-38_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003mumm7v0du4du2snulf6ouiokxb_firsti.jpg",
+          "ctime": 1784716341
+        },
+        {
+          "cid": 40172785463,
+          "page": 2,
+          "from": "vupload",
+          "part": "FindX9Pro_2026-05-14 10-49-38_第2段_剩余",
+          "duration": 685,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000017ou1kgqnqw162ktovhvlpoq16b_firsti.jpg",
+          "ctime": 1784716341
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1WMga6WEGp",
+      "links": [
+        "https://www.bilibili.com/video/BV1WMga6WEGp/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WMga6WEGp",
+      "metadataPath": "linked-video-metadata/BV1WMga6WEGp.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 一加13 7小时36分钟 2026.5.22",
+      "durationSeconds": 27413,
+      "pages": [
+        {
+          "cid": 40235632763,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 一加13 7小时36分钟 2026.5.22",
+          "duration": 27413,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002qlsozokga1de2u50o85tlcv5fb_firsti.jpg",
+          "ctime": 1784858820
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1WMga6WEH5",
+      "links": [
+        "https://www.bilibili.com/video/BV1WMga6WEH5/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WMga6WEH5",
+      "metadataPath": "linked-video-metadata/BV1WMga6WEH5.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 一加15 9小时12分钟 2026.5.19",
+      "durationSeconds": 33184,
+      "pages": [
+        {
+          "cid": 40235634029,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 一加15 9小时12分钟 2026.5.19",
+          "duration": 33184,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003h44mi8px947o1yu12c4qkogpkb_firsti.jpg",
+          "ctime": 1784859111
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1WMga6WEpV",
+      "links": [
+        "https://www.bilibili.com/video/BV1WMga6WEpV/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WMga6WEpV",
+      "metadataPath": "linked-video-metadata/BV1WMga6WEpV.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 一加Ace5 至尊版 8小时26分钟 2026.6.30",
+      "durationSeconds": 30496,
+      "pages": [
+        {
+          "cid": 40235697766,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 一加Ace5 至尊版 8小时26分钟 2026.6.30",
+          "duration": 30496,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002et1s0rpbrnbo2ctdqcpnehl9ab_firsti.jpg",
+          "ctime": 1784858956
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1WMga6WEuA",
+      "links": [
+        "https://www.bilibili.com/video/BV1WMga6WEuA/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WMga6WEuA",
+      "metadataPath": "linked-video-metadata/BV1WMga6WEuA.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO 13 7小时55分钟 2026.5.27",
+      "durationSeconds": 28627,
+      "pages": [
+        {
+          "cid": 40236353964,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iQOO 13 7小时55分钟 2026.5.27",
+          "duration": 28627,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000h9n9pl92kolc2359pyem6n2r0b_firsti.jpg",
+          "ctime": 1784858637
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1XhgC6TEmN",
+      "links": [
+        "https://www.bilibili.com/video/BV1XhgC6TEmN/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XhgC6TEmN",
+      "metadataPath": "linked-video-metadata/BV1XhgC6TEmN.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Find X9 8小时44分钟 2026.5.8",
+      "durationSeconds": 31503,
+      "pages": [
+        {
+          "cid": 40172391433,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Find X9 8小时44分钟 2026.5.8",
+          "duration": 31503,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000011jrssbzb8rf227ia6snpr603xb_firsti.jpg",
+          "ctime": 1784716477
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Xm356dEM5",
+      "links": [
+        "https://www.bilibili.com/video/BV1Xm356dEM5/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xm356dEM5",
+      "metadataPath": "linked-video-metadata/BV1Xm356dEM5.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米17T 8小时41分钟 2026.6.24",
+      "durationSeconds": 31335,
+      "pages": [
+        {
+          "cid": 40297302399,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 小米17T 8小时41分钟 2026.6.24",
+          "duration": 31335,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000028g52ie5thjw329chnsfj7i6e1b_firsti.jpg",
+          "ctime": 1785036515
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Xm356dEV9",
+      "links": [
+        "https://www.bilibili.com/video/BV1Xm356dEV9/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xm356dEV9",
+      "metadataPath": "linked-video-metadata/BV1Xm356dEV9.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米17 Max 10小时58分钟 2026.7.14",
+      "durationSeconds": 39540,
+      "pages": [
+        {
+          "cid": 40297300538,
+          "page": 1,
+          "from": "vupload",
+          "part": "Xiaomi17Max_2026-07-14 10-39-05_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000oruoqv0cfvoj289w4aq5h2imbb_firsti.jpg",
+          "ctime": 1785036586
+        },
+        {
+          "cid": 40298022562,
+          "page": 2,
+          "from": "vupload",
+          "part": "Xiaomi17Max_2026-07-14 10-39-05_第2段_剩余",
+          "duration": 4139,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000v6227ph1hipc1ztwtcpclsz6tb_firsti.jpg",
+          "ctime": 1785036586
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Xn336mEta",
+      "links": [
+        "https://www.bilibili.com/video/BV1Xn336mEta/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xn336mEta",
+      "metadataPath": "linked-video-metadata/BV1Xn336mEta.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Realme GT8 Pro 8小时19分钟 2026.7.22",
+      "durationSeconds": 29960,
+      "pages": [
+        {
+          "cid": 40296385658,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Realme GT8 Pro 8小时19分钟 2026.7.22",
+          "duration": 29960,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000f0pk8o08gjn22vh9b4dtup8p9b_firsti.jpg",
+          "ctime": 1785004276
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Xw3G6SE2F",
+      "links": [
+        "https://www.bilibili.com/video/BV1Xw3G6SE2F/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xw3G6SE2F",
+      "metadataPath": "linked-video-metadata/BV1Xw3G6SE2F.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Mate 80 Pro 8小时14分钟 2026.6.25",
+      "durationSeconds": 29741,
+      "pages": [
+        {
+          "cid": 40293761740,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Mate 80 Pro 8小时14分钟 2026.6.25",
+          "duration": 29741,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003p5yokpsrrsai2dpa1l3c09e25b_firsti.jpg",
+          "ctime": 1784997438
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Ym356oE3m",
+      "links": [
+        "https://www.bilibili.com/video/BV1Ym356oE3m/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ym356oE3m",
+      "metadataPath": "linked-video-metadata/BV1Ym356oE3m.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米17 Ultra 7小时58分钟 2026.5.26",
+      "durationSeconds": 28755,
+      "pages": [
+        {
+          "cid": 40297301684,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 小米17 Ultra 7小时58分钟 2026.5.26",
+          "duration": 28755,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001wgzw07l0vetd2qod7n1e009kfb_firsti.jpg",
+          "ctime": 1785036478
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Yn336UEWx",
+      "links": [
+        "https://www.bilibili.com/video/BV1Yn336UEWx/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Yn336UEWx",
+      "metadataPath": "linked-video-metadata/BV1Yn336UEWx.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Pura 90 Pro Max 9小时12分钟 2026.6.18",
+      "durationSeconds": 33297,
+      "pages": [
+        {
+          "cid": 40296383104,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Pura 90 Pro Max 9小时12分钟 2026.6.18",
+          "duration": 33297,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000013j0qiqjz5l3p2kv67t9xpltzcb_firsti.jpg",
+          "ctime": 1785004596
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Yw3G6SEGM",
+      "links": [
+        "https://www.bilibili.com/video/BV1Yw3G6SEGM/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Yw3G6SEGM",
+      "metadataPath": "linked-video-metadata/BV1Yw3G6SEGM.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Magic7 Pro 7小时38分钟 2026.5.29",
+      "durationSeconds": 27593,
+      "pages": [
+        {
+          "cid": 40293303275,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Magic7 Pro 7小时38分钟 2026.5.29",
+          "duration": 27593,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002a45xgyao54na2jz5biven6aeyb_firsti.jpg",
+          "ctime": 1784995471
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1Yw3G6SEGV",
+      "links": [
+        "https://www.bilibili.com/video/BV1Yw3G6SEGV/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Yw3G6SEGV",
+      "metadataPath": "linked-video-metadata/BV1Yw3G6SEGV.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Mate 60 Pro 5小时56分钟 2026.6.17",
+      "durationSeconds": 21589,
+      "pages": [
+        {
+          "cid": 40293630532,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Mate 60 Pro 5小时56分钟 2026.6.17",
+          "duration": 21589,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003fytp3a90jwbz2g5qr2kkpab1lb_firsti.jpg",
+          "ctime": 1784995490
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1ahgC6TEtL",
+      "links": [
+        "https://www.bilibili.com/video/BV1ahgC6TEtL/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ahgC6TEtL",
+      "metadataPath": "linked-video-metadata/BV1ahgC6TEtL.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Find X9 Ultra 8小时33分钟 2026.5.20",
+      "durationSeconds": 30852,
+      "pages": [
+        {
+          "cid": 40172455865,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Find X9 Ultra 8小时33分钟 2026.5.20",
+          "duration": 30852,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00001n9dh9aipcusa2o73spk53xhkvb_firsti.jpg",
+          "ctime": 1784716367
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1am356oE4K",
+      "links": [
+        "https://www.bilibili.com/video/BV1am356oE4K/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1am356oE4K",
+      "metadataPath": "linked-video-metadata/BV1am356oE4K.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米15s Pro 7小时34分钟 2026.6.1",
+      "durationSeconds": 27452,
+      "pages": [
+        {
+          "cid": 40297237527,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 小米15s Pro 7小时34分钟 2026.6.1",
+          "duration": 27452,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000005leubxut2tla2szddfy4ij2sdb_firsti.jpg",
+          "ctime": 1785036342
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1aw3G6SE8L",
+      "links": [
+        "https://www.bilibili.com/video/BV1aw3G6SE8L/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aw3G6SE8L",
+      "metadataPath": "linked-video-metadata/BV1aw3G6SE8L.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Magic8 Pro 10小时3分钟 2026.7.1",
+      "durationSeconds": 36861,
+      "pages": [
+        {
+          "cid": 40293434077,
+          "page": 1,
+          "from": "vupload",
+          "part": "Magic8Pro_2026-07-01 11-04-30_第1段_9小时50分",
+          "duration": 35400,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002gs8b2k4yoom91ymx8ph84t55rb_firsti.jpg",
+          "ctime": 1784997574
+        },
+        {
+          "cid": 40294547848,
+          "page": 2,
+          "from": "vupload",
+          "part": "Magic8Pro_2026-07-01 11-04-30_第2段_剩余",
+          "duration": 1461,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000002pf6bx3zc0i02bkcuunpujliwb_firsti.jpg",
+          "ctime": 1784997574
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1cCgU6eEqs",
+      "links": [
+        "https://www.bilibili.com/video/BV1cCgU6eEqs/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cCgU6eEqs",
+      "metadataPath": "linked-video-metadata/BV1cCgU6eEqs.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 15 Pro Max 6小时36分钟 2026.6.2",
+      "durationSeconds": 24190,
+      "pages": [
+        {
+          "cid": 40208043383,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 15 Pro Max 6小时36分钟 2026.6.2",
+          "duration": 24190,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002d6r4tminhsyd2ft58gntjc92ib_firsti.jpg",
+          "ctime": 1784763180
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1cCgU6eErz",
+      "links": [
+        "https://www.bilibili.com/video/BV1cCgU6eErz/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cCgU6eErz",
+      "metadataPath": "linked-video-metadata/BV1cCgU6eErz.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 16 5小时42分钟 2026.6.23",
+      "durationSeconds": 20561,
+      "pages": [
+        {
+          "cid": 40208106398,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 16 5小时42分钟 2026.6.23",
+          "duration": 20561,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000016981gvi1o5zu217hc08jgzyx7b_firsti.jpg",
+          "ctime": 1784762753
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1di3G6xECC",
+      "links": [
+        "https://www.bilibili.com/video/BV1di3G6xECC/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1di3G6xECC",
+      "metadataPath": "linked-video-metadata/BV1di3G6xECC.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 K90 8小时36分钟 2026.5.22",
+      "durationSeconds": 31032,
+      "pages": [
+        {
+          "cid": 40292843786,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 K90 8小时36分钟 2026.5.22",
+          "duration": 31032,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000gcvr6wozfze22ocfv47xofgz4b_firsti.jpg",
+          "ctime": 1784993146
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1ej336nEtA",
+      "links": [
+        "https://www.bilibili.com/video/BV1ej336nEtA/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ej336nEtA",
+      "metadataPath": "linked-video-metadata/BV1ej336nEtA.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 三星S25 Edge 5小时54分钟 2026.6.30",
+      "durationSeconds": 21368,
+      "pages": [
+        {
+          "cid": 40296514061,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Samsung S25 Edge 5小时54分钟 2026.6.30",
+          "duration": 21368,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002f0x0r6fj7vvl23f69bq6gdvr3b_firsti.jpg",
+          "ctime": 1785004012
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1f2gU6hEYw",
+      "links": [
+        "https://www.bilibili.com/video/BV1f2gU6hEYw/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f2gU6hEYw",
+      "metadataPath": "linked-video-metadata/BV1f2gU6hEYw.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone 17 6小时25分钟 2026.5.9",
+      "durationSeconds": 23104,
+      "pages": [
+        {
+          "cid": 40208173167,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone 17 6小时25分钟 2026.5.9",
+          "duration": 23104,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003hf0oryw0qjzm257uu5ebr881kb_firsti.jpg",
+          "ctime": 1784763869
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1fUgU6FELN",
+      "links": [
+        "https://www.bilibili.com/video/BV1fUgU6FELN/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fUgU6FELN",
+      "metadataPath": "linked-video-metadata/BV1fUgU6FELN.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 荣耀 GT Pro 9小时30分钟 2026.6.12",
+      "durationSeconds": 34272,
+      "pages": [
+        {
+          "cid": 40193821688,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 荣耀 GT Pro 9小时30分钟 2026.6.12",
+          "duration": 34272,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003gqgh9ljwpudl2uv51mh1ish83b_firsti.jpg",
+          "ctime": 1784761567
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1mYgt6SEAc",
+      "links": [
+        "https://www.bilibili.com/video/BV1mYgt6SEAc/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mYgt6SEAc",
+      "metadataPath": "linked-video-metadata/BV1mYgt6SEAc.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone Air 5小时31分钟 2026.7.13",
+      "durationSeconds": 19966,
+      "pages": [
+        {
+          "cid": 40235437214,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone Air 5小时31分钟 2026.7.13",
+          "duration": 19966,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000010x8po0zrrxee2f8o86fvoun18b_firsti.jpg",
+          "ctime": 1784830337
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1n43G6YEwa",
+      "links": [
+        "https://www.bilibili.com/video/BV1n43G6YEwa/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1n43G6YEwa",
+      "metadataPath": "linked-video-metadata/BV1n43G6YEwa.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 荣耀WIN 11小时53分钟 2026.6.26",
+      "durationSeconds": 42898,
+      "pages": [
+        {
+          "cid": 40292192142,
+          "page": 1,
+          "from": "vupload",
+          "part": "win_2026-06-26 11-56-57_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000030ea7regawi3x26rtnd2gx44gbb_firsti.jpg",
+          "ctime": 1784992840
+        },
+        {
+          "cid": 40292648031,
+          "page": 2,
+          "from": "vupload",
+          "part": "win_2026-06-26 11-56-57_第2段_剩余",
+          "duration": 7497,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003c685hr8g79tx2m28ckkevvax8b_firsti.jpg",
+          "ctime": 1784992840
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1pr336PENj",
+      "links": [
+        "https://www.bilibili.com/video/BV1pr336PENj/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pr336PENj",
+      "metadataPath": "linked-video-metadata/BV1pr336PENj.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 努比亚Z80 Ultra 9小时38分钟 2026.5.21",
+      "durationSeconds": 34750,
+      "pages": [
+        {
+          "cid": 40294744918,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 努比亚Z80 Ultra 9小时38分钟 2026.5.21",
+          "duration": 34750,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003419tep9vmdjc2h558v0xwpu9eb_firsti.jpg",
+          "ctime": 1785000035
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1pr336PEr6",
+      "links": [
+        "https://www.bilibili.com/video/BV1pr336PEr6/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pr336PEr6",
+      "metadataPath": "linked-video-metadata/BV1pr336PEr6.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 OnePlus 15T 10小时24分钟 2026.7.1",
+      "durationSeconds": 37585,
+      "pages": [
+        {
+          "cid": 40294811974,
+          "page": 1,
+          "from": "vupload",
+          "part": "Oneplus15T_2026-07-01 11-08-01_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003aot0rk9ccmqz2kfosv5jofrh5b_firsti.jpg",
+          "ctime": 1784999494
+        },
+        {
+          "cid": 40295400992,
+          "page": 2,
+          "from": "vupload",
+          "part": "Oneplus15T_2026-07-01 11-08-01_第2段_剩余",
+          "duration": 2184,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003o9ohen47ek3h2ckx4svmwwea6b_firsti.jpg",
+          "ctime": 1784999494
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1pr336PEth",
+      "links": [
+        "https://www.bilibili.com/video/BV1pr336PEth/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pr336PEth",
+      "metadataPath": "linked-video-metadata/BV1pr336PEth.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Nova 16 10小时 2026.7.7",
+      "durationSeconds": 36013,
+      "pages": [
+        {
+          "cid": 40294680073,
+          "page": 1,
+          "from": "vupload",
+          "part": "Nova16_2026-07-07 11-11-27_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001fpob0o3m72sd2lu2invnnfcm4b_firsti.jpg",
+          "ctime": 1784999293
+        },
+        {
+          "cid": 40295400639,
+          "page": 2,
+          "from": "vupload",
+          "part": "Nova16_2026-07-07 11-11-27_第2段_剩余",
+          "duration": 612,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000xbk3pegvity12qw9o1qorc17ab_firsti.jpg",
+          "ctime": 1784999293
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1pz336vEmz",
+      "links": [
+        "https://www.bilibili.com/video/BV1pz336vEmz/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pz336vEmz",
+      "metadataPath": "linked-video-metadata/BV1pz336vEmz.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 一加Ace6 至尊版 10小时9分钟 2026.7.2",
+      "durationSeconds": 36648,
+      "pages": [
+        {
+          "cid": 40295531286,
+          "page": 1,
+          "from": "vupload",
+          "part": "OneplusAce6Ultra_2026-07-02 10-25-28_第1段_9小时50分",
+          "duration": 35400,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002say1ge2jpjdt2wmtlezuu1m7kb_firsti.jpg",
+          "ctime": 1785001242
+        },
+        {
+          "cid": 40295858950,
+          "page": 2,
+          "from": "vupload",
+          "part": "OneplusAce6Ultra_2026-07-02 10-25-28_第2段_剩余",
+          "duration": 1248,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000b1tux0xxa14r2f16aoat6th70b_firsti.jpg",
+          "ctime": 1785001242
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1pz336vEqd",
+      "links": [
+        "https://www.bilibili.com/video/BV1pz336vEqd/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pz336vEqd",
+      "metadataPath": "linked-video-metadata/BV1pz336vEqd.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Pixel 10 Pro XL 5小时51分钟 2026.6.16",
+      "durationSeconds": 21350,
+      "pages": [
+        {
+          "cid": 40295597223,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Pixel 10 Pro XL 5小时51分钟 2026.6.16",
+          "duration": 21350,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002w96o3rd6vxzt2m8pohnbdfkafb_firsti.jpg",
+          "ctime": 1784999602
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1qQ3364Ehm",
+      "links": [
+        "https://www.bilibili.com/video/BV1qQ3364Ehm/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qQ3364Ehm",
+      "metadataPath": "linked-video-metadata/BV1qQ3364Ehm.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Pura 90 9小时2分钟 2026.6.18",
+      "durationSeconds": 33008,
+      "pages": [
+        {
+          "cid": 40296254947,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Pura 90 9小时2分钟 2026.6.18",
+          "duration": 33008,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001rists1ajup2f1ziwzpoakh9smb_firsti.jpg",
+          "ctime": 1785004208
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1qg336sEHb",
+      "links": [
+        "https://www.bilibili.com/video/BV1qg336sEHb/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qg336sEHb",
+      "metadataPath": "linked-video-metadata/BV1qg336sEHb.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 vivo X200 Ultra 7小时14分钟 2026.5.26",
+      "durationSeconds": 26110,
+      "pages": [
+        {
+          "cid": 40296843331,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 vivo X200 Ultra 7小时14分钟 2026.5.26",
+          "duration": 26110,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003u3p3mkgycjfe2jf0hw0azj8yub_firsti.jpg",
+          "ctime": 1785004367
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1qg336sEdZ",
+      "links": [
+        "https://www.bilibili.com/video/BV1qg336sEdZ/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qg336sEdZ",
+      "metadataPath": "linked-video-metadata/BV1qg336sEdZ.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 三星S26 Ultra 7小时15分钟 2026.6.25",
+      "durationSeconds": 26277,
+      "pages": [
+        {
+          "cid": 40296842262,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Samsung S26 Ultra 7小时15分钟 2026.6.25",
+          "duration": 26277,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002ei2m8md12pfx23ewgzqir9iqub_firsti.jpg",
+          "ctime": 1785004178
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1qg336sEnb",
+      "links": [
+        "https://www.bilibili.com/video/BV1qg336sEnb/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qg336sEnb",
+      "metadataPath": "linked-video-metadata/BV1qg336sEnb.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 三星S25 Ultra 6小时46分钟 2026.5.19",
+      "durationSeconds": 24455,
+      "pages": [
+        {
+          "cid": 40296644694,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Samsung S25 Ultra 6小时46分钟 2026.5.19",
+          "duration": 24455,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003qcjax02sh3372f8tyiztcr700b_firsti.jpg",
+          "ctime": 1785004469
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1sJ3G6MEJH",
+      "links": [
+        "https://www.bilibili.com/video/BV1sJ3G6MEJH/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sJ3G6MEJH",
+      "metadataPath": "linked-video-metadata/BV1sJ3G6MEJH.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 K90 至尊版 11小时47分钟 2026.7.7",
+      "durationSeconds": 42552,
+      "pages": [
+        {
+          "cid": 40293236935,
+          "page": 1,
+          "from": "vupload",
+          "part": "K90Ultra_2026-07-07 10-16-28_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002r4x313cefwh12wn56ixnngjr1b_firsti.jpg",
+          "ctime": 1784997274
+        },
+        {
+          "cid": 40294614691,
+          "page": 2,
+          "from": "vupload",
+          "part": "K90Ultra_2026-07-07 10-16-28_第2段_剩余",
+          "duration": 7151,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002w9gprf8rkcss2izoiqn3gt2nmb_firsti.jpg",
+          "ctime": 1784997274
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1uCKa6RE4E",
+      "links": [
+        "https://www.bilibili.com/video/BV1uCKa6RE4E/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uCKa6RE4E",
+      "metadataPath": "linked-video-metadata/BV1uCKa6RE4E.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Find X8 Ultra 7小时52分钟 2026.6.30",
+      "durationSeconds": 28399,
+      "pages": [
+        {
+          "cid": 40172390078,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Find X8 Ultra 7小时52分钟 2026.6.30",
+          "duration": 28399,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001olko3q5xz0eb2qme6vy2tpr7ib_firsti.jpg",
+          "ctime": 1784655737
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1v5336QEkJ",
+      "links": [
+        "https://www.bilibili.com/video/BV1v5336QEkJ/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v5336QEkJ",
+      "metadataPath": "linked-video-metadata/BV1v5336QEkJ.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 三星S26 6小时40分钟 2026.4.29",
+      "durationSeconds": 24115,
+      "pages": [
+        {
+          "cid": 40296841356,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Samsung S26 6小时40分钟 2026.4.29",
+          "duration": 24115,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001ndu8v23yz8nh2iqfoceeeqod2b_firsti.jpg",
+          "ctime": 1785004523
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1wMga6WEfT",
+      "links": [
+        "https://www.bilibili.com/video/BV1wMga6WEfT/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wMga6WEfT",
+      "metadataPath": "linked-video-metadata/BV1wMga6WEfT.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Realme GT8 9小时4分钟 2026.5.20",
+      "durationSeconds": 32697,
+      "pages": [
+        {
+          "cid": 40235761971,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Realme GT8 9小时4分钟 2026.5.20",
+          "duration": 32697,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000ei1bajvup2ma2thdtcbsmmkeyb_firsti.jpg",
+          "ctime": 1784859100
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1wMga6WEfg",
+      "links": [
+        "https://www.bilibili.com/video/BV1wMga6WEfg/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wMga6WEfg",
+      "metadataPath": "linked-video-metadata/BV1wMga6WEfg.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Redmagic 11 Pro 11小时21分钟 2026.5.21",
+      "durationSeconds": 40933,
+      "pages": [
+        {
+          "cid": 40235762839,
+          "page": 1,
+          "from": "vupload",
+          "part": "Redmagic11Pro_2026-05-21 10-16-11_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_0000157v7mx4ap2sc1zpwf1p08ykpnb_firsti.jpg",
+          "ctime": 1784859035
+        },
+        {
+          "cid": 40237007843,
+          "page": 2,
+          "from": "vupload",
+          "part": "Redmagic11Pro_2026-05-21 10-16-11_第2段_剩余",
+          "duration": 5532,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001iyt05fx3l6mc2q370hkpcyfzlb_firsti.jpg",
+          "ctime": 1784859035
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1wkgU6NEHf",
+      "links": [
+        "https://www.bilibili.com/video/BV1wkgU6NEHf/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wkgU6NEHf",
+      "metadataPath": "linked-video-metadata/BV1wkgU6NEHf.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 Find X9s Pro 9小时13分钟 2026.7.3",
+      "durationSeconds": 33204,
+      "pages": [
+        {
+          "cid": 40193756837,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 Find X9s Pro 9小时13分钟 2026.7.3",
+          "duration": 33204,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002om575xhu1otd2pw2zmtbxo58nb_firsti.jpg",
+          "ctime": 1784762538
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1yu376JEFE",
+      "links": [
+        "https://www.bilibili.com/video/BV1yu376JEFE/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yu376JEFE",
+      "metadataPath": "linked-video-metadata/BV1yu376JEFE.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米15 7小时2分钟 2026.6.10",
+      "durationSeconds": 25487,
+      "pages": [
+        {
+          "cid": 40306019771,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 小米15 7小时2分钟 2026.6.10",
+          "duration": 25487,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002l8acxi0n203a2lvk3jti4b47rb_firsti.jpg",
+          "ctime": 1785045519
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1yu376nEim",
+      "links": [
+        "https://www.bilibili.com/video/BV1yu376nEim/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yu376nEim",
+      "metadataPath": "linked-video-metadata/BV1yu376nEim.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 小米17 Pro Max 8小时56分钟 2026.5.8",
+      "durationSeconds": 32235,
+      "pages": [
+        {
+          "cid": 40312898208,
+          "page": 1,
+          "from": "vupload",
+          "part": "xiaomi17pm_2026-05-08 12-30-18_已打码",
+          "duration": 32235,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000zyncagp0hwqf20jnuvc5saslqb_firsti.jpg",
+          "ctime": 1785059920
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1yye26tE7s",
+      "links": [
+        "https://www.bilibili.com/video/BV1yye26tE7s/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yye26tE7s",
+      "metadataPath": "linked-video-metadata/BV1yye26tE7s.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iPhone18 Pro 7小时50分钟 2026.9.15",
+      "durationSeconds": 28227,
+      "pages": [
+        {
+          "cid": 42005235120,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iPhone18 Pro 7小时50分钟 2026.9.15",
+          "duration": 28227,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00001x52zgyinv5h72n6aczm7xo7afb_firsti.jpg",
+          "ctime": 1789740784
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1z83G6hEAj",
+      "links": [
+        "https://www.bilibili.com/video/BV1z83G6hEAj/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z83G6hEAj",
+      "metadataPath": "linked-video-metadata/BV1z83G6hEAj.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 荣耀WIN RT 12小时6分钟 2026.7.1",
+      "durationSeconds": 43674,
+      "pages": [
+        {
+          "cid": 40291795077,
+          "page": 1,
+          "from": "vupload",
+          "part": "WinRT_2026-07-01 11-00-41_第1段_9小时50分",
+          "duration": 35401,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003n33f9adxslb82a0kadw2vohg7b_firsti.jpg",
+          "ctime": 1784991263
+        },
+        {
+          "cid": 40292059322,
+          "page": 2,
+          "from": "vupload",
+          "part": "WinRT_2026-07-01 11-00-41_第2段_剩余",
+          "duration": 8273,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000016fqrw8k6ecb823y748onf4yu5b_firsti.jpg",
+          "ctime": 1784991263
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    },
+    {
+      "bvid": "BV1zGgX63Emo",
+      "links": [
+        "https://www.bilibili.com/video/BV1zGgX63Emo/"
+      ],
+      "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zGgX63Emo",
+      "metadataPath": "linked-video-metadata/BV1zGgX63Emo.json",
+      "apiCode": 0,
+      "title": "极客湾手机续航测试5.0全程录像 iQOO 15T 9小时51分钟 2026.7.10",
+      "durationSeconds": 35477,
+      "pages": [
+        {
+          "cid": 40322731074,
+          "page": 1,
+          "from": "vupload",
+          "part": "极客湾手机续航测试5.0全程录像 iQOO 15T 9小时51分钟 2026.7.10",
+          "duration": 35477,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 1920,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000o9h9vh6ippvg2npq3wpn0drunb_firsti.jpg",
+          "ctime": 1785084228
+        }
+      ],
+      "downloadFlag": 1,
+      "videoStreamCaptured": false
+    }
+  ]
+}

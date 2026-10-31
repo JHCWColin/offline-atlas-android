@@ -1,0 +1,1478 @@
+{
+  "engine": "150.0.7871.187",
+  "title": "ModelDial Radar | Model benchmark rankings",
+  "bodyLength": 4621,
+  "buttons": [
+    {
+      "text": "交流群",
+      "action": null,
+      "axis": null,
+      "title": "",
+      "aria": "加入交流群"
+    },
+    {
+      "text": "重试",
+      "action": null,
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "分享榜单",
+      "action": "share-ranking",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "新模型实测 · 3gpt-6.1-terra · k3.1-pro · MiniMax-M3.1-Flash查看全部新模型 +",
+      "action": "toggle-news",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "较上代 +14.15 分",
+      "action": "generation",
+      "axis": "overall",
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "分享",
+      "action": "share-model",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-6.1-terra max"
+    },
+    {
+      "text": "较上代 +8.00 分",
+      "action": "generation",
+      "axis": "overall",
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "分享",
+      "action": "share-model",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 k3.1-pro max"
+    },
+    {
+      "text": "较上代 +20.65 分",
+      "action": "generation",
+      "axis": "overall",
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "分享",
+      "action": "share-model",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 MiniMax-M3.1-Flash max"
+    },
+    {
+      "text": "综合",
+      "action": "axis",
+      "axis": null,
+      "title": "",
+      "aria": "综合"
+    },
+    {
+      "text": "后端工程",
+      "action": "axis",
+      "axis": null,
+      "title": "",
+      "aria": "后端工程"
+    },
+    {
+      "text": "前端交互",
+      "action": "axis",
+      "axis": null,
+      "title": "",
+      "aria": "前端交互"
+    },
+    {
+      "text": "知识推理",
+      "action": "axis",
+      "axis": null,
+      "title": "",
+      "aria": "知识推理"
+    },
+    {
+      "text": "视觉审美",
+      "action": "axis",
+      "axis": null,
+      "title": "",
+      "aria": "视觉审美"
+    },
+    {
+      "text": "可维护性",
+      "action": "axis",
+      "axis": null,
+      "title": "",
+      "aria": "可维护性"
+    },
+    {
+      "text": "榜单",
+      "action": "view",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "表现与消耗",
+      "action": "view",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "全部提供商",
+      "action": "select-menu",
+      "axis": null,
+      "title": "",
+      "aria": "提供商"
+    },
+    {
+      "text": "全部提供商✓",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Anthropic",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "DeepSeek",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Doubao",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Google",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Tencent Hunyuan",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Meta",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "MiniMax",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Moonshot",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "NVIDIA",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "OpenAI",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "其他",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Qwen",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "StepFun",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "xAI",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Xiaomi MiMo",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Zhipu",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "×",
+      "action": "close-ranking-menu",
+      "axis": null,
+      "title": "",
+      "aria": "关闭排名设置"
+    },
+    {
+      "text": "按得分展示各模型得分最高的实测档位。✓",
+      "action": "ranking-mode",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "质量优先以得分为主，适度考虑评测耗时。",
+      "action": "ranking-mode",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "得分与耗时平衡兼顾得分与评测任务完成时间。",
+      "action": "ranking-mode",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "评测耗时优先更看重评测任务完成时间。",
+      "action": "ranking-mode",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "参考费用",
+      "action": "select-menu",
+      "axis": null,
+      "title": "",
+      "aria": "消耗单位"
+    },
+    {
+      "text": "参考费用✓",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Token 用量",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "综合↓",
+      "action": "axis-sort",
+      "axis": null,
+      "title": "按综合得分从低到高排序",
+      "aria": "按综合得分从低到高排序"
+    },
+    {
+      "text": "后端工程↕",
+      "action": "axis-sort",
+      "axis": null,
+      "title": "按后端工程得分从高到低排序",
+      "aria": "按后端工程得分从高到低排序"
+    },
+    {
+      "text": "前端交互↕",
+      "action": "axis-sort",
+      "axis": null,
+      "title": "按前端交互得分从高到低排序",
+      "aria": "按前端交互得分从高到低排序"
+    },
+    {
+      "text": "知识推理↕",
+      "action": "axis-sort",
+      "axis": null,
+      "title": "按知识推理得分从高到低排序",
+      "aria": "按知识推理得分从高到低排序"
+    },
+    {
+      "text": "视觉审美↕",
+      "action": "axis-sort",
+      "axis": null,
+      "title": "按视觉审美得分从高到低排序",
+      "aria": "按视觉审美得分从高到低排序"
+    },
+    {
+      "text": "可维护性↕",
+      "action": "axis-sort",
+      "axis": null,
+      "title": "按可维护性得分从高到低排序",
+      "aria": "按可维护性得分从高到低排序"
+    },
+    {
+      "text": "参考费用",
+      "action": "select-menu",
+      "axis": null,
+      "title": "",
+      "aria": "消耗单位"
+    },
+    {
+      "text": "参考费用✓",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "Token 用量",
+      "action": "select-option",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "max2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "claude-opus-5-5 · max · 2 个档位",
+      "aria": "claude-opus-5-5 · max · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 claude-opus-5-5 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 claude-opus-5-5 max"
+    },
+    {
+      "text": "xhigh5 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-6-astra · xhigh · 5 个档位",
+      "aria": "gpt-6-astra · xhigh · 5 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-6-astra 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-6-astra xhigh"
+    },
+    {
+      "text": "max3 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "claude-fable-5-1 · max · 3 个档位",
+      "aria": "claude-fable-5-1 · max · 3 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 claude-fable-5-1 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 claude-fable-5-1 max"
+    },
+    {
+      "text": "max5 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-6.1-sol · max · 5 个档位",
+      "aria": "gpt-6.1-sol · max · 5 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-6.1-sol 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-6.1-sol max"
+    },
+    {
+      "text": "xhigh",
+      "action": "expand",
+      "axis": null,
+      "title": "claude-sonnet-5-5 · xhigh · 查看成绩",
+      "aria": "claude-sonnet-5-5 · xhigh · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 claude-sonnet-5-5 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 claude-sonnet-5-5 xhigh"
+    },
+    {
+      "text": "max3 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "claude-opus-5 · max · 3 个档位",
+      "aria": "claude-opus-5 · max · 3 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 claude-opus-5 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 claude-opus-5 max"
+    },
+    {
+      "text": "max4 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "muse-wonder · max · 4 个档位",
+      "aria": "muse-wonder · max · 4 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 muse-wonder 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 muse-wonder max"
+    },
+    {
+      "text": "max5 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-6.1-terra · max · 5 个档位",
+      "aria": "gpt-6.1-terra · max · 5 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-6.1-terra 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-6.1-terra max"
+    },
+    {
+      "text": "max2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "k3.1-pro · max · 2 个档位",
+      "aria": "k3.1-pro · max · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 k3.1-pro 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 k3.1-pro max"
+    },
+    {
+      "text": "high",
+      "action": "expand",
+      "axis": null,
+      "title": "Gemini 4 Argon · high · 查看成绩",
+      "aria": "Gemini 4 Argon · high · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 Gemini 4 Argon 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 Gemini 4 Argon high"
+    },
+    {
+      "text": "xhigh5 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-6-sol · xhigh · 5 个档位",
+      "aria": "gpt-6-sol · xhigh · 5 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-6-sol 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-6-sol xhigh"
+    },
+    {
+      "text": "high2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "grok-4.7 · high · 2 个档位",
+      "aria": "grok-4.7 · high · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 grok-4.7 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 grok-4.7 high"
+    },
+    {
+      "text": "xhigh2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "grok-4.6 · xhigh · 2 个档位",
+      "aria": "grok-4.6 · xhigh · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 grok-4.6 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 grok-4.6 xhigh"
+    },
+    {
+      "text": "xhigh3 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "claude-opus-4-8 · xhigh · 3 个档位",
+      "aria": "claude-opus-4-8 · xhigh · 3 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 claude-opus-4-8 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 claude-opus-4-8 xhigh"
+    },
+    {
+      "text": "max3 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "deepseek-v4.1-flash-1017 · max · 3 个档位",
+      "aria": "deepseek-v4.1-flash-1017 · max · 3 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 deepseek-v4.1-flash-1017 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 deepseek-v4.1-flash-1017 max"
+    },
+    {
+      "text": "max5 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-5.6-sol · max · 5 个档位",
+      "aria": "gpt-5.6-sol · max · 5 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-5.6-sol 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-5.6-sol max"
+    },
+    {
+      "text": "max3 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "MiniMax-M3.1-Flash · max · 3 个档位",
+      "aria": "MiniMax-M3.1-Flash · max · 3 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 MiniMax-M3.1-Flash 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 MiniMax-M3.1-Flash max"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "muse-spark-1.3 · default · 查看成绩",
+      "aria": "muse-spark-1.3 · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 muse-spark-1.3 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 muse-spark-1.3 default"
+    },
+    {
+      "text": "high",
+      "action": "expand",
+      "axis": null,
+      "title": "k3 · high · 查看成绩",
+      "aria": "k3 · high · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 k3 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 k3 high"
+    },
+    {
+      "text": "max2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "glm-5.3 · max · 2 个档位",
+      "aria": "glm-5.3 · max · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 glm-5.3 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 glm-5.3 max"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "mimo-v2.6-pro · default · 查看成绩",
+      "aria": "mimo-v2.6-pro · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 mimo-v2.6-pro 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 mimo-v2.6-pro default"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "space-bunny · default · 查看成绩",
+      "aria": "space-bunny · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 space-bunny 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 space-bunny default"
+    },
+    {
+      "text": "max",
+      "action": "expand",
+      "axis": null,
+      "title": "MiniMax-M3.1-Flash-Preview · max · 查看成绩",
+      "aria": "MiniMax-M3.1-Flash-Preview · max · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 MiniMax-M3.1-Flash-Preview 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 MiniMax-M3.1-Flash-Preview max"
+    },
+    {
+      "text": "max2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "deepseek-v4.1-flash · max · 2 个档位",
+      "aria": "deepseek-v4.1-flash · max · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 deepseek-v4.1-flash 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 deepseek-v4.1-flash max"
+    },
+    {
+      "text": "high",
+      "action": "expand",
+      "axis": null,
+      "title": "hy4-preview · high · 查看成绩",
+      "aria": "hy4-preview · high · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 hy4-preview 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 hy4-preview high"
+    },
+    {
+      "text": "max3 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-5.6-terra · max · 3 个档位",
+      "aria": "gpt-5.6-terra · max · 3 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-5.6-terra 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-5.6-terra max"
+    },
+    {
+      "text": "xhigh",
+      "action": "expand",
+      "axis": null,
+      "title": "claude-haiku-5-5 · xhigh · 查看成绩",
+      "aria": "claude-haiku-5-5 · xhigh · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 claude-haiku-5-5 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 claude-haiku-5-5 xhigh"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "step-5 · default · 查看成绩",
+      "aria": "step-5 · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 step-5 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 step-5 default"
+    },
+    {
+      "text": "max2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "deepseek-v4-pro · max · 2 个档位",
+      "aria": "deepseek-v4-pro · max · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 deepseek-v4-pro 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 deepseek-v4-pro max"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "Qwen 3.8 Flash · default · 查看成绩",
+      "aria": "Qwen 3.8 Flash · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 Qwen 3.8 Flash 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 Qwen 3.8 Flash default"
+    },
+    {
+      "text": "high",
+      "action": "expand",
+      "axis": null,
+      "title": "k2.8 · high · 查看成绩",
+      "aria": "k2.8 · high · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 k2.8 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 k2.8 high"
+    },
+    {
+      "text": "xhigh6 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-6-luna · xhigh · 6 个档位",
+      "aria": "gpt-6-luna · xhigh · 6 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-6-luna 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-6-luna xhigh"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "doubao-seed-2-1-pro · default · 查看成绩",
+      "aria": "doubao-seed-2-1-pro · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 doubao-seed-2-1-pro 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 doubao-seed-2-1-pro default"
+    },
+    {
+      "text": "high2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "deepseek-v4-flash · high · 2 个档位",
+      "aria": "deepseek-v4-flash · high · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 deepseek-v4-flash 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 deepseek-v4-flash high"
+    },
+    {
+      "text": "high",
+      "action": "expand",
+      "axis": null,
+      "title": "deepseek-v4-flash-vision-exp · high · 查看成绩",
+      "aria": "deepseek-v4-flash-vision-exp · high · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 deepseek-v4-flash-vision-exp 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 deepseek-v4-flash-vision-exp high"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "Gemini 3.8 Flash High · default · 查看成绩",
+      "aria": "Gemini 3.8 Flash High · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 Gemini 3.8 Flash High 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 Gemini 3.8 Flash High default"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "mimo-v2.6-flash · default · 查看成绩",
+      "aria": "mimo-v2.6-flash · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 mimo-v2.6-flash 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 mimo-v2.6-flash default"
+    },
+    {
+      "text": "max2 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "glm-5.3-flash · max · 2 个档位",
+      "aria": "glm-5.3-flash · max · 2 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 glm-5.3-flash 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 glm-5.3-flash max"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "Qwen 3.8 Max · default · 查看成绩",
+      "aria": "Qwen 3.8 Max · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 Qwen 3.8 Max 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 Qwen 3.8 Max default"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "Qwen 3.8 27b · default · 查看成绩",
+      "aria": "Qwen 3.8 27b · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 Qwen 3.8 27b 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 Qwen 3.8 27b default"
+    },
+    {
+      "text": "high",
+      "action": "expand",
+      "axis": null,
+      "title": "MiniMax-M3 · high · 查看成绩",
+      "aria": "MiniMax-M3 · high · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 MiniMax-M3 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 MiniMax-M3 high"
+    },
+    {
+      "text": "xhigh3 个档位",
+      "action": "expand",
+      "axis": null,
+      "title": "gpt-5.6-luna · xhigh · 3 个档位",
+      "aria": "gpt-5.6-luna · xhigh · 3 个档位"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 gpt-5.6-luna 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 gpt-5.6-luna xhigh"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "Gemini 3.7 Flash High · default · 查看成绩",
+      "aria": "Gemini 3.7 Flash High · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 Gemini 3.7 Flash High 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 Gemini 3.7 Flash High default"
+    },
+    {
+      "text": "default",
+      "action": "expand",
+      "axis": null,
+      "title": "Nemotron-3-Ultra · default · 查看成绩",
+      "aria": "Nemotron-3-Ultra · default · 查看成绩"
+    },
+    {
+      "text": "分享",
+      "action": "share-row",
+      "axis": null,
+      "title": "",
+      "aria": "分享 Nemotron-3-Ultra 的成绩"
+    },
+    {
+      "text": "+加入对比",
+      "action": "toggle",
+      "axis": null,
+      "title": "",
+      "aria": "加入对比 Nemotron-3-Ultra default"
+    },
+    {
+      "text": "选择模型对比",
+      "action": "pick",
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "交流群",
+      "action": null,
+      "axis": null,
+      "title": "",
+      "aria": "加入交流群"
+    },
+    {
+      "text": "重试",
+      "action": null,
+      "axis": null,
+      "title": "",
+      "aria": null
+    },
+    {
+      "text": "隐私",
+      "action": null,
+      "axis": null,
+      "title": "",
+      "aria": null
+    }
+  ],
+  "inputs": [
+    {
+      "placeholder": "搜索模型或提供商",
+      "type": "search"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox"
+    }
+  ],
+  "interactions": [
+    {
+      "type": "axis",
+      "text": "综合",
+      "axis": null,
+      "url": "http://127.0.0.1:18092/radar?axis=overall",
+      "bodyLength": 4621
+    },
+    {
+      "type": "axis",
+      "text": "后端工程",
+      "axis": null,
+      "url": "http://127.0.0.1:18092/radar?axis=backend",
+      "bodyLength": 4568
+    },
+    {
+      "type": "axis",
+      "text": "前端交互",
+      "axis": null,
+      "url": "http://127.0.0.1:18092/radar?axis=frontend",
+      "bodyLength": 4589
+    },
+    {
+      "type": "axis",
+      "text": "知识推理",
+      "axis": null,
+      "url": "http://127.0.0.1:18092/radar?axis=knowledge",
+      "bodyLength": 4581
+    },
+    {
+      "type": "axis",
+      "text": "视觉审美",
+      "axis": null,
+      "url": "http://127.0.0.1:18092/radar?axis=aesthetic",
+      "bodyLength": 4199
+    },
+    {
+      "type": "axis",
+      "text": "可维护性",
+      "axis": null,
+      "url": "http://127.0.0.1:18092/radar?axis=maintainability",
+      "bodyLength": 4192
+    },
+    {
+      "type": "chart",
+      "url": "http://127.0.0.1:18092/radar?axis=overall&view=cost",
+      "canvas": 0,
+      "svg": 21
+    },
+    {
+      "type": "search",
+      "value": "claude",
+      "bodyLength": 902
+    },
+    {
+      "type": "language",
+      "url": "http://127.0.0.1:18092/en/radar?axis=overall&view=cost",
+      "lang": "en"
+    }
+  ],
+  "missing": [],
+  "errors": [],
+  "pageErrors": [],
+  "requests": [
+    "http://127.0.0.1:18092/radar",
+    "http://127.0.0.1:18092/_next/static/media/geist_latin-s.p.3rd3ws2mg35i0.woff2",
+    "http://127.0.0.1:18092/_next/static/media/geist_mono_latin-s.p.3f30ggp2vw8zj.woff2",
+    "http://127.0.0.1:18092/_next/static/chunks/3loroau4mh8mu.css",
+    "http://127.0.0.1:18092/google-analytics.74d2b902d2ce.js",
+    "http://127.0.0.1:18092/overview/styles-base.css?v=3d424d66429d27b9",
+    "http://127.0.0.1:18092/overview/product-evaluations.css?v=349fd620fb9fcaeb",
+    "http://127.0.0.1:18092/overview/styles-boards.css?v=d7eaefb72070d4e1",
+    "http://127.0.0.1:18092/overview/styles-radar.css?v=c227f865a87052c1",
+    "http://127.0.0.1:18092/overview/styles-table.css?v=65548979de662224",
+    "http://127.0.0.1:18092/overview/styles-charts.css?v=fb71813fac691cbd",
+    "http://127.0.0.1:18092/overview/styles-content.css?v=5ce8505ec434ac24",
+    "http://127.0.0.1:18092/overview/styles-design-radar.css?v=bf30f19e3fe5e63d",
+    "http://127.0.0.1:18092/overview/assets/openai-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/moonshot-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/minimax-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/anthropic-lobe.svg",
+    "http://127.0.0.1:18092/_next/static/chunks/3ivcc6t1s04dh.js",
+    "http://127.0.0.1:18092/_next/static/chunks/2i51e627rllld.js",
+    "http://127.0.0.1:18092/_next/static/chunks/434uqaej0s3tu.js",
+    "http://127.0.0.1:18092/_next/static/chunks/2hbdid8j3qoom.js",
+    "http://127.0.0.1:18092/_next/static/chunks/turbopack-1xphq3epm82tk.js",
+    "http://127.0.0.1:18092/_next/static/chunks/453cd1tlxz5wi.js",
+    "http://127.0.0.1:18092/_next/static/chunks/0pnip318mboby.js",
+    "http://127.0.0.1:18092/_next/static/chunks/3e-9_4_bj3fiv.js",
+    "http://127.0.0.1:18092/_next/static/chunks/0l7g9u36fbsqr.js",
+    "http://127.0.0.1:18092/_next/static/chunks/0y-j15lwono7c.js",
+    "http://127.0.0.1:18092/overview/assets/meta-mono-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/google-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/xai-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/deepseek-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/zhipu-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/mimo-official.png",
+    "http://127.0.0.1:18092/overview/assets/unknown-mark.svg",
+    "http://127.0.0.1:18092/overview/assets/hunyuan-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/stepfun-official-transparent.png",
+    "http://127.0.0.1:18092/overview/assets/qwen-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/doubao-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/nvidia-lobe.svg",
+    "http://127.0.0.1:18092/overview/assets/geist-latin.woff2",
+    "http://127.0.0.1:18092/brand/modeldial-b1-micro-32.svg",
+    "https://reference.modeldial.com/community/current.json",
+    "http://127.0.0.1:18092/_next/static/chunks/290_ava5gcb3o.js",
+    "http://127.0.0.1:18092/data/overview.json",
+    "https://reference.modeldial.com/model-display-names/current.json",
+    "https://reference.modeldial.com/community/images/6281c8003294c902f5be99b2a1224a3cbf4010991eed67d37056995b1c77b5cf.png",
+    "http://127.0.0.1:18092/en/radar?axis=overall&view=cost"
+  ],
+  "passed": true
+}
